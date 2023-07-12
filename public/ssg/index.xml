@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Static Site Generators on Jamstack Themes</title>
+    <link>/ssg/</link>
+    <description>Recent content in Static Site Generators on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/ssg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11ty</title>
+      <link>/ssg/11ty/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/11ty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astro</title>
+      <link>/ssg/astro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/astro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brunch</title>
+      <link>/ssg/brunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/brunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docusaurus</title>
+      <link>/ssg/docusaurus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/docusaurus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy</title>
+      <link>/ssg/eleventy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/eleventy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby</title>
+      <link>/ssg/gatsby/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/gatsby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gridsome</title>
+      <link>/ssg/gridsome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/gridsome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexo</title>
+      <link>/ssg/hexo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/hexo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>/ssg/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>/ssg/jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jigsaw</title>
+      <link>/ssg/jigsaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/jigsaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metalsmith</title>
+      <link>/ssg/metalsmith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/metalsmith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middleman</title>
+      <link>/ssg/middleman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/middleman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mkdocs</title>
+      <link>/ssg/mkdocs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/mkdocs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next</title>
+      <link>/ssg/next/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/next/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuxt</title>
+      <link>/ssg/nuxt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/nuxt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pelican</title>
+      <link>/ssg/pelican/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/pelican/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Platframe</title>
+      <link>/ssg/platframe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/platframe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sapper</title>
+      <link>/ssg/sapper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/sapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scully</title>
+      <link>/ssg/scully/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/scully/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statiq</title>
+      <link>/ssg/statiq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/statiq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sveltekit</title>
+      <link>/ssg/sveltekit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/sveltekit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unibit</title>
+      <link>/ssg/unibit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/unibit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vuepress</title>
+      <link>/ssg/vuepress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ssg/vuepress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

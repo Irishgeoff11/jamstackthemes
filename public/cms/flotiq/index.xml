@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flotiq on Jamstack Themes</title>
+    <link>/cms/flotiq/</link>
+    <description>Recent content in Flotiq on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/flotiq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flotiq Gatsby Blog 1 – Gradient</title>
+      <link>/theme/gatsby-flotiq-blog-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-blog-1/</guid>
+      <description>Flotiq gatsby starter for blog The Flotiq blog is a modern headless CMS blog starter for businesses, freelancers or for personal uses.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Blog 2 – Modern</title>
+      <link>/theme/gatsby-flotiq-blog-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-blog-2/</guid>
+      <description>Flotiq gatsby starter for blog A flexible &amp;amp; minimalistic starter for personal or business purposes.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Event 1 – Monthly View Calendar</title>
+      <link>/theme/gatsby-flotiq-event-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-event-1/</guid>
+      <description>Flotiq gatsby starter for event calendar Power your event with Flotiq for free.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Event 2 – Weekly View Calendar</title>
+      <link>/theme/gatsby-flotiq-event-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-event-2/</guid>
+      <description>Flotiq gatsby starter for event calendar Highlight your event with a better view.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Portfolio 1 – Creator</title>
+      <link>/theme/gatsby-flotiq-portfolio-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-portfolio-1/</guid>
+      <description>Flotiq gatsby starter for projects portfolio The Flotiq portfolio starter is a perfect way to create a website if you don&amp;rsquo;t want to start from scratch.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Portfolio 2 – Monochrome</title>
+      <link>/theme/gatsby-flotiq-portfolio-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-portfolio-2/</guid>
+      <description>Flotiq gatsby starter for projects portfolio A modern, clean design can be customized and applied for a wide range of purposes, with a stunning landing page design.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Recipe 1 – Black and White Classic</title>
+      <link>/theme/gatsby-flotiq-recipe-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-recipe-1/</guid>
+      <description>Flotiq gatsby starter for recipes catalogue We introduce you to a recipe website with a modern and attractive layout.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Recipe 2 – All you can eat</title>
+      <link>/theme/gatsby-flotiq-recipe-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-recipe-2/</guid>
+      <description>Flotiq gatsby starter for recipes catalogue This template is focused on easy-to-read recipe articles that prioritize what users are looking for - ingredients and directions.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Shop 1 – Merch Store</title>
+      <link>/theme/gatsby-flotiq-shop-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-shop-1/</guid>
+      <description>Flotiq gatsby starter for shop Merch Store is the fabulous Flotiq starter for selling merch, clothing, and other corporate goods.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Shop 2 – Green Shop</title>
+      <link>/theme/gatsby-flotiq-shop-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-shop-2/</guid>
+      <description>Flotiq gatsby starter for shop We want to introduce you to the Flotiq E-commerce starter.</description>
+    </item>
+    
+  </channel>
+</rss>

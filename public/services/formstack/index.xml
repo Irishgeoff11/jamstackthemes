@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formstack on Jamstack Themes</title>
+    <link>/services/formstack/</link>
+    <description>Recent content in Formstack on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/services/formstack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RG Portfolio</title>
+      <link>/theme/rg-portfolio/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/rg-portfolio/</guid>
+      <description>A simple starter kit for Gatsby In this starter, you can easily manage your content from contentful CMS.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docusaurus on Jamstack Themes</title>
+    <link>/ssg/docusaurus/</link>
+    <description>Recent content in Docusaurus on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/ssg/docusaurus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docusaurus Theme No Style</title>
+      <link>/theme/docusaurus-theme-no-style/</link>
+      <pubDate>Sun, 17 May 2020 18:24:48 +0000</pubDate>
+      
+      <guid>/theme/docusaurus-theme-no-style/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

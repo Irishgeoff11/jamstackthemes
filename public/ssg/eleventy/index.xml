@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eleventy on Jamstack Themes</title>
+    <link>/ssg/eleventy/</link>
+    <description>Recent content in Eleventy on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/ssg/eleventy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bliss</title>
+      <link>/theme/11ty-bliss/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-bliss/</guid>
+      <description>Bliss - Blog Template For Eleventy Bliss is a single-column blog template for Eleventy with strong focus on simplicity without sacrificing functionality.</description>
+    </item>
+    
+    <item>
+      <title>Eleventy Satisfactory</title>
+      <link>/theme/eleventy-satisfactory/</link>
+      <pubDate>Tue, 24 Jan 2023 11:43:52 +0000</pubDate>
+      
+      <guid>/theme/eleventy-satisfactory/</guid>
+      <description>Eleventy Satisfactory Blog Theme An opinionated Eleventy blog theme making use of SimpleCSS, with inspiration from Hylia and minimal-mistakes.</description>
+    </item>
+    
+    <item>
+      <title>Brook</title>
+      <link>/theme/brook/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/brook/</guid>
+      <description>A clean and handcrafted Eleventy Blog Theme Designed for a hyper focused blog.</description>
+    </item>
+    
+    <item>
+      <title>Roxo | a digital agency template</title>
+      <link>/theme/roxo-eleventy/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/roxo-eleventy/</guid>
+      <description>Table of Contents Installation Main Features Support Licensing Hire Installation Add the repository into your Eleventy Project repository by git clone https://github.</description>
+    </item>
+    
+    <item>
+      <title>Eleventy Chirpy Blog Template</title>
+      <link>/theme/eleventy-chirpy-blog-template/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/eleventy-chirpy-blog-template/</guid>
+      <description>Eleventy Chirpy Blog Template Blog template inspired by the Chirpy Jekyll blog theme.</description>
+    </item>
+    
+    <item>
+      <title>Eleventy Yetty</title>
+      <link>/theme/11ty-yetty/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-yetty/</guid>
+      <description>Yet another starter kit for Eleventy Yetty is yet another Eleventy starter kit for my (&amp;amp; your) new projects.</description>
+    </item>
+    
+    <item>
+      <title>Eleventy Soft UI Design</title>
+      <link>/theme/11ty-soft-ui-design/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-soft-ui-design/</guid>
+      <description>Open-source starter built with 11ty and prismic CMS Eleventy Soft UI is an Eleventy adaptation of Soft UI Design System (a user-friendly and beautiful design system based on Bootstrap 5), including a Blog system that uses Prismic CMS for content management.</description>
+    </item>
+    
+    <item>
+      <title>11straps</title>
+      <link>/theme/11straps/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11straps/</guid>
+      <description>A combination of Eleventy and Bootstrap 5 11straps combines static site generation via Eleventy and frontend styling via Bootstrap 5.</description>
+    </item>
+    
+    <item>
+      <title>Fernfolio</title>
+      <link>/theme/fernfolio/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/fernfolio/</guid>
+      <description>🤔 What is this? An Eleventy theme designed to simplify the process of deploying a beautiful portfolio and blog.</description>
+    </item>
+    
+    <item>
+      <title>11ty Landing Page</title>
+      <link>/theme/11ty-landing-page/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-landing-page/</guid>
+      <description>11ty Landing Page A simple landing page starter template built with 11ty and Tailwind CSS.</description>
+    </item>
+    
+    <item>
+      <title>Eleventy &#43; Stylus Blog Theme - Purple</title>
+      <link>/theme/eleventy-stylus-blog-theme/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/eleventy-stylus-blog-theme/</guid>
+      <description>Eleventy + Stylus Blog theme A theme repository that contains a blog built with Eleventy and Stylus</description>
+    </item>
+    
+    <item>
+      <title>Eleventy Duo</title>
+      <link>/theme/eleventy-duo/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/eleventy-duo/</guid>
+      <description>A minimal and beautiful Eleventy theme for personal blogs Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.</description>
+    </item>
+    
+    <item>
+      <title>Vredeburg</title>
+      <link>/theme/vredeburg/</link>
+      <pubDate>Mon, 12 Oct 2020 00:14:00 +0000</pubDate>
+      
+      <guid>/theme/vredeburg/</guid>
+      <description>Vredeburg A simple starter project to create a blog using Eleventy and Tailwind CSS.</description>
+    </item>
+    
+    <item>
+      <title>Neat Starter</title>
+      <link>/theme/neat-starter/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/neat-starter/</guid>
+      <description>Neat Starter Starter Template for Netlify CMS, Eleventy, Alpine JS &amp;amp; Tailwind CSS</description>
+    </item>
+    
+    <item>
+      <title>11r</title>
+      <link>/theme/11ty-11r/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-11r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamenty</title>
+      <link>/theme/11ty-fundamenty/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-fundamenty/</guid>
+      <description>Eleventy Starter Kit. For sites that require multi-language support. Includes integration with common 3rd party services.</description>
+    </item>
+    
+    <item>
+      <title>Eleventy Starter Boilerplate</title>
+      <link>/theme/11ty-starter-boilerplate/</link>
+      <pubDate>Sun, 21 Jun 2020 14:48:50 +0000</pubDate>
+      
+      <guid>/theme/11ty-starter-boilerplate/</guid>
+      <description>Eleventy Starter Boilerplate 🚀 Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog.</description>
+    </item>
+    
+    <item>
+      <title>Dark Porfolio Theme for 11ty</title>
+      <link>/theme/dark-portfolio-template-11ty/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/dark-portfolio-template-11ty/</guid>
+      <description>The original, pure CSS template was created by W3C, you can check it out here!</description>
+    </item>
+    
+    <item>
+      <title>11tyFrame</title>
+      <link>/theme/11tyframe/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11tyframe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy Hylia Forestry</title>
+      <link>/theme/11ty-hylia-forestry/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-hylia-forestry/</guid>
+      <description>Hylia is a lightweight Eleventy starter kit with Forestry CMS pre-configured, so that you can one-click install a progressive, accessible blog in minutes.</description>
+    </item>
+    
+    <item>
+      <title>Seven</title>
+      <link>/theme/seven/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/seven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy Starter Ghost</title>
+      <link>/theme/eleventy-starter-ghost/</link>
+      <pubDate>Mon, 15 Jul 2019 11:43:52 +0000</pubDate>
+      
+      <guid>/theme/eleventy-starter-ghost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy Minimal Blog</title>
+      <link>/theme/eleventy-blog-mnml/</link>
+      <pubDate>Tue, 02 Jul 2019 13:08:30 +0000</pubDate>
+      
+      <guid>/theme/eleventy-blog-mnml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy Hylia</title>
+      <link>/theme/11ty-hylia/</link>
+      <pubDate>Tue, 11 Jun 2019 20:15:02 +0000</pubDate>
+      
+      <guid>/theme/11ty-hylia/</guid>
+      <description>A simple starter kit for Eleventy Hylia is a lightweight Eleventy starter kit with Netlify CMS pre-configured, so that you can one-click install a progressive, accessible blog in minutes.</description>
+    </item>
+    
+    <item>
+      <title>Skeleventy</title>
+      <link>/theme/skeleventy/</link>
+      <pubDate>Mon, 11 Feb 2019 15:07:16 +0000</pubDate>
+      
+      <guid>/theme/skeleventy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twenty Twentyone</title>
+      <link>/theme/twentytwentyone/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/twentytwentyone/</guid>
+      <description>A simple theme for blogging This is a simple theme for blogging that can be deployed on Netlify with a click of a button.</description>
+    </item>
+    
+    <item>
+      <title>Eleventy 2 Snipcart</title>
+      <link>/theme/11ty-demo-snipcart/</link>
+      <pubDate>Wed, 03 Oct 2018 18:24:48 +0000</pubDate>
+      
+      <guid>/theme/11ty-demo-snipcart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medium Export</title>
+      <link>/theme/medium-export/</link>
+      <pubDate>Thu, 06 Sep 2018 12:55:13 +0000</pubDate>
+      
+      <guid>/theme/medium-export/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy NetlifyCMS Boilerplate</title>
+      <link>/theme/eleventy-netlify-boilerplate/</link>
+      <pubDate>Tue, 24 Jul 2018 07:16:25 +0000</pubDate>
+      
+      <guid>/theme/eleventy-netlify-boilerplate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventyone</title>
+      <link>/theme/eleventyone/</link>
+      <pubDate>Fri, 30 Mar 2018 19:45:51 +0000</pubDate>
+      
+      <guid>/theme/eleventyone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy Base Blog</title>
+      <link>/theme/eleventy-base-blog/</link>
+      <pubDate>Mon, 15 Jan 2018 19:28:07 +0000</pubDate>
+      
+      <guid>/theme/eleventy-base-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hawksworth</title>
+      <link>/theme/hawksworx/</link>
+      <pubDate>Mon, 23 Jul 2012 11:28:15 +0000</pubDate>
+      
+      <guid>/theme/hawksworx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

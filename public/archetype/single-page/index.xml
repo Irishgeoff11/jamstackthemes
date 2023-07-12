@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single Page on Jamstack Themes</title>
+    <link>/archetype/single-page/</link>
+    <description>Recent content in Single Page on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/archetype/single-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacked Jekyll</title>
+      <link>/theme/jekyll-hacked/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hacked/</guid>
+      <description>hacked-jekyll Hacked Jekyll is a responsive, minimalistic Jekyll theme for a tiny (163.</description>
+    </item>
+    
+    <item>
+      <title>Scroll</title>
+      <link>/theme/hugo-theme-scroll/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-scroll/</guid>
+      <description>⭐ Features Responsive to screen size/shape SEO friendly Customizable Video cover [Fork Awesome Icons][fork-awesome-icons] out of the box Header logo Visual guards to guarantee readability External links JS/CSS Assets optimized (Minification, Fingerpriting, pipeline-processed into single file) git info in footer (opt-in) </description>
+    </item>
+    
+    <item>
+      <title>Chulapa</title>
+      <link>/theme/chulapa/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/chulapa/</guid>
+      <description>Welcome to Chulapa! Bootstrap 4 - Fully responsive Fontawesome 6 - v5 also supported.</description>
+    </item>
+    
+    <item>
+      <title>Biscuit</title>
+      <link>/theme/jekyll-biscuit/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-biscuit/</guid>
+      <description>Biscuit theme for Jekyll Biscuit is a single-page responsive Jekyll theme.</description>
+    </item>
+    
+    <item>
+      <title>Osprey Delight</title>
+      <link>/theme/hugo-osprey_delight/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-osprey_delight/</guid>
+      <description>Osprey Delight is the free-minded artist&amp;rsquo;s choice for a clutter-free and blazingly fast single-page portfolio.</description>
+    </item>
+    
+    <item>
+      <title>Intro.</title>
+      <link>/theme/gatsby-theme-intro/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-theme-intro/</guid>
+      <description>Intro - Personal branding theme for developers Intro is an open source Gatsby theme built specially for developers.</description>
+    </item>
+    
+    <item>
+      <title>Neumorphism</title>
+      <link>/theme/jekyll-neumorphism/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-neumorphism/</guid>
+      <description>Neumorphism This is a personal website built with Jekyll, which is based on the new Neumorphism design trend and was developed with a mobile-first approach.</description>
+    </item>
+    
+    <item>
+      <title>Dark Porfolio Theme for 11ty</title>
+      <link>/theme/dark-portfolio-template-11ty/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/dark-portfolio-template-11ty/</guid>
+      <description>The original, pure CSS template was created by W3C, you can check it out here!</description>
+    </item>
+    
+    <item>
+      <title>Jekyll-Uno-Timeline</title>
+      <link>/theme/jekyll-uno-timeline/</link>
+      <pubDate>Fri, 31 Jan 2020 06:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-uno-timeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gastby Starter Zenii</title>
+      <link>/theme/gatsby-starter-zenii/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-zenii/</guid>
+      <description>A simple one-page theme for Gatsby This theme is a lightweight starter for Gatsby that is built using Tailwindcss and uses Contentful as a CMS backend.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Absurd</title>
+      <link>/theme/gatsby-absurd/</link>
+      <pubDate>Sun, 21 Apr 2019 11:32:28 +0000</pubDate>
+      
+      <guid>/theme/gatsby-absurd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

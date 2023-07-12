@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notion on Jamstack Themes</title>
+    <link>/cms/notion/</link>
+    <description>Recent content in Notion on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/notion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next.js blog powered by Notion API</title>
+      <link>/theme/notion-blog-nextjs-coral/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/notion-blog-nextjs-coral/</guid>
+      <description>This is a Next.js blog using Notions Public API.
+Demo: https://notion-blog-nextjs-coral.</description>
+    </item>
+    
+    <item>
+      <title>Next.js Notion Starter Kit</title>
+      <link>/theme/nextjs-notion-starter-kit/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextjs-notion-starter-kit/</guid>
+      <description>Next.js Notion Starter Kit The perfect starter kit for building websites with Next.</description>
+    </item>
+    
+    <item>
+      <title>Nobelium</title>
+      <link>/theme/nobelium/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nobelium/</guid>
+      <description>Nobelium A static blog build on top of Notion and Nextjs, deployed on Vercel.</description>
+    </item>
+    
+    <item>
+      <title>Notion Blog</title>
+      <link>/theme/notion-blog/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/notion-blog/</guid>
+      <description>Notion Blog This is an example Next.js project that shows Next.</description>
+    </item>
+    
+    <item>
+      <title>ProductLog Theme</title>
+      <link>/theme/nextjs-productlog-theme/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextjs-productlog-theme/</guid>
+      <description>ProductLog Theme - NextJS, Tailwind, TypeScript ProductLog is a NextJS theme for hosting your product&amp;rsquo;s changelog.</description>
+    </item>
+    
+  </channel>
+</rss>

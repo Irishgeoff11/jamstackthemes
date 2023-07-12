@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airtable on Jamstack Themes</title>
+    <link>/cms/airtable/</link>
+    <description>Recent content in Airtable on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/airtable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Airtable listing theme for Gatsby</title>
+      <link>/theme/gatsby-airtable-listing/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-airtable-listing/</guid>
+      <description>Airtable listing theme for Gatsby Features Integration with Airtable Item details displayed in a modal with navigation (previous / next) Responsive/adaptive images via gatsby-image Uses utility-first TailwindCSS framework Responsive design (desktop / mobile) Generic newsletter form </description>
+    </item>
+    
+    <item>
+      <title>Gridsome Airtable Starter</title>
+      <link>/theme/gridsome-airtable-starter/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gridsome-airtable-starter/</guid>
+      <description>Airtable starter for Gridsome This starter is meant to act as a starting point/example for connecting Gridsome with Airtable.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Airtable Advanced Starter</title>
+      <link>/theme/gatsby-airtable-advanced-starter/</link>
+      <pubDate>Thu, 04 Jul 2019 19:41:10 +0000</pubDate>
+      
+      <guid>/theme/gatsby-airtable-advanced-starter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

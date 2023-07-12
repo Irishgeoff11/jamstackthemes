@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agency on Jamstack Themes</title>
+    <link>/archetype/agency/</link>
+    <description>Recent content in Agency on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/archetype/agency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roxo | a digital agency template</title>
+      <link>/theme/roxo-eleventy/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/roxo-eleventy/</guid>
+      <description>Table of Contents Installation Main Features Support Licensing Hire Installation Add the repository into your Eleventy Project repository by git clone https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

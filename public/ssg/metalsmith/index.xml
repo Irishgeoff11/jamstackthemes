@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metalsmith on Jamstack Themes</title>
+    <link>/ssg/metalsmith/</link>
+    <description>Recent content in Metalsmith on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/ssg/metalsmith/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Directus Metalsmith Snipcart</title>
+      <link>/theme/directus-metalsmith-snipcart/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/directus-metalsmith-snipcart/</guid>
+      <description>API-First CMS Primer with Directus&amp;rsquo; Open Source Headless CMS Learn what API-first, decoupled CMS are and how to build a web app with:</description>
+    </item>
+    
+  </channel>
+</rss>

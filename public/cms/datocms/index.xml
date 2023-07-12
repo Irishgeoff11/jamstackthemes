@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DatoCMS on Jamstack Themes</title>
+    <link>/cms/datocms/</link>
+    <description>Recent content in DatoCMS on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/datocms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gatsby Headless Multilingual</title>
+      <link>/theme/headless-gatsby-multilang/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/headless-gatsby-multilang/</guid>
+      <description>Headless Multilanguage Starter for Gatsby The most powerful multilanguage blog starter for Gatsby.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Datocms Starter</title>
+      <link>/theme/gatsby-datocms-starter/</link>
+      <pubDate>Wed, 08 May 2019 23:32:18 +0000</pubDate>
+      
+      <guid>/theme/gatsby-datocms-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vuepress Casper</title>
+      <link>/theme/vuepress-theme-casper/</link>
+      <pubDate>Sun, 26 Aug 2018 09:29:18 +0000</pubDate>
+      
+      <guid>/theme/vuepress-theme-casper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jane</title>
+      <link>/theme/hugo-theme-jane/</link>
+      <pubDate>Tue, 06 Mar 2018 11:48:50 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-jane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Portfolio</title>
+      <link>/theme/gatsby-portfolio/</link>
+      <pubDate>Fri, 01 Dec 2017 17:08:02 +0000</pubDate>
+      
+      <guid>/theme/gatsby-portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alembic</title>
+      <link>/theme/alembic/</link>
+      <pubDate>Sat, 27 Aug 2016 15:50:21 +0000</pubDate>
+      
+      <guid>/theme/alembic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

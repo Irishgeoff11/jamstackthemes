@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dashboard on Jamstack Themes</title>
+    <link>/archetype/dashboard/</link>
+    <description>Recent content in Dashboard on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/archetype/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MaterialPro Free NuxtJs Admin Template</title>
+      <link>/theme/materialpro-free-nuxtjs-template/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/materialpro-free-nuxtjs-template/</guid>
+      <description>Xtreme NextJs Free Dashboard The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want.</description>
+    </item>
+    
+    <item>
+      <title>Flexy Material Ui Admin Template</title>
+      <link>/theme/flexy-mui-free-nextjs-admin/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/flexy-mui-free-nextjs-admin/</guid>
+      <description>Flexy Material UI Dashboard Flexy Material UI Dashboard is easy to use free next js template for your next web application based on Next.</description>
+    </item>
+    
+  </channel>
+</rss>

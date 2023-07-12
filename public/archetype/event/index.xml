@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event on Jamstack Themes</title>
+    <link>/archetype/event/</link>
+    <description>Recent content in Event on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/archetype/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flotiq Gatsby Event 1 – Monthly View Calendar</title>
+      <link>/theme/gatsby-flotiq-event-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-event-1/</guid>
+      <description>Flotiq gatsby starter for event calendar Power your event with Flotiq for free.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Event 2 – Weekly View Calendar</title>
+      <link>/theme/gatsby-flotiq-event-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-event-2/</guid>
+      <description>Flotiq gatsby starter for event calendar Highlight your event with a better view.</description>
+    </item>
+    
+  </channel>
+</rss>

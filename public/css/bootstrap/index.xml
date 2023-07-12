@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bootstrap on Jamstack Themes</title>
+    <link>/css/bootstrap/</link>
+    <description>Recent content in Bootstrap on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/css/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cvless</title>
+      <link>/theme/jekyll-cvless/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cvless/</guid>
+      <description>cvless Cvless is a theme for static websites built with Jekyll.</description>
+    </item>
+    
+    <item>
+      <title>Chulapa</title>
+      <link>/theme/chulapa/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/chulapa/</guid>
+      <description>Welcome to Chulapa! Bootstrap 4 - Fully responsive Fontawesome 6 - v5 also supported.</description>
+    </item>
+    
+    <item>
+      <title>Brook</title>
+      <link>/theme/brook/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/brook/</guid>
+      <description>A clean and handcrafted Eleventy Blog Theme Designed for a hyper focused blog.</description>
+    </item>
+    
+    <item>
+      <title>Portio Hugo</title>
+      <link>/theme/portio-hugo/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/portio-hugo/</guid>
+      <description>Features Responsive Ready. Powered by Bootstrap 4. Blog Template. Well formatted code.</description>
+    </item>
+    
+    <item>
+      <title>Blogge Hugo</title>
+      <link>/theme/blogge-hugo/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/blogge-hugo/</guid>
+      <description>Features Responsive Ready. Powered by Bootstrap 4. Blog Template. Well formatted code.</description>
+    </item>
+    
+    <item>
+      <title>Roxo | a digital agency template</title>
+      <link>/theme/roxo-eleventy/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/roxo-eleventy/</guid>
+      <description>Table of Contents Installation Main Features Support Licensing Hire Installation Add the repository into your Eleventy Project repository by git clone https://github.</description>
+    </item>
+    
+    <item>
+      <title>Apsho Hugo</title>
+      <link>/theme/hugo-apsho/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-apsho/</guid>
+      <description>Features Responsive Ready. Powered by Bootstrap 4. Blog Support. Well formatted code.</description>
+    </item>
+    
+    <item>
+      <title>CoHub Hugo</title>
+      <link>/theme/hugo-cohub/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-cohub/</guid>
+      <description>Features Responsive Ready. Powered by Bootstrap 4.5. Blog Support. Well formatted code.</description>
+    </item>
+    
+    <item>
+      <title>Mr. Green</title>
+      <link>/theme/jekyll-mr-green/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mr-green/</guid>
+      <description>Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.</description>
+    </item>
+    
+    <item>
+      <title>Xtreme NextJs Free Admin Template</title>
+      <link>/theme/xtreme-free-nextjs-admin/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/xtreme-free-nextjs-admin/</guid>
+      <description>Xtreme NextJs Free Dashboard The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want.</description>
+    </item>
+    
+    <item>
+      <title>J1 Template Starter</title>
+      <link>/theme/jekyll-j1-template/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-j1-template/</guid>
+      <description>A fully configurable Jekyll Theme Fully Responsive. J1 Template supports modern web browsers on all devices for best results on PCs, Tablets, and SmartPhones.</description>
+    </item>
+    
+    <item>
+      <title>tailieubkhn convert theme</title>
+      <link>/theme/tailieubkhn/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/tailieubkhn/</guid>
+      <description>Features Use github page is backyard of your website Domain from github page will convert to your website, if it too long you will short it with tool short link in internet Easy to setup </description>
+    </item>
+    
+    <item>
+      <title>Eleventy Soft UI Design</title>
+      <link>/theme/11ty-soft-ui-design/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-soft-ui-design/</guid>
+      <description>Open-source starter built with 11ty and prismic CMS Eleventy Soft UI is an Eleventy adaptation of Soft UI Design System (a user-friendly and beautiful design system based on Bootstrap 5), including a Blog system that uses Prismic CMS for content management.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Bootstrap Theme</title>
+      <link>/theme/hugo-bootstrap/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-bootstrap/</guid>
+      <description>English · 简体中文 · 繁體中文
+Screenshots Dark Mode
+Live Preview https://hugo-theme-bootstrap.</description>
+    </item>
+    
+    <item>
+      <title>brutalist-blog</title>
+      <link>/theme/brutalist-blog/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/brutalist-blog/</guid>
+      <description>brutalist-blog brutalist-blog is a no frills, fully-responsive, hyper-minimalistic dark/light theme. The theme is heavily inspired by Mark Otto&amp;rsquo;s personal site: https://markdotto.</description>
+    </item>
+    
+    <item>
+      <title>11straps</title>
+      <link>/theme/11straps/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11straps/</guid>
+      <description>A combination of Eleventy and Bootstrap 5 11straps combines static site generation via Eleventy and frontend styling via Bootstrap 5.</description>
+    </item>
+    
+    <item>
+      <title>Enjoyment Work</title>
+      <link>/theme/jekyll-enjoyment-work/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-enjoyment-work/</guid>
+      <description>Enjoyment Work theme for Jekyll Enjoyment Work is an academic / research-focused theme that provides extensive features for note-taking and personal growth.</description>
+    </item>
+    
+    <item>
+      <title>Minimal Blog | NextJS</title>
+      <link>/theme/blog-nextjs-template/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/blog-nextjs-template/</guid>
+      <description>Features Dark Mode 🌚 Light Mode 🌞 Grid Layout 🚀 Full Responsive (Works on Galaxy fold too 😅) </description>
+    </item>
+    
+    <item>
+      <title>Pudhina Fresh</title>
+      <link>/theme/pudhina-fresh/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/pudhina-fresh/</guid>
+      <description>Minimal design based on Bootstrap 4. Showcase your projects on the masonry style project page with collapsible cards – demo.</description>
+    </item>
+    
+    <item>
+      <title>Doks</title>
+      <link>/theme/hugo-doks/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-doks/</guid>
+      <description>Build on Hyas Get all the Hyas goodness:
+Security aware Fast by default ⚡️ SEO-ready Development tools (linting, cleaning) Bootstrap framework Netlify-ready (functions, redirects, headers) Plus Full text search — using FlexSearch 🚀 Page layouts (landing page, blog, documentation layout) Dark mode — switch to a low-light UI with the click of a button And 100 scores on Google Lighthouse A+ scores on Mozilla Observatory Get started There are two main ways to get started with Doks:</description>
+    </item>
+    
+    <item>
+      <title>Dumbarton</title>
+      <link>/theme/jekyll-dumbarton/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-dumbarton/</guid>
+      <description>About Dumbarton is a jekyll theme designed for academics. It provides enough content to fully represent a full body of work but still retains a minimalistic feel.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Personal Portfolio</title>
+      <link>/theme/gatsby-starter-personal-portfolio/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-personal-portfolio/</guid>
+      <description>A minimalistic resume style Gatsby portfolio Kick off your personal site with this minimalist resume style broilerplate.</description>
+    </item>
+    
+    <item>
+      <title>Hugo-profile</title>
+      <link>/theme/hugo-profile/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-profile/</guid>
+      <description>hugo-profile (100% performance) A simple hugo theme for personal portfolio</description>
+    </item>
+    
+    <item>
+      <title>devlopr-jekyll</title>
+      <link>/theme/devlopr/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/devlopr/</guid>
+      <description>A Jekyll Theme built for Developers Devlopr is a modern Jekyll Theme built for Developers focused on speed performance &amp;amp; SEO best practices.</description>
+    </item>
+    
+    <item>
+      <title>Lone Wolf Theme</title>
+      <link>/theme/jekyll-lone-wolf-theme/</link>
+      <pubDate>Sun, 23 Aug 2020 18:13:04 +0000</pubDate>
+      
+      <guid>/theme/jekyll-lone-wolf-theme/</guid>
+      <description>Lone Wolf Theme is a simple bootstrap based jekyll theme. It is infamous for abstracting away the frontend code using Bootstrap 4 and Bootswatch wrappers to help us focus on the content and the functions.</description>
+    </item>
+    
+    <item>
+      <title>Web-Nary</title>
+      <link>/theme/hexo-webnary-template/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hexo-webnary-template/</guid>
+      <description>A Fully Customisable starter template for Hexo This template is a lightweight starter kit based on Hexo Framework.</description>
+    </item>
+    
+    <item>
+      <title>Roxo Hugo</title>
+      <link>/theme/roxo-hugo/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/roxo-hugo/</guid>
+      <description>Roxo Hugo for Hugo Roxo Hugo is a digital agency Hugo theme for creative agencies, freelancers, graphic designers, photographers.</description>
+    </item>
+    
+    <item>
+      <title>Ace documentation</title>
+      <link>/theme/ace-documentation/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/ace-documentation/</guid>
+      <description>Ace documentation theme for Hugo Ace documentation offers a feature-complete documentation theme for Hugo, powered by Bootstrap 4.</description>
+    </item>
+    
+    <item>
+      <title>Creative Theme - New</title>
+      <link>/theme/jekyll-creative-theme-new/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-creative-theme-new/</guid>
+      <description>Description Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose use.</description>
+    </item>
+    
+    <item>
+      <title>Friday Theme</title>
+      <link>/theme/jekyll-friday-theme/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-friday-theme/</guid>
+      <description>About Friday Theme is a theme for Jekyll using Bootstrap 4.</description>
+    </item>
+    
+    <item>
+      <title>Chunky Poster</title>
+      <link>/theme/hugo-theme-chunky-poster/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-chunky-poster/</guid>
+      <description>Features Multi-author Image processing Basic i18n Prism LazyLoad Commento Usage git clone https://gitlab.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll Serif</title>
+      <link>/theme/jekyll-serif/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-serif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby React Bootstrap Starter</title>
+      <link>/theme/gatsby-react-bootstrap-starter/</link>
+      <pubDate>Tue, 30 Apr 2019 23:01:02 +0000</pubDate>
+      
+      <guid>/theme/gatsby-react-bootstrap-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Redux Starter</title>
+      <link>/theme/gatsby-redux-starter/</link>
+      <pubDate>Tue, 06 Nov 2018 06:56:06 +0000</pubDate>
+      
+      <guid>/theme/gatsby-redux-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middleman Bootstrap Template</title>
+      <link>/theme/middleman-bootstrap-template/</link>
+      <pubDate>Thu, 28 Dec 2017 02:11:32 +0000</pubDate>
+      
+      <guid>/theme/middleman-bootstrap-template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter Bootstrap Netlify</title>
+      <link>/theme/gatsby-starter-bootstrap-netlify/</link>
+      <pubDate>Wed, 08 Nov 2017 01:59:41 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-bootstrap-netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Start Bootstrap Clean Blog</title>
+      <link>/theme/startbootstrap-clean-blog-jekyll/</link>
+      <pubDate>Sat, 27 Sep 2014 08:05:10 +0000</pubDate>
+      
+      <guid>/theme/startbootstrap-clean-blog-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freelancer</title>
+      <link>/theme/freelancer-theme/</link>
+      <pubDate>Sat, 19 Jul 2014 15:13:08 +0000</pubDate>
+      
+      <guid>/theme/freelancer-theme/</guid>
+      <description>Jekyll theme based on Freelancer Start Bootstrap theme</description>
+    </item>
+    
+  </channel>
+</rss>

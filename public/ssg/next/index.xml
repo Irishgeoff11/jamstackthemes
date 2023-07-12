@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Next on Jamstack Themes</title>
+    <link>/ssg/next/</link>
+    <description>Recent content in Next on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/ssg/next/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next.js Enterprise with Tailwind CSS and Radix UI</title>
+      <link>/theme/next-enterprise/</link>
+      <pubDate>Wed, 17 May 2023 20:54:10 +0000</pubDate>
+      
+      <guid>/theme/next-enterprise/</guid>
+      <description>Welcome to the Next.js Enterprise Boilerplate, an open-source template for enterprise projects!</description>
+    </item>
+    
+    <item>
+      <title>HULL</title>
+      <link>/theme/next-hull/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-hull/</guid>
+      <description>Features Utility-first CSS with Tailwind CSS Animations powered by Framer Motion Cart powered by Shopify Buy SDK Real-time inventory check for products using SWR Customizable Filtering &amp;amp; Sorting for product collections Klaviyo waitlist form for out-of-stock products Klaviyo newsletter form with opt-in field Dynamic Page Routes for custom page creation Automatic Sitemap.</description>
+    </item>
+    
+    <item>
+      <title>Flexy Material Ui Admin Template</title>
+      <link>/theme/flexy-mui-free-nextjs-admin/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/flexy-mui-free-nextjs-admin/</guid>
+      <description>Flexy Material UI Dashboard Flexy Material UI Dashboard is easy to use free next js template for your next web application based on Next.</description>
+    </item>
+    
+    <item>
+      <title>Next.js blog powered by Notion API</title>
+      <link>/theme/notion-blog-nextjs-coral/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/notion-blog-nextjs-coral/</guid>
+      <description>This is a Next.js blog using Notions Public API.
+Demo: https://notion-blog-nextjs-coral.</description>
+    </item>
+    
+    <item>
+      <title>Next.js Notion Starter Kit</title>
+      <link>/theme/nextjs-notion-starter-kit/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextjs-notion-starter-kit/</guid>
+      <description>Next.js Notion Starter Kit The perfect starter kit for building websites with Next.</description>
+    </item>
+    
+    <item>
+      <title>Nobelium</title>
+      <link>/theme/nobelium/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nobelium/</guid>
+      <description>Nobelium A static blog build on top of Notion and Nextjs, deployed on Vercel.</description>
+    </item>
+    
+    <item>
+      <title>Notion Blog</title>
+      <link>/theme/notion-blog/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/notion-blog/</guid>
+      <description>Notion Blog This is an example Next.js project that shows Next.</description>
+    </item>
+    
+    <item>
+      <title>Prezly Bea Theme</title>
+      <link>/theme/theme-nextjs-bea/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/theme-nextjs-bea/</guid>
+      <description>Deploy the example using Vercel or Netlify:
+Vercel Netlify Scripts in package.</description>
+    </item>
+    
+    <item>
+      <title>Tailwind VPN Landingpage</title>
+      <link>/theme/next-landing-vpn/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-landing-vpn/</guid>
+      <description>Tailwind VPN Landingpage - Free Landingpage Template Apps Tailwind VPN Landingpage is an open source, apps landing page template for Tailwind CSS and NextJS.</description>
+    </item>
+    
+    <item>
+      <title>Xtreme NextJs Free Admin Template</title>
+      <link>/theme/xtreme-free-nextjs-admin/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/xtreme-free-nextjs-admin/</guid>
+      <description>Xtreme NextJs Free Dashboard The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want.</description>
+    </item>
+    
+    <item>
+      <title>Materio React NextJS Admin Template Free</title>
+      <link>/theme/materio-free-react-nextjs-admin-template/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/materio-free-react-nextjs-admin-template/</guid>
+      <description>An easy to use React Next. JS Admin Template Based on MUI This is a highly customizable and developer friendly Reac Next.</description>
+    </item>
+    
+    <item>
+      <title>Next.js Ecommerce</title>
+      <link>/theme/next-ecommerce/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-ecommerce/</guid>
+      <description>Next.js Ecommerce This repo contains a work in progress Ecommerce responsive made with Next.</description>
+    </item>
+    
+    <item>
+      <title>React Storefront</title>
+      <link>/theme/next-react-storefront/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-react-storefront/</guid>
+      <description>React Storefront Motivation modern &amp;amp; fast: Project is focusing on best practices for e-commerce, like: SSR &amp;amp; ISR, image optimization.</description>
+    </item>
+    
+    <item>
+      <title>Next SaaS Starter</title>
+      <link>/theme/next-saas-starter/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-saas-starter/</guid>
+      <description>Next.js marketing website template for SaaS startups Everything you need to build a great landing page / marketing website for your startup.</description>
+    </item>
+    
+    <item>
+      <title>Next.js landing page template for SaaS products</title>
+      <link>/theme/next-startd/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-startd/</guid>
+      <description>A free Next.js TypeScript landing page template for SaaS products, online services and more.</description>
+    </item>
+    
+    <item>
+      <title>NextJS-based changelog theme for your product</title>
+      <link>/theme/productlog-nextjs-theme/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/productlog-nextjs-theme/</guid>
+      <description>ProductLog is a NextJS theme for hosting your product&amp;rsquo;s changelog Features SEO friendly Excellent Lighthouse score Mobile-friendly view Support Notion as source (Sample Notion Page) Built-in Analytics: Google Analytics, Plausible and Simple analytics Next image optimization Easy styling customization with Tailwind v2 Syntax highlighting KaTeX support </description>
+    </item>
+    
+    <item>
+      <title>Butterflies</title>
+      <link>/theme/tradly/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/tradly/</guid>
+      <description>Free NextJS + Tailwind Kit for Marketplace This theme is a almost complete e-commerce and marketplace website.</description>
+    </item>
+    
+    <item>
+      <title>ProductLog Theme</title>
+      <link>/theme/nextjs-productlog-theme/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextjs-productlog-theme/</guid>
+      <description>ProductLog Theme - NextJS, Tailwind, TypeScript ProductLog is a NextJS theme for hosting your product&amp;rsquo;s changelog.</description>
+    </item>
+    
+    <item>
+      <title>React Portfolio Template</title>
+      <link>/theme/react-portfolio-template/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/react-portfolio-template/</guid>
+      <description>A simple starter kit for Gridsome A simple, modern &amp;amp; minimal Next.</description>
+    </item>
+    
+    <item>
+      <title>GraphCMS eCommerce Storefront</title>
+      <link>/theme/graphcms-commerce/</link>
+      <pubDate>Sun, 18 Jul 2021 19:00:00 +0000</pubDate>
+      
+      <guid>/theme/graphcms-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphCMS Marketing Website</title>
+      <link>/theme/graphcms-marketing-website/</link>
+      <pubDate>Sun, 18 Jul 2021 19:00:00 +0000</pubDate>
+      
+      <guid>/theme/graphcms-marketing-website/</guid>
+      <description>reference-marketing-website A Next.js starter for creating a SaaS Marketing Website with GraphCMS</description>
+    </item>
+    
+    <item>
+      <title>Next Dev Studio</title>
+      <link>/theme/next-dev-studio/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-dev-studio/</guid>
+      <description>A small business website using Next.js and Markdown Two years ago I built my studio website using one click hugo cms, now my tech stack switched to Nextjs, so I migrated that into a Nextjs version(in three days).</description>
+    </item>
+    
+    <item>
+      <title>Next Smooth Doc</title>
+      <link>/theme/next-smooth-doc/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-smooth-doc/</guid>
+      <description>NEXTJS SMOOTH DOC A minimal doc generator based on Next.js &amp;amp; mdx.</description>
+    </item>
+    
+    <item>
+      <title>Next JS Landing Page Template with Tailwind CSS</title>
+      <link>/theme/nextjs-landing-page-template/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextjs-landing-page-template/</guid>
+      <description>Next JS Landing Page Template Free An open-source and free Next JS Landing Page Template made with React TypeScript and styled with Tailwind CSS.</description>
+    </item>
+    
+    <item>
+      <title>Minimal Blog | NextJS</title>
+      <link>/theme/blog-nextjs-template/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/blog-nextjs-template/</guid>
+      <description>Features Dark Mode 🌚 Light Mode 🌞 Grid Layout 🚀 Full Responsive (Works on Galaxy fold too 😅) </description>
+    </item>
+    
+    <item>
+      <title>Headless Neve</title>
+      <link>/theme/next-static-neve/</link>
+      <pubDate>Fri, 02 Apr 2021 16:55:17 +0000</pubDate>
+      
+      <guid>/theme/next-static-neve/</guid>
+      <description>Features Pages and Posts staticalization Images and Styles Grabing to local project Configurable Wordpress site URL Limitations few javascripts included currently TODOs add more js more test &amp;hellip; How to use Create a WordPress(v5.</description>
+    </item>
+    
+    <item>
+      <title>ChopChop Shop</title>
+      <link>/theme/commercejs-chopchop-shop/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/commercejs-chopchop-shop/</guid>
+      <description>ChopChop is a beautifully designed, elegantly developed demo store and starter kit with a premium brand that sells fine tools for thoughtful cooks.</description>
+    </item>
+    
+    <item>
+      <title>Next.js Tailwind Starter Blog</title>
+      <link>/theme/nextjs-tailwind-starter-blog/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextjs-tailwind-starter-blog/</guid>
+      <description>Tailwind Nextjs Starter Blog This is a Next.js, Tailwind CSS blogging starter template.</description>
+    </item>
+    
+    <item>
+      <title>Jamify Blog Starter</title>
+      <link>/theme/jamify-next-cms-ghost/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jamify-next-cms-ghost/</guid>
+      <description>A rich starter kit for Ghost blogs Create and publish flaring fast blogs with this Jamify blogging system.</description>
+    </item>
+    
+    <item>
+      <title>Nextjs Tailwind CSS TypeScript Starter</title>
+      <link>/theme/nextjs-tailwind-css-typescript-starter/</link>
+      <pubDate>Wed, 11 Nov 2020 10:23:28 +0000</pubDate>
+      
+      <guid>/theme/nextjs-tailwind-css-typescript-starter/</guid>
+      <description>Nextjs Tailwind CSS TypeScript Starter 🚀 Boilerplate and Starter for Next.</description>
+    </item>
+    
+    <item>
+      <title>Next.js Static Blog</title>
+      <link>/theme/next-static-blog/</link>
+      <pubDate>Wed, 28 Oct 2020 17:02:32 +0000</pubDate>
+      
+      <guid>/theme/next-static-blog/</guid>
+      <description>A simple static starter blog with Next.js, Tailwindcss, and Cosmic Headless CMS A statically generated blog built on the React framework Next.</description>
+    </item>
+    
+    <item>
+      <title>NextJS simple blog</title>
+      <link>/theme/nextjs-simple-blog/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextjs-simple-blog/</guid>
+      <description>A simple starter blog for NextJS with feedback buttons This theme is a simple blog starter kit.</description>
+    </item>
+    
+    <item>
+      <title>Next Basic Blog</title>
+      <link>/theme/next-basic-blog/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-basic-blog/</guid>
+      <description>A simple starter kit for Blog with Nextjs, Tailwindcss, Markdown Files This theme is a lightweight starter kit.</description>
+    </item>
+    
+    <item>
+      <title>Nextjs Starter Blog</title>
+      <link>/theme/nextjs-starter/</link>
+      <pubDate>Sun, 16 Aug 2020 12:37:50 +0000</pubDate>
+      
+      <guid>/theme/nextjs-starter/</guid>
+      <description>Nextjs Starter 🚀 Nextjs Starter is boilerplate code for your blog based on Next.</description>
+    </item>
+    
+    <item>
+      <title>Commerce.js Next.js Demo Store</title>
+      <link>/theme/commercejs-nextjs-demo-store/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/commercejs-nextjs-demo-store/</guid>
+      <description>An commerce storefront example built using Next.js and Commerce.js with production-ready deployment to Netlify.</description>
+    </item>
+    
+    <item>
+      <title>Nextacular</title>
+      <link>/theme/nextacular/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextacular/</guid>
+      <description>Quickly launch multi-tenant SaaS apps An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features.</description>
+    </item>
+    
+    <item>
+      <title>Planty</title>
+      <link>/theme/planty/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/planty/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

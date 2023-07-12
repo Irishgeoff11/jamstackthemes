@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firebase on Jamstack Themes</title>
+    <link>/cms/firebase/</link>
+    <description>Recent content in Firebase on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/firebase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gatsby Firebase Starter</title>
+      <link>/theme/gatsby-firebase-starter/</link>
+      <pubDate>Sat, 20 Jul 2019 08:11:06 +0000</pubDate>
+      
+      <guid>/theme/gatsby-firebase-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Firebase Hosting Starter</title>
+      <link>/theme/gatsby-firebase-hosting-starter/</link>
+      <pubDate>Wed, 03 Apr 2019 12:36:08 +0000</pubDate>
+      
+      <guid>/theme/gatsby-firebase-hosting-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Redux Firebase</title>
+      <link>/theme/gatsby-starter-redux-firebase/</link>
+      <pubDate>Thu, 15 Nov 2018 23:30:09 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-redux-firebase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

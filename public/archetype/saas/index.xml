@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SaaS on Jamstack Themes</title>
+    <link>/archetype/saas/</link>
+    <description>Recent content in SaaS on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/archetype/saas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AstroSaas</title>
+      <link>/theme/astro-astrosaas/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/astro-astrosaas/</guid>
+      <description>What&amp;rsquo;s included? 6 Demo pages Features 6 Demo Pages 10+ Sections 50+ compoinents Pages</description>
+    </item>
+    
+    <item>
+      <title>Quick Store</title>
+      <link>/theme/astro-quickstore/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/astro-quickstore/</guid>
+      <description>What&amp;rsquo;s included? Homepage Features Stylish Great color palette </description>
+    </item>
+    
+  </channel>
+</rss>

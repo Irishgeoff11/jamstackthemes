@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Jamstack Themes</title>
+    <link>/cms/wordpress/</link>
+    <description>Recent content in Wordpress on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Headless Neve</title>
+      <link>/theme/next-static-neve/</link>
+      <pubDate>Fri, 02 Apr 2021 16:55:17 +0000</pubDate>
+      
+      <guid>/theme/next-static-neve/</guid>
+      <description>Features Pages and Posts staticalization Images and Styles Grabing to local project Configurable Wordpress site URL Limitations few javascripts included currently TODOs add more js more test &amp;hellip; How to use Create a WordPress(v5.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Wordpress Typescript Scss Blog</title>
+      <link>/theme/gatsby-wordpress-typescript-scss-blog/</link>
+      <pubDate>Tue, 03 Sep 2019 17:34:27 +0000</pubDate>
+      
+      <guid>/theme/gatsby-wordpress-typescript-scss-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter Wordpress</title>
+      <link>/theme/gatsby-starter-wordpress/</link>
+      <pubDate>Sat, 03 Feb 2018 21:55:52 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-wordpress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

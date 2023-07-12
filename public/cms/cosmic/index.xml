@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cosmic on Jamstack Themes</title>
+    <link>/cms/cosmic/</link>
+    <description>Recent content in Cosmic on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/cosmic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next.js Static Blog</title>
+      <link>/theme/next-static-blog/</link>
+      <pubDate>Wed, 28 Oct 2020 17:02:32 +0000</pubDate>
+      
+      <guid>/theme/next-static-blog/</guid>
+      <description>A simple static starter blog with Next.js, Tailwindcss, and Cosmic Headless CMS A statically generated blog built on the React framework Next.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Agency Portfolio</title>
+      <link>/theme/gatsby-agency-portfolio/</link>
+      <pubDate>Mon, 13 May 2019 17:02:32 +0000</pubDate>
+      
+      <guid>/theme/gatsby-agency-portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Ecommerce</title>
+      <link>/theme/gatsby-ecommerce/</link>
+      <pubDate>Fri, 26 Apr 2019 22:45:03 +0000</pubDate>
+      
+      <guid>/theme/gatsby-ecommerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Docs App</title>
+      <link>/theme/gatsby-docs-app/</link>
+      <pubDate>Mon, 11 Feb 2019 17:12:40 +0000</pubDate>
+      
+      <guid>/theme/gatsby-docs-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmic Gatsby Starter</title>
+      <link>/theme/gatsby-cosmicjs-starter/</link>
+      <pubDate>Sun, 10 Jun 2018 19:54:17 +0000</pubDate>
+      
+      <guid>/theme/gatsby-cosmicjs-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Blog Cosmicjs</title>
+      <link>/theme/gatsby-blog-cosmicjs/</link>
+      <pubDate>Tue, 05 Jun 2018 18:40:26 +0000</pubDate>
+      
+      <guid>/theme/gatsby-blog-cosmicjs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

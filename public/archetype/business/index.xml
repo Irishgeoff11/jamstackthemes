@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Jamstack Themes</title>
+    <link>/archetype/business/</link>
+    <description>Recent content in Business on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/archetype/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AstroSaas</title>
+      <link>/theme/astro-astrosaas/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/astro-astrosaas/</guid>
+      <description>What&amp;rsquo;s included? 6 Demo pages Features 6 Demo Pages 10+ Sections 50+ compoinents Pages</description>
+    </item>
+    
+    <item>
+      <title>Quick Store</title>
+      <link>/theme/astro-quickstore/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/astro-quickstore/</guid>
+      <description>What&amp;rsquo;s included? Homepage Features Stylish Great color palette </description>
+    </item>
+    
+    <item>
+      <title>Next.js Enterprise with Tailwind CSS and Radix UI</title>
+      <link>/theme/next-enterprise/</link>
+      <pubDate>Wed, 17 May 2023 20:54:10 +0000</pubDate>
+      
+      <guid>/theme/next-enterprise/</guid>
+      <description>Welcome to the Next.js Enterprise Boilerplate, an open-source template for enterprise projects!</description>
+    </item>
+    
+    <item>
+      <title>Scroll</title>
+      <link>/theme/hugo-theme-scroll/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-scroll/</guid>
+      <description>⭐ Features Responsive to screen size/shape SEO friendly Customizable Video cover [Fork Awesome Icons][fork-awesome-icons] out of the box Header logo Visual guards to guarantee readability External links JS/CSS Assets optimized (Minification, Fingerpriting, pipeline-processed into single file) git info in footer (opt-in) </description>
+    </item>
+    
+    <item>
+      <title>AstroWind</title>
+      <link>/theme/astrowind/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/astrowind/</guid>
+      <description>🚀 AstroWind AstroWind tries to give you quick access to creating a website using Astro 2.</description>
+    </item>
+    
+    <item>
+      <title>Brook</title>
+      <link>/theme/brook/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/brook/</guid>
+      <description>A clean and handcrafted Eleventy Blog Theme Designed for a hyper focused blog.</description>
+    </item>
+    
+    <item>
+      <title>Portio Hugo</title>
+      <link>/theme/portio-hugo/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/portio-hugo/</guid>
+      <description>Features Responsive Ready. Powered by Bootstrap 4. Blog Template. Well formatted code.</description>
+    </item>
+    
+    <item>
+      <title>Blogge Hugo</title>
+      <link>/theme/blogge-hugo/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/blogge-hugo/</guid>
+      <description>Features Responsive Ready. Powered by Bootstrap 4. Blog Template. Well formatted code.</description>
+    </item>
+    
+    <item>
+      <title>Apsho Hugo</title>
+      <link>/theme/hugo-apsho/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-apsho/</guid>
+      <description>Features Responsive Ready. Powered by Bootstrap 4. Blog Support. Well formatted code.</description>
+    </item>
+    
+    <item>
+      <title>CoHub Hugo</title>
+      <link>/theme/hugo-cohub/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-cohub/</guid>
+      <description>Features Responsive Ready. Powered by Bootstrap 4.5. Blog Support. Well formatted code.</description>
+    </item>
+    
+    <item>
+      <title>Mr. Green</title>
+      <link>/theme/jekyll-mr-green/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mr-green/</guid>
+      <description>Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.</description>
+    </item>
+    
+    <item>
+      <title>Tailwind VPN Landingpage</title>
+      <link>/theme/next-landing-vpn/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-landing-vpn/</guid>
+      <description>Tailwind VPN Landingpage - Free Landingpage Template Apps Tailwind VPN Landingpage is an open source, apps landing page template for Tailwind CSS and NextJS.</description>
+    </item>
+    
+    <item>
+      <title>Next SaaS Starter</title>
+      <link>/theme/next-saas-starter/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-saas-starter/</guid>
+      <description>Next.js marketing website template for SaaS startups Everything you need to build a great landing page / marketing website for your startup.</description>
+    </item>
+    
+    <item>
+      <title>Next.js landing page template for SaaS products</title>
+      <link>/theme/next-startd/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-startd/</guid>
+      <description>A free Next.js TypeScript landing page template for SaaS products, online services and more.</description>
+    </item>
+    
+    <item>
+      <title>Butterflies</title>
+      <link>/theme/tradly/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/tradly/</guid>
+      <description>Free NextJS + Tailwind Kit for Marketplace This theme is a almost complete e-commerce and marketplace website.</description>
+    </item>
+    
+    <item>
+      <title>J1 Template Starter</title>
+      <link>/theme/jekyll-j1-template/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-j1-template/</guid>
+      <description>A fully configurable Jekyll Theme Fully Responsive. J1 Template supports modern web browsers on all devices for best results on PCs, Tablets, and SmartPhones.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Headless Multilingual</title>
+      <link>/theme/headless-gatsby-multilang/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/headless-gatsby-multilang/</guid>
+      <description>Headless Multilanguage Starter for Gatsby The most powerful multilanguage blog starter for Gatsby.</description>
+    </item>
+    
+    <item>
+      <title>GraphCMS Marketing Website</title>
+      <link>/theme/graphcms-marketing-website/</link>
+      <pubDate>Sun, 18 Jul 2021 19:00:00 +0000</pubDate>
+      
+      <guid>/theme/graphcms-marketing-website/</guid>
+      <description>reference-marketing-website A Next.js starter for creating a SaaS Marketing Website with GraphCMS</description>
+    </item>
+    
+    <item>
+      <title>11straps</title>
+      <link>/theme/11straps/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11straps/</guid>
+      <description>A combination of Eleventy and Bootstrap 5 11straps combines static site generation via Eleventy and frontend styling via Bootstrap 5.</description>
+    </item>
+    
+    <item>
+      <title>Next Dev Studio</title>
+      <link>/theme/next-dev-studio/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-dev-studio/</guid>
+      <description>A small business website using Next.js and Markdown Two years ago I built my studio website using one click hugo cms, now my tech stack switched to Nextjs, so I migrated that into a Nextjs version(in three days).</description>
+    </item>
+    
+    <item>
+      <title>11ty Landing Page</title>
+      <link>/theme/11ty-landing-page/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-landing-page/</guid>
+      <description>11ty Landing Page A simple landing page starter template built with 11ty and Tailwind CSS.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Landing Page</title>
+      <link>/theme/hugo-landing-page/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-landing-page/</guid>
+      <description>Hugo Landing Page A simple landing page starter template built with Hugo, Gulp and Tailwind CSS.</description>
+    </item>
+    
+    <item>
+      <title>Headless Neve</title>
+      <link>/theme/next-static-neve/</link>
+      <pubDate>Fri, 02 Apr 2021 16:55:17 +0000</pubDate>
+      
+      <guid>/theme/next-static-neve/</guid>
+      <description>Features Pages and Posts staticalization Images and Styles Grabing to local project Configurable Wordpress site URL Limitations few javascripts included currently TODOs add more js more test &amp;hellip; How to use Create a WordPress(v5.</description>
+    </item>
+    
+    <item>
+      <title>Cookie</title>
+      <link>/theme/jekyll-cookie/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cookie/</guid>
+      <description>Cookie - a fast and easy to deploy landing website for your next project.</description>
+    </item>
+    
+    <item>
+      <title>Gridsome Kontent Dancing Goat</title>
+      <link>/theme/gridsome-kontent-dancing-goat/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gridsome-kontent-dancing-goat/</guid>
+      <description>Gridsome Kontent Dancing Goat Dancing Goat Starter site written in Gridsome.</description>
+    </item>
+    
+    <item>
+      <title>Sapper Kontent Café</title>
+      <link>/theme/sapper-kontent-cafe/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/sapper-kontent-cafe/</guid>
+      <description>Sapper Kontent Café Website showcase for fictional café with Svelte, Sapper, and Kentico Kontent.</description>
+    </item>
+    
+    <item>
+      <title>Next.js Static Blog</title>
+      <link>/theme/next-static-blog/</link>
+      <pubDate>Wed, 28 Oct 2020 17:02:32 +0000</pubDate>
+      
+      <guid>/theme/next-static-blog/</guid>
+      <description>A simple static starter blog with Next.js, Tailwindcss, and Cosmic Headless CMS A statically generated blog built on the React framework Next.</description>
+    </item>
+    
+    <item>
+      <title>Yet Another Theme (YAT)</title>
+      <link>/theme/jekyll-theme-yat/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-yat/</guid>
+      <description>What&amp;rsquo;s new? 🎨 Yet another theme for elegant writers with modern flat style.</description>
+    </item>
+    
+    <item>
+      <title>Fundamenty</title>
+      <link>/theme/11ty-fundamenty/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-fundamenty/</guid>
+      <description>Eleventy Starter Kit. For sites that require multi-language support. Includes integration with common 3rd party services.</description>
+    </item>
+    
+    <item>
+      <title>Nextacular</title>
+      <link>/theme/nextacular/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextacular/</guid>
+      <description>Quickly launch multi-tenant SaaS apps An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll Serif</title>
+      <link>/theme/jekyll-serif/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-serif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gastby Starter Zenii</title>
+      <link>/theme/gatsby-starter-zenii/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-zenii/</guid>
+      <description>A simple one-page theme for Gatsby This theme is a lightweight starter for Gatsby that is built using Tailwindcss and uses Contentful as a CMS backend.</description>
+    </item>
+    
+  </channel>
+</rss>

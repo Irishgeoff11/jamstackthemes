@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vue Js on Jamstack Themes</title>
+    <link>/css/vue-js/</link>
+    <description>Recent content in Vue Js on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/css/vue-js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MaterialPro Free NuxtJs Admin Template</title>
+      <link>/theme/materialpro-free-nuxtjs-template/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/materialpro-free-nuxtjs-template/</guid>
+      <description>Xtreme NextJs Free Dashboard The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want.</description>
+    </item>
+    
+  </channel>
+</rss>

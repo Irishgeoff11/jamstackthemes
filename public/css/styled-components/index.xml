@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Styled Components on Jamstack Themes</title>
+    <link>/css/styled-components/</link>
+    <description>Recent content in Styled Components on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/css/styled-components/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

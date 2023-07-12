@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanity on Jamstack Themes</title>
+    <link>/cms/sanity/</link>
+    <description>Recent content in Sanity on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/sanity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HULL</title>
+      <link>/theme/next-hull/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-hull/</guid>
+      <description>Features Utility-first CSS with Tailwind CSS Animations powered by Framer Motion Cart powered by Shopify Buy SDK Real-time inventory check for products using SWR Customizable Filtering &amp;amp; Sorting for product collections Klaviyo waitlist form for out-of-stock products Klaviyo newsletter form with opt-in field Dynamic Page Routes for custom page creation Automatic Sitemap.</description>
+    </item>
+    
+    <item>
+      <title>Jane</title>
+      <link>/theme/hugo-theme-jane/</link>
+      <pubDate>Tue, 06 Mar 2018 11:48:50 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-jane/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

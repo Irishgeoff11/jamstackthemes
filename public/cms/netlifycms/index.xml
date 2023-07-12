@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NetlifyCMS on Jamstack Themes</title>
+    <link>/cms/netlifycms/</link>
+    <description>Recent content in NetlifyCMS on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/netlifycms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Flex</title>
+      <link>/theme/hugo-flex/</link>
+      <pubDate>Sun, 22 Jan 2023 22:42:30 +0000</pubDate>
+      
+      <guid>/theme/hugo-flex/</guid>
+      <description>Hugo Flex A lightweight Hugo theme leveraging CSS Flexbox.
+Features Flexbox-based responsive layout 100% speed score on PageSpeed Insights No framework No javascript Full posts in RSS feed RSS page looks like a normal page Multilingual support Automatic dark theme Optional features:</description>
+    </item>
+    
+    <item>
+      <title>Paws</title>
+      <link>/theme/paws/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/paws/</guid>
+      <description>A simple starter kit for researchers, built with SvelteKit Paws is a static site built on SvelteKit, using Markdown for blog content, optionally with Netlify CMS.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Netlify CMS Modern blog web-app</title>
+      <link>/theme/gatsby-netlifycms-blog-web-app/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-netlifycms-blog-web-app/</guid>
+      <description>Gatsby Netlify-CMS Modern blog A fully-responsive Gatsby based template web-app which can be easily hosted on any platform.</description>
+    </item>
+    
+    <item>
+      <title>Fernfolio</title>
+      <link>/theme/fernfolio/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/fernfolio/</guid>
+      <description>🤔 What is this? An Eleventy theme designed to simplify the process of deploying a beautiful portfolio and blog.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Curious</title>
+      <link>/theme/hugo-curious/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-curious/</guid>
+      <description>Story Hugo Curious theme was originally developed for AICurious Blog based on Hugo Clarity.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter Glass</title>
+      <link>/theme/gatsby-starter-glass/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-glass/</guid>
+      <description>Personal Blog Starter For GatsbyJS A Minimal &amp;amp; Beautiful GatsbyJS Personal Blog Starter With Nice Glassmorphism UI</description>
+    </item>
+    
+    <item>
+      <title>Hugo-profile</title>
+      <link>/theme/hugo-profile/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-profile/</guid>
+      <description>hugo-profile (100% performance) A simple hugo theme for personal portfolio</description>
+    </item>
+    
+    <item>
+      <title>Neat Starter</title>
+      <link>/theme/neat-starter/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/neat-starter/</guid>
+      <description>Neat Starter Starter Template for Netlify CMS, Eleventy, Alpine JS &amp;amp; Tailwind CSS</description>
+    </item>
+    
+    <item>
+      <title>devlopr-jekyll</title>
+      <link>/theme/devlopr/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/devlopr/</guid>
+      <description>A Jekyll Theme built for Developers Devlopr is a modern Jekyll Theme built for Developers focused on speed performance &amp;amp; SEO best practices.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Iris</title>
+      <link>/theme/hugo-theme-iris/</link>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-iris/</guid>
+      <description>This theme is a lightweight and dark theme for a blog or a portfolio.</description>
+    </item>
+    
+    <item>
+      <title>Artisan Static</title>
+      <link>/theme/artisan-static/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/artisan-static/</guid>
+      <description>An advanced starter template for building a static Jigsaw blog hosted on Netlify with analytics, comments, code highlighting, a contact form, a CMS, and more.</description>
+    </item>
+    
+    <item>
+      <title>Awake Nuxt Blog</title>
+      <link>/theme/awake-blog-template-nuxt/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/awake-blog-template-nuxt/</guid>
+      <description>Awake is a Nuxt.js template for generating a beautifully robust static site with blog.</description>
+    </item>
+    
+    <item>
+      <title>BigCommerce Gatsby Starter Netlify CMS</title>
+      <link>/theme/bigcommerce-gatsby-netlify-cms-starter/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/bigcommerce-gatsby-netlify-cms-starter/</guid>
+      <description>Example Gatsby, BigCommerce and Netlify CMS project meant to jump start Jamstack ecommerce sites.</description>
+    </item>
+    
+    <item>
+      <title>Delog GatsbyJS</title>
+      <link>/theme/delog-gatsby-netlifycms/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/delog-gatsby-netlifycms/</guid>
+      <description>Delog is developed for professional bloggers and web designers to build a website that has a lightning-fast navigation speed.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby DevBlog</title>
+      <link>/theme/gatsby-dev-blog-fitzgerald/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-dev-blog-fitzgerald/</guid>
+      <description>A fully customizable blog template designed for developers (or anyone else) wanting to get into blogging.</description>
+    </item>
+    
+    <item>
+      <title>Gridsome Netlify CMS</title>
+      <link>/theme/netlifycms-gridsome/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/netlifycms-gridsome/</guid>
+      <description>A simple, hackable &amp;amp; minimalistic template for Gridsome that uses Netlify CMS for content and is hosted by Netlify.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Casper</title>
+      <link>/theme/hugo-starter-blog-theme-casper/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-starter-blog-theme-casper/</guid>
+      <description>A Hugo boilerplate for creating a blog site backed with NetlifyCMS for content authoring.</description>
+    </item>
+    
+    <item>
+      <title>Hugo starter Kaldi</title>
+      <link>/theme/hugo-starter-blog-theme-kaldi/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-starter-blog-theme-kaldi/</guid>
+      <description>A Hugo boilerplate for creating a blog site backed with NetlifyCMS for content authoring and Netlify Identity for CMS user authentication.</description>
+    </item>
+    
+    <item>
+      <title>Hyde starter blog with Netlify CMS</title>
+      <link>/theme/hyde-blog-with-netlify-cms/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hyde-blog-with-netlify-cms/</guid>
+      <description>A boilerplate for creating a blog site with Hyde (a static site generator written in Python) and with Netlify CMS for content authoring.</description>
+    </item>
+    
+    <item>
+      <title>Nuxt Netlify CMS Boilerplate</title>
+      <link>/theme/nuxt-starter-netlify-cms/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nuxt-starter-netlify-cms/</guid>
+      <description>A super unopinionated starter project, built off the create-nuxt-app CLI tool, and leveraging Netlify CMS to generate content in the Nuxt API from flat files.</description>
+    </item>
+    
+    <item>
+      <title>Nuxt Tailwind Netlify CMS Starter</title>
+      <link>/theme/bluise-nuxt-cms/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/bluise-nuxt-cms/</guid>
+      <description>Start with Typescript, TailwindCSS, Nuxt, Netlify Forms &amp;amp; Netlify CMS, includes pagination, seo &amp;amp; pwa ready.</description>
+    </item>
+    
+    <item>
+      <title>Platframe default starter</title>
+      <link>/theme/platframe-default-starter/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/platframe-default-starter/</guid>
+      <description>Platframe&amp;rsquo;s default (responsive) starter template takes the form of a landing page that can be personalized in a jiffy, or be extensively adapted to suit variable project scopes.</description>
+    </item>
+    
+    <item>
+      <title>Foundation</title>
+      <link>/theme/gatsby-starter-foundation/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-foundation/</guid>
+      <description>Foundation A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS.</description>
+    </item>
+    
+    <item>
+      <title>Planty</title>
+      <link>/theme/planty/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/planty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bael Theme</title>
+      <link>/theme/bael-theme/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/bael-theme/</guid>
+      <description>Bael is a free blogging theme to use with Netlify CMS.</description>
+    </item>
+    
+    <item>
+      <title>Cereus Pro</title>
+      <link>/theme/cereus-pro/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/cereus-pro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy Hylia</title>
+      <link>/theme/11ty-hylia/</link>
+      <pubDate>Tue, 11 Jun 2019 20:15:02 +0000</pubDate>
+      
+      <guid>/theme/11ty-hylia/</guid>
+      <description>A simple starter kit for Eleventy Hylia is a lightweight Eleventy starter kit with Netlify CMS pre-configured, so that you can one-click install a progressive, accessible blog in minutes.</description>
+    </item>
+    
+    <item>
+      <title>Typescript Rebass Netlifycms</title>
+      <link>/theme/gatsby-starter-typescript-rebass-netlifycms/</link>
+      <pubDate>Sat, 26 Jan 2019 04:06:58 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-typescript-rebass-netlifycms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twenty Twentyone</title>
+      <link>/theme/twentytwentyone/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/twentytwentyone/</guid>
+      <description>A simple theme for blogging This is a simple theme for blogging that can be deployed on Netlify with a click of a button.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Netlify CMS</title>
+      <link>/theme/gatsby-netlify-cms/</link>
+      <pubDate>Mon, 19 Nov 2018 00:43:34 +0000</pubDate>
+      
+      <guid>/theme/gatsby-netlify-cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yellowcake</title>
+      <link>/theme/gatsby-yellowcake/</link>
+      <pubDate>Mon, 15 Oct 2018 04:47:58 +0000</pubDate>
+      
+      <guid>/theme/gatsby-yellowcake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vuepress Casper</title>
+      <link>/theme/vuepress-theme-casper/</link>
+      <pubDate>Sun, 26 Aug 2018 09:29:18 +0000</pubDate>
+      
+      <guid>/theme/vuepress-theme-casper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middleman Starter Netlify CMS</title>
+      <link>/theme/middleman-starter-netlify-cms/</link>
+      <pubDate>Tue, 14 Aug 2018 21:03:30 +0000</pubDate>
+      
+      <guid>/theme/middleman-starter-netlify-cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy NetlifyCMS Boilerplate</title>
+      <link>/theme/eleventy-netlify-boilerplate/</link>
+      <pubDate>Tue, 24 Jul 2018 07:16:25 +0000</pubDate>
+      
+      <guid>/theme/eleventy-netlify-boilerplate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexo Material Netlify</title>
+      <link>/theme/hexo-material-netlify/</link>
+      <pubDate>Sat, 14 Jul 2018 20:02:15 +0000</pubDate>
+      
+      <guid>/theme/hexo-material-netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jane</title>
+      <link>/theme/hugo-theme-jane/</link>
+      <pubDate>Tue, 06 Mar 2018 11:48:50 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-jane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter Bootstrap Netlify</title>
+      <link>/theme/gatsby-starter-bootstrap-netlify/</link>
+      <pubDate>Wed, 08 Nov 2017 01:59:41 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-bootstrap-netlify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter Netlify CMS</title>
+      <link>/theme/gatsby-starter-netlify-cms/</link>
+      <pubDate>Tue, 15 Aug 2017 23:15:14 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-netlify-cms/</guid>
+      <description>Gatsby + Netlify CMS Starter Note: This starter uses Gatsby v2.</description>
+    </item>
+    
+    <item>
+      <title>Alembic</title>
+      <link>/theme/alembic/</link>
+      <pubDate>Sat, 27 Aug 2016 15:50:21 +0000</pubDate>
+      
+      <guid>/theme/alembic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

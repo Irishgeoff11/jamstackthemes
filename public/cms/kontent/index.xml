@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kontent  on Jamstack Themes</title>
+    <link>/cms/kontent/</link>
+    <description>Recent content in Kontent  on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/kontent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gatsby Kontent Paperbase</title>
+      <link>/theme/gatsby-kontent-paperbase/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-kontent-paperbase/</guid>
+      <description>Material UI Paperbase Starter Showcase of Intranet admin UI using Material design, Gatsby, and Kentico Kontent.</description>
+    </item>
+    
+    <item>
+      <title>Gridsome Kontent Dancing Goat</title>
+      <link>/theme/gridsome-kontent-dancing-goat/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gridsome-kontent-dancing-goat/</guid>
+      <description>Gridsome Kontent Dancing Goat Dancing Goat Starter site written in Gridsome.</description>
+    </item>
+    
+    <item>
+      <title>Gridsome Kontent Lumen</title>
+      <link>/theme/gridsome-kontent-lumen/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gridsome-kontent-lumen/</guid>
+      <description>Gridsome Kontent Lumen Lumen is a minimal, lightweight and mobile-first starter for creating blogs using Gridsome.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll Kontent Blog</title>
+      <link>/theme/jekyll-kontent-blog/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-kontent-blog/</guid>
+      <description>Jekyll Kontent Blog Sample blog website built in Jekyll static site generator, using headless CMS Kentico Kontent as a content repository and kontent-jekyll plugin for content and data import.</description>
+    </item>
+    
+    <item>
+      <title>Memoirs Statiq Kontent Theme</title>
+      <link>/theme/statiq-kontent-memoirs/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/statiq-kontent-memoirs/</guid>
+      <description>Memoirs Statiq Kontent Theme This is a full featured theme for Kontent and Statiq using Kontent.</description>
+    </item>
+    
+    <item>
+      <title>Sapper Kontent Café</title>
+      <link>/theme/sapper-kontent-cafe/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/sapper-kontent-cafe/</guid>
+      <description>Sapper Kontent Café Website showcase for fictional café with Svelte, Sapper, and Kentico Kontent.</description>
+    </item>
+    
+    <item>
+      <title>Scully Starter Kontent Lumen</title>
+      <link>/theme/scully-kontent-lumen/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/scully-kontent-lumen/</guid>
+      <description>Lumen - blog/portfolio starter for Scully and Kontent Lumen is a minimal, lightweight, and mobile-first starter for creating blogs using Scully and Kentico Kontent.</description>
+    </item>
+    
+    <item>
+      <title>Statiq Kontent Boilerplate Kontent</title>
+      <link>/theme/statiq-kontent-boilerplate/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/statiq-kontent-boilerplate/</guid>
+      <description>Statiq boilerplate for Kontent Boilerplate utilizing Statiq and Kentico Kontent to provide a starting point in the Jamstack world for .</description>
+    </item>
+    
+    <item>
+      <title>Statiq Starter Kontent Lumen</title>
+      <link>/theme/statiq-starter-kontent-lumen/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/statiq-starter-kontent-lumen/</guid>
+      <description>Lumen - blog/portfolio starter for Statiq and Kontent Lumen is a minimal, lightweight, and mobile-first starter for creating blogs using Statiq and Kentico Kontent.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Kontent Lumen</title>
+      <link>/theme/gatsby-kontent-lumen/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-kontent-lumen/</guid>
+      <description>Gatsby Kontent Lumen Lumen is a minimal, lightweight and mobile-first starter for creating blogs using Gatsby and Kentico Kontent.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Kontent Photon</title>
+      <link>/theme/gatsby-kontent-photon/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-kontent-photon/</guid>
+      <description>A simple starter kit for Kontent and GatsbyJS Kentico Kontent web template using Gatsby and Kentico Kontent.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter Kentico Kontent</title>
+      <link>/theme/gatsby-starter-kontent/</link>
+      <pubDate>Fri, 17 Aug 2018 10:25:38 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-kontent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

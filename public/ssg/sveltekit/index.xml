@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sveltekit on Jamstack Themes</title>
+    <link>/ssg/sveltekit/</link>
+    <description>Recent content in Sveltekit on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/ssg/sveltekit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paws</title>
+      <link>/theme/paws/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/paws/</guid>
+      <description>A simple starter kit for researchers, built with SvelteKit Paws is a static site built on SvelteKit, using Markdown for blog content, optionally with Netlify CMS.</description>
+    </item>
+    
+  </channel>
+</rss>

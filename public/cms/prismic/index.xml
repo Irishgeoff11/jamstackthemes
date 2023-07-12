@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prismic on Jamstack Themes</title>
+    <link>/cms/prismic/</link>
+    <description>Recent content in Prismic on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/prismic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eleventy Soft UI Design</title>
+      <link>/theme/11ty-soft-ui-design/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-soft-ui-design/</guid>
+      <description>Open-source starter built with 11ty and prismic CMS Eleventy Soft UI is an Eleventy adaptation of Soft UI Design System (a user-friendly and beautiful design system based on Bootstrap 5), including a Blog system that uses Prismic CMS for content management.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Prismic i18n</title>
+      <link>/theme/gatsby-starter-prismic-i18n/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-prismic-i18n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Prismic Starter Prist</title>
+      <link>/theme/gatsby-prismic-starter-prist/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-prismic-starter-prist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter Portfolio Bella</title>
+      <link>/theme/gatsby-starter-portfolio-bella/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-portfolio-bella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter Prismic Resume</title>
+      <link>/theme/gatsby-starter-prismic-resume/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-prismic-resume/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

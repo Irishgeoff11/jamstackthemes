@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contentful on Jamstack Themes</title>
+    <link>/cms/contentful/</link>
+    <description>Recent content in Contentful on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/contentful/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimal Blog | NextJS</title>
+      <link>/theme/blog-nextjs-template/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/blog-nextjs-template/</guid>
+      <description>Features Dark Mode 🌚 Light Mode 🌞 Grid Layout 🚀 Full Responsive (Works on Galaxy fold too 😅) </description>
+    </item>
+    
+    <item>
+      <title>RG Portfolio</title>
+      <link>/theme/rg-portfolio/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/rg-portfolio/</guid>
+      <description>A simple starter kit for Gatsby In this starter, you can easily manage your content from contentful CMS.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio theme for Gatsby</title>
+      <link>/theme/gatsby-contentful-portfolio/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-contentful-portfolio/</guid>
+      <description>A simple portfolio starter kit for Gatsby, integrated with Contentful Who is this for?</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Contentful Blog and Portfolio</title>
+      <link>/theme/gatsby-contentful-blog-portfolio/</link>
+      <pubDate>Wed, 19 Feb 2020 12:10:46 +0000</pubDate>
+      
+      <guid>/theme/gatsby-contentful-blog-portfolio/</guid>
+      <description>A simple starter kit for creating a Portfolio website with a blog, all served by Contentful Features Gatsby Graphql Contenful Cypress CSS Modules and Styled Components 🚀 Quick start Clone the repository</description>
+    </item>
+    
+    <item>
+      <title>Gastby Starter Zenii</title>
+      <link>/theme/gatsby-starter-zenii/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-zenii/</guid>
+      <description>A simple one-page theme for Gatsby This theme is a lightweight starter for Gatsby that is built using Tailwindcss and uses Contentful as a CMS backend.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Novela</title>
+      <link>/theme/gatsby-theme-novela/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-theme-novela/</guid>
+      <description>Welcome to Novela, the simplest way to start publishing with Gatsby.</description>
+    </item>
+    
+    <item>
+      <title>Blogger</title>
+      <link>/theme/gatsby-blogger/</link>
+      <pubDate>Mon, 25 Feb 2019 05:18:26 +0000</pubDate>
+      
+      <guid>/theme/gatsby-blogger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Simple Contentful Starter</title>
+      <link>/theme/gatsby-simple-contentful-starter/</link>
+      <pubDate>Wed, 10 Oct 2018 00:47:54 +0000</pubDate>
+      
+      <guid>/theme/gatsby-simple-contentful-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Contentful Typescript Starter</title>
+      <link>/theme/gatsby-contentful-typescript-starter/</link>
+      <pubDate>Mon, 01 Oct 2018 21:52:18 +0000</pubDate>
+      
+      <guid>/theme/gatsby-contentful-typescript-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter Mate</title>
+      <link>/theme/gatsby-starter-mate/</link>
+      <pubDate>Fri, 31 Aug 2018 12:10:46 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-mate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vuepress Casper</title>
+      <link>/theme/vuepress-theme-casper/</link>
+      <pubDate>Sun, 26 Aug 2018 09:29:18 +0000</pubDate>
+      
+      <guid>/theme/vuepress-theme-casper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jane</title>
+      <link>/theme/hugo-theme-jane/</link>
+      <pubDate>Tue, 06 Mar 2018 11:48:50 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-jane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter GCN</title>
+      <link>/theme/gatsby-starter-gcn/</link>
+      <pubDate>Fri, 23 Feb 2018 00:09:29 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-gcn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Contentful i18n</title>
+      <link>/theme/gatsby-starter-contentful-i18n/</link>
+      <pubDate>Sun, 11 Feb 2018 06:35:14 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-contentful-i18n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Contentful Starter</title>
+      <link>/theme/gatsby-contentful-starter/</link>
+      <pubDate>Mon, 29 Jan 2018 21:29:51 +0000</pubDate>
+      
+      <guid>/theme/gatsby-contentful-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alembic</title>
+      <link>/theme/alembic/</link>
+      <pubDate>Sat, 27 Aug 2016 15:50:21 +0000</pubDate>
+      
+      <guid>/theme/alembic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

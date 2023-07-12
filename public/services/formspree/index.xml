@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formspree on Jamstack Themes</title>
+    <link>/services/formspree/</link>
+    <description>Recent content in Formspree on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/services/formspree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devlopr-jekyll</title>
+      <link>/theme/devlopr/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/devlopr/</guid>
+      <description>A Jekyll Theme built for Developers Devlopr is a modern Jekyll Theme built for Developers focused on speed performance &amp;amp; SEO best practices.</description>
+    </item>
+    
+    <item>
+      <title>Intro.</title>
+      <link>/theme/gatsby-theme-intro/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-theme-intro/</guid>
+      <description>Intro - Personal branding theme for developers Intro is an open source Gatsby theme built specially for developers.</description>
+    </item>
+    
+  </channel>
+</rss>

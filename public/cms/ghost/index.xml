@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghost on Jamstack Themes</title>
+    <link>/cms/ghost/</link>
+    <description>Recent content in Ghost on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/ghost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newsliner Gatsby &#43; Ghost Starter</title>
+      <link>/theme/newsliner-gatsby-ghost-starter/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/newsliner-gatsby-ghost-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jamify Blog Starter</title>
+      <link>/theme/jamify-next-cms-ghost/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jamify-next-cms-ghost/</guid>
+      <description>A rich starter kit for Ghost blogs Create and publish flaring fast blogs with this Jamify blogging system.</description>
+    </item>
+    
+    <item>
+      <title>Jamify Starter</title>
+      <link>/theme/jamify-starter-ghost/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jamify-starter-ghost/</guid>
+      <description>A rich starter kit for Ghost blogs This starter template is for professional publishers who are looking for a fully functional static-site front-end with infinite-scroll, flexible routing, multi-language support and a rich plugin eco-system.</description>
+    </item>
+    
+    <item>
+      <title>Eleventy Starter Ghost</title>
+      <link>/theme/eleventy-starter-ghost/</link>
+      <pubDate>Mon, 15 Jul 2019 11:43:52 +0000</pubDate>
+      
+      <guid>/theme/eleventy-starter-ghost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter Ghost</title>
+      <link>/theme/gatsby-starter-ghost/</link>
+      <pubDate>Tue, 13 Nov 2018 05:04:05 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-ghost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Casper</title>
+      <link>/theme/gatsby-casper/</link>
+      <pubDate>Mon, 10 Sep 2018 03:48:22 +0000</pubDate>
+      
+      <guid>/theme/gatsby-casper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

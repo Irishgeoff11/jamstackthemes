@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Middleman on Jamstack Themes</title>
+    <link>/ssg/middleman/</link>
+    <description>Recent content in Middleman on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/ssg/middleman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snipcart Middleman</title>
+      <link>/theme/snipcart-middleman-integration/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/snipcart-middleman-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middleman Starter Netlify CMS</title>
+      <link>/theme/middleman-starter-netlify-cms/</link>
+      <pubDate>Tue, 14 Aug 2018 21:03:30 +0000</pubDate>
+      
+      <guid>/theme/middleman-starter-netlify-cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middleman Bootstrap Template</title>
+      <link>/theme/middleman-bootstrap-template/</link>
+      <pubDate>Thu, 28 Dec 2017 02:11:32 +0000</pubDate>
+      
+      <guid>/theme/middleman-bootstrap-template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middleman Casper</title>
+      <link>/theme/middleman-casper/</link>
+      <pubDate>Sat, 26 Oct 2013 09:58:22 +0000</pubDate>
+      
+      <guid>/theme/middleman-casper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Middleman Zurb</title>
+      <link>/theme/middleman-zurb-template/</link>
+      <pubDate>Sat, 02 Feb 2013 00:32:42 +0000</pubDate>
+      
+      <guid>/theme/middleman-zurb-template/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

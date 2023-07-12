@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mkdocs on Jamstack Themes</title>
+    <link>/ssg/mkdocs/</link>
+    <description>Recent content in Mkdocs on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/ssg/mkdocs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Read The Docs Dropdown</title>
+      <link>/theme/mkdocs-rtd-dropdown/</link>
+      <pubDate>Sun, 29 Oct 2017 19:41:23 +0000</pubDate>
+      
+      <guid>/theme/mkdocs-rtd-dropdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MkDocs Windmill</title>
+      <link>/theme/mkdocs-windmill/</link>
+      <pubDate>Mon, 15 May 2017 03:51:22 +0000</pubDate>
+      
+      <guid>/theme/mkdocs-windmill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MkDocs Alabaster</title>
+      <link>/theme/mkdocs-alabaster/</link>
+      <pubDate>Fri, 29 Jan 2016 22:40:46 +0000</pubDate>
+      
+      <guid>/theme/mkdocs-alabaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MkDocs Material</title>
+      <link>/theme/mkdocs-material/</link>
+      <pubDate>Thu, 28 Jan 2016 22:09:23 +0000</pubDate>
+      
+      <guid>/theme/mkdocs-material/</guid>
+      <description>A Material Design theme for MkDocs</description>
+    </item>
+    
+    <item>
+      <title>Cinder</title>
+      <link>/theme/mkdocs-cinder/</link>
+      <pubDate>Fri, 28 Aug 2015 03:45:23 +0000</pubDate>
+      
+      <guid>/theme/mkdocs-cinder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

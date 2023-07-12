@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shopify on Jamstack Themes</title>
+    <link>/services/shopify/</link>
+    <description>Recent content in Shopify on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/services/shopify/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gridsome Tailwind CSS Shopify Starter</title>
+      <link>/theme/gridsome-shopify/</link>
+      <pubDate>Fri, 03 Jul 2020 18:24:48 +0000</pubDate>
+      
+      <guid>/theme/gridsome-shopify/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forestry on Jamstack Themes</title>
+    <link>/cms/forestry/</link>
+    <description>Recent content in Forestry on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/forestry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jekyllBear</title>
+      <link>/theme/jekyllbear/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyllbear/</guid>
+      <description>An easy to use, minimal, text focused Jekyll theme Bear Blog is &amp;ldquo;a blogging platform where words matter most&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Just me!</title>
+      <link>/theme/just-me/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/just-me/</guid>
+      <description>Just me! A minimal and fancy theme for Hugo to create Personal Pages with no blog or extra content, just awesome rotating backgrounds and your social profiles to allow people contact you.</description>
+    </item>
+    
+    <item>
+      <title>Eleventy Duo</title>
+      <link>/theme/eleventy-duo/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/eleventy-duo/</guid>
+      <description>A minimal and beautiful Eleventy theme for personal blogs Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.</description>
+    </item>
+    
+    <item>
+      <title>devlopr-jekyll</title>
+      <link>/theme/devlopr/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/devlopr/</guid>
+      <description>A Jekyll Theme built for Developers Devlopr is a modern Jekyll Theme built for Developers focused on speed performance &amp;amp; SEO best practices.</description>
+    </item>
+    
+    <item>
+      <title>Planty</title>
+      <link>/theme/planty/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/planty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compose</title>
+      <link>/theme/compose/</link>
+      <pubDate>Sat, 22 Feb 2020 18:24:48 +0000</pubDate>
+      
+      <guid>/theme/compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darkfolio</title>
+      <link>/theme/darkfolio/</link>
+      <pubDate>Wed, 14 Aug 2019 09:55:03 +0000</pubDate>
+      
+      <guid>/theme/darkfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brevifolia Gridsome Forestry</title>
+      <link>/theme/brevifolia-gridsome-forestry/</link>
+      <pubDate>Mon, 12 Aug 2019 23:36:29 +0000</pubDate>
+      
+      <guid>/theme/brevifolia-gridsome-forestry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy Hylia Forestry</title>
+      <link>/theme/11ty-hylia-forestry/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-hylia-forestry/</guid>
+      <description>Hylia is a lightweight Eleventy starter kit with Forestry CMS pre-configured, so that you can one-click install a progressive, accessible blog in minutes.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Brevifolia Forestry</title>
+      <link>/theme/gatsby-brevifolia-forestry/</link>
+      <pubDate>Mon, 08 Jul 2019 20:57:37 +0000</pubDate>
+      
+      <guid>/theme/gatsby-brevifolia-forestry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gridsome Forestry Starter</title>
+      <link>/theme/gridsome-forestry-starter/</link>
+      <pubDate>Thu, 03 Jan 2019 21:54:32 +0000</pubDate>
+      
+      <guid>/theme/gridsome-forestry-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vuepress Casper</title>
+      <link>/theme/vuepress-theme-casper/</link>
+      <pubDate>Sun, 26 Aug 2018 09:29:18 +0000</pubDate>
+      
+      <guid>/theme/vuepress-theme-casper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuild Jekyll</title>
+      <link>/theme/ubuild-jekyll/</link>
+      <pubDate>Wed, 20 Jun 2018 13:05:57 +0000</pubDate>
+      
+      <guid>/theme/ubuild-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jane</title>
+      <link>/theme/hugo-theme-jane/</link>
+      <pubDate>Tue, 06 Mar 2018 11:48:50 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-jane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alembic</title>
+      <link>/theme/alembic/</link>
+      <pubDate>Sat, 27 Aug 2016 15:50:21 +0000</pubDate>
+      
+      <guid>/theme/alembic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

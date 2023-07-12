@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecommmerce on Jamstack Themes</title>
+    <link>/archetype/ecommmerce/</link>
+    <description>Recent content in Ecommmerce on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/archetype/ecommmerce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supply</title>
+      <link>/theme/supply/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/supply/</guid>
+      <description>A simple e-commerce theme for Jekyll + Gumroad Supply is an e-commerce template for Jekyll with Gumroad integration, designed with Tachyons CSS.</description>
+    </item>
+    
+  </channel>
+</rss>

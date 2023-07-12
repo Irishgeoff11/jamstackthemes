@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecommerce on Jamstack Themes</title>
+    <link>/archetype/ecommerce/</link>
+    <description>Recent content in Ecommerce on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/archetype/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HULL</title>
+      <link>/theme/next-hull/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-hull/</guid>
+      <description>Features Utility-first CSS with Tailwind CSS Animations powered by Framer Motion Cart powered by Shopify Buy SDK Real-time inventory check for products using SWR Customizable Filtering &amp;amp; Sorting for product collections Klaviyo waitlist form for out-of-stock products Klaviyo newsletter form with opt-in field Dynamic Page Routes for custom page creation Automatic Sitemap.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Shop 1 – Merch Store</title>
+      <link>/theme/gatsby-flotiq-shop-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-shop-1/</guid>
+      <description>Flotiq gatsby starter for shop Merch Store is the fabulous Flotiq starter for selling merch, clothing, and other corporate goods.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Shop 2 – Green Shop</title>
+      <link>/theme/gatsby-flotiq-shop-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-shop-2/</guid>
+      <description>Flotiq gatsby starter for shop We want to introduce you to the Flotiq E-commerce starter.</description>
+    </item>
+    
+    <item>
+      <title>Next.js Ecommerce</title>
+      <link>/theme/next-ecommerce/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-ecommerce/</guid>
+      <description>Next.js Ecommerce This repo contains a work in progress Ecommerce responsive made with Next.</description>
+    </item>
+    
+    <item>
+      <title>React Storefront</title>
+      <link>/theme/next-react-storefront/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-react-storefront/</guid>
+      <description>React Storefront Motivation modern &amp;amp; fast: Project is focusing on best practices for e-commerce, like: SSR &amp;amp; ISR, image optimization.</description>
+    </item>
+    
+    <item>
+      <title>Butterflies</title>
+      <link>/theme/tradly/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/tradly/</guid>
+      <description>Free NextJS + Tailwind Kit for Marketplace This theme is a almost complete e-commerce and marketplace website.</description>
+    </item>
+    
+    <item>
+      <title>GraphCMS eCommerce Storefront</title>
+      <link>/theme/graphcms-commerce/</link>
+      <pubDate>Sun, 18 Jul 2021 19:00:00 +0000</pubDate>
+      
+      <guid>/theme/graphcms-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cookie</title>
+      <link>/theme/jekyll-cookie/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cookie/</guid>
+      <description>Cookie - a fast and easy to deploy landing website for your next project.</description>
+    </item>
+    
+    <item>
+      <title>ChopChop Shop</title>
+      <link>/theme/commercejs-chopchop-shop/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/commercejs-chopchop-shop/</guid>
+      <description>ChopChop is a beautifully designed, elegantly developed demo store and starter kit with a premium brand that sells fine tools for thoughtful cooks.</description>
+    </item>
+    
+    <item>
+      <title>Commerce.js Vue.js Boilerplate</title>
+      <link>/theme/commercejs-vuejs-boilerplate/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/commercejs-vuejs-boilerplate/</guid>
+      <description>Commerce.js boilerplate built with Vue.js, for fast eCommerce development and design.</description>
+    </item>
+    
+    <item>
+      <title>devlopr-jekyll</title>
+      <link>/theme/devlopr/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/devlopr/</guid>
+      <description>A Jekyll Theme built for Developers Devlopr is a modern Jekyll Theme built for Developers focused on speed performance &amp;amp; SEO best practices.</description>
+    </item>
+    
+    <item>
+      <title>Commerce.js Next.js Demo Store</title>
+      <link>/theme/commercejs-nextjs-demo-store/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/commercejs-nextjs-demo-store/</guid>
+      <description>An commerce storefront example built using Next.js and Commerce.js with production-ready deployment to Netlify.</description>
+    </item>
+    
+    <item>
+      <title>Gridsome Tailwind CSS Shopify Starter</title>
+      <link>/theme/gridsome-shopify/</link>
+      <pubDate>Fri, 03 Jul 2020 18:24:48 +0000</pubDate>
+      
+      <guid>/theme/gridsome-shopify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BigCommerce Gatsby Starter Netlify CMS</title>
+      <link>/theme/bigcommerce-gatsby-netlify-cms-starter/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/bigcommerce-gatsby-netlify-cms-starter/</guid>
+      <description>Example Gatsby, BigCommerce and Netlify CMS project meant to jump start Jamstack ecommerce sites.</description>
+    </item>
+    
+    <item>
+      <title>Planty</title>
+      <link>/theme/planty/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/planty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy 2 Snipcart</title>
+      <link>/theme/11ty-demo-snipcart/</link>
+      <pubDate>Wed, 03 Oct 2018 18:24:48 +0000</pubDate>
+      
+      <guid>/theme/11ty-demo-snipcart/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

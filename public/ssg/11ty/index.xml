@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>11ty on Jamstack Themes</title>
+    <link>/ssg/11ty/</link>
+    <description>Recent content in 11ty on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/ssg/11ty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11ty documentation template using Tailwind CSS</title>
+      <link>/theme/11ty-docs/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-docs/</guid>
+      <description>Eleventy documentation template using Tailwind CSS An 11ty documentation site theme, built with Tailwind CSS.</description>
+    </item>
+    
+  </channel>
+</rss>

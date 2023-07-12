@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storyblok on Jamstack Themes</title>
+    <link>/cms/storyblok/</link>
+    <description>Recent content in Storyblok on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/storyblok/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Storyblok&#39;s Gridsome Boilerplate (Moon-Theme)</title>
+      <link>/theme/storyblok-gridsome-boilerplate-moon/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/storyblok-gridsome-boilerplate-moon/</guid>
+      <description>Check the website here.
+Installation Clone this project with:</description>
+    </item>
+    
+  </channel>
+</rss>

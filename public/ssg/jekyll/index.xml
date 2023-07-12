@@ -1,0 +1,3973 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll on Jamstack Themes</title>
+    <link>/ssg/jekyll/</link>
+    <description>Recent content in Jekyll on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/ssg/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cvless</title>
+      <link>/theme/jekyll-cvless/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cvless/</guid>
+      <description>cvless Cvless is a theme for static websites built with Jekyll.</description>
+    </item>
+    
+    <item>
+      <title>Hacked Jekyll</title>
+      <link>/theme/jekyll-hacked/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hacked/</guid>
+      <description>hacked-jekyll Hacked Jekyll is a responsive, minimalistic Jekyll theme for a tiny (163.</description>
+    </item>
+    
+    <item>
+      <title>Lightspeed</title>
+      <link>/theme/jekyll-lightspeed/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-lightspeed/</guid>
+      <description>Your simple home page Lightspeed was created to simply deliver content on the web with minimum fuss.</description>
+    </item>
+    
+    <item>
+      <title>Supply</title>
+      <link>/theme/supply/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/supply/</guid>
+      <description>A simple e-commerce theme for Jekyll + Gumroad Supply is an e-commerce template for Jekyll with Gumroad integration, designed with Tachyons CSS.</description>
+    </item>
+    
+    <item>
+      <title>Simply Cyan</title>
+      <link>/theme/simply-cyan/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/simply-cyan/</guid>
+      <description>simply-cyan Simply Cyan is a Jekyll theme dedicated to text and reading.</description>
+    </item>
+    
+    <item>
+      <title>BlogBox Jekyll Theme</title>
+      <link>/theme/blogbox-jekyll-theme/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/blogbox-jekyll-theme/</guid>
+      <description>Theme Features Responsive layout – your blog will be accessible on various devices (iPhone, iPad, Android, etc.</description>
+    </item>
+    
+    <item>
+      <title>Chulapa</title>
+      <link>/theme/chulapa/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/chulapa/</guid>
+      <description>Welcome to Chulapa! Bootstrap 4 - Fully responsive Fontawesome 6 - v5 also supported.</description>
+    </item>
+    
+    <item>
+      <title>Quartz</title>
+      <link>/theme/quartz/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/quartz/</guid>
+      <description>Quartz is a crystalline Jekyll theme for blog.
+Highlight Features Support the CSS resets Normalize Support Font Awesome Support MathJax Support Disqus Support Google Analytics 4 Light and dark mode, via prefers-color-scheme Archive pages implemented in pure Liquid </description>
+    </item>
+    
+    <item>
+      <title>Jekyll LibDoc</title>
+      <link>/theme/jekyll-libdoc/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-libdoc/</guid>
+      <description>A documentation theme with its playground LibDoc is a Jekyll theme that was crafted to easily and quickly get properly designed documentation especially for CSS and Javascript libraries.</description>
+    </item>
+    
+    <item>
+      <title>jekyllBear</title>
+      <link>/theme/jekyllbear/</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyllbear/</guid>
+      <description>An easy to use, minimal, text focused Jekyll theme Bear Blog is &amp;ldquo;a blogging platform where words matter most&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Scriptor Jekyll Theme</title>
+      <link>/theme/scriptor-jekyll-theme/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/scriptor-jekyll-theme/</guid>
+      <description>Features Responsive design Archive organized by tags Disqus Comments Accent color options Prism syntax highlighter </description>
+    </item>
+    
+    <item>
+      <title>Biscuit</title>
+      <link>/theme/jekyll-biscuit/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-biscuit/</guid>
+      <description>Biscuit theme for Jekyll Biscuit is a single-page responsive Jekyll theme.</description>
+    </item>
+    
+    <item>
+      <title>Material You</title>
+      <link>/theme/jekyll-theme-material-you/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-material-you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JDox</title>
+      <link>/theme/jdox/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jdox/</guid>
+      <description>JDox - Jekyll theme JDox is jekyll theme designed for personal or team blog with fully responsive css design and auto integrated with GitHub Pages.</description>
+    </item>
+    
+    <item>
+      <title>Mr. Green</title>
+      <link>/theme/jekyll-mr-green/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mr-green/</guid>
+      <description>Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.</description>
+    </item>
+    
+    <item>
+      <title>Tao</title>
+      <link>/theme/tao/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/tao/</guid>
+      <description>Tao is a content-first minimalist Jekyll theme for blogs.
+Highlight Features Support the CSS resets Normalize Support Font Awesome Support MathJax Support Disqus Support Google Analytics 4 Light and dark mode, via prefers-color-scheme Archive pages implemented in pure Liquid </description>
+    </item>
+    
+    <item>
+      <title>H2O-ac</title>
+      <link>/theme/jekyll-h2o-ac/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-h2o-ac/</guid>
+      <description>H2o-ac is designed for academic researchers and system maintainers to show the academic informations or project informations firstly.</description>
+    </item>
+    
+    <item>
+      <title>Urban Theme</title>
+      <link>/theme/urban/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/urban/</guid>
+      <description>Urban Theme This theme is a Jekyll port of http://erosie.net/ with some modifications.</description>
+    </item>
+    
+    <item>
+      <title>ZeeSpire One</title>
+      <link>/theme/jekyll-zeespre-one/</link>
+      <pubDate>Wed, 15 Dec 2021 14:07:26 +0000</pubDate>
+      
+      <guid>/theme/jekyll-zeespre-one/</guid>
+      <description> Premium theme using Jekyll version 4.1.2 &amp;amp; Bootstrap 5 Multipurpose (multiple homepage layouts) Fully ready for production within minutes Responsive, SEO Friendly, and Mobile optimized Step by step documentation </description>
+    </item>
+    
+    <item>
+      <title>J1 Template Starter</title>
+      <link>/theme/jekyll-j1-template/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-j1-template/</guid>
+      <description>A fully configurable Jekyll Theme Fully Responsive. J1 Template supports modern web browsers on all devices for best results on PCs, Tablets, and SmartPhones.</description>
+    </item>
+    
+    <item>
+      <title>Serial Programmer</title>
+      <link>/theme/jekyll-theme-serial-programmer/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-serial-programmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tailieubkhn convert theme</title>
+      <link>/theme/tailieubkhn/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/tailieubkhn/</guid>
+      <description>Features Use github page is backyard of your website Domain from github page will convert to your website, if it too long you will short it with tool short link in internet Easy to setup </description>
+    </item>
+    
+    <item>
+      <title>Jekyll Atlantic Tailwind Blog</title>
+      <link>/theme/jekyll-atlantic/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-atlantic/</guid>
+      <description>Jekyll Atlantic - A Jekyll Tailwind Theme Atlantic is a beautiful Tailwind CSS theme.</description>
+    </item>
+    
+    <item>
+      <title>Hydrogen Jekyll</title>
+      <link>/theme/jekyll-hydrogen/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hydrogen/</guid>
+      <description>A simple, elegant &amp;amp; full featured Jekyll theme. Features A concise and powerful Jekyll theme.</description>
+    </item>
+    
+    <item>
+      <title>Antarctica</title>
+      <link>/theme/antarctica/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/antarctica/</guid>
+      <description>The goal of Antarctica is evolving to an elegant and feature-rich theme across platforms.</description>
+    </item>
+    
+    <item>
+      <title>Ephesus</title>
+      <link>/theme/ephesus/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/ephesus/</guid>
+      <description>Ephesus - Minimalist Blog Theme Ephesus is a minimalist Jekyll theme, designed for personal blog use.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll Garden</title>
+      <link>/theme/jekyll-garden/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-garden/</guid>
+      <description>Jekyll Digital Garden A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages.</description>
+    </item>
+    
+    <item>
+      <title>Minimalist</title>
+      <link>/theme/jekyll-minimalist/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-minimalist/</guid>
+      <description>A simplistic theme with Jekyll This theme is modified based on the Minimal theme with multiple improvements.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll CV</title>
+      <link>/theme/jekyll-cv/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brutalist-blog</title>
+      <link>/theme/brutalist-blog/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/brutalist-blog/</guid>
+      <description>brutalist-blog brutalist-blog is a no frills, fully-responsive, hyper-minimalistic dark/light theme. The theme is heavily inspired by Mark Otto&amp;rsquo;s personal site: https://markdotto.</description>
+    </item>
+    
+    <item>
+      <title>Forever Jekyll</title>
+      <link>/theme/forever-jekyll/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/forever-jekyll/</guid>
+      <description>A simple, elegant &amp;amp; full featured Jekyll theme. Features Here are some of notable features of Forever Jekyll,</description>
+    </item>
+    
+    <item>
+      <title>Jek</title>
+      <link>/theme/jekyll-jek/</link>
+      <pubDate>Sat, 26 Jun 2021 15:29:54 +0000</pubDate>
+      
+      <guid>/theme/jekyll-jek/</guid>
+      <description>Jek is a minimalist Jekyll theme putting the power of color schemes in the user&amp;rsquo;s hands.</description>
+    </item>
+    
+    <item>
+      <title>Bajawa</title>
+      <link>/theme/jekyll-bajawa/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-bajawa/</guid>
+      <description>A simple starter kit This theme is a lightweight and clean starter kit with a touch of pastel colors.</description>
+    </item>
+    
+    <item>
+      <title>Gesko</title>
+      <link>/theme/gesko/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gesko/</guid>
+      <description>Gesko - Minimal blogging theme Gesko is easly deployable on Github Pages.</description>
+    </item>
+    
+    <item>
+      <title>academic</title>
+      <link>/theme/jekyll-academic/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enjoyment Work</title>
+      <link>/theme/jekyll-enjoyment-work/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-enjoyment-work/</guid>
+      <description>Enjoyment Work theme for Jekyll Enjoyment Work is an academic / research-focused theme that provides extensive features for note-taking and personal growth.</description>
+    </item>
+    
+    <item>
+      <title>Purelog</title>
+      <link>/theme/jekyll-purelog/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-purelog/</guid>
+      <description>Purelog Theme for Jekyll Purelog is a responsive, sidebar theme for the popular JAMstack generator Jekyll that only uses the minimal Pure.</description>
+    </item>
+    
+    <item>
+      <title>Watery</title>
+      <link>/theme/jekyll-watery/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-watery/</guid>
+      <description>Watery Theme for Jekyll Watery is a minimalist, bare-bones theme for the popular JAMstack file-based CMS Jekyll that only uses the &amp;lt;80kb Water.</description>
+    </item>
+    
+    <item>
+      <title>Hydure</title>
+      <link>/theme/hydure/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hydure/</guid>
+      <description>Hydure is a concise two-column blog theme for Jekyll. It is built on the Pure.</description>
+    </item>
+    
+    <item>
+      <title>Gradfolio</title>
+      <link>/theme/gradfolio/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gradfolio/</guid>
+      <description>Features Responsive Respects Dark Mode preference set by user Projects Page to showcase your work/side projects Easily link to your profiles on ResearchGate and ORCID Installation Click on Use this template on the GitHub homepage Your new site should be ready at https://username.</description>
+    </item>
+    
+    <item>
+      <title>Cookie</title>
+      <link>/theme/jekyll-cookie/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cookie/</guid>
+      <description>Cookie - a fast and easy to deploy landing website for your next project.</description>
+    </item>
+    
+    <item>
+      <title>Pole</title>
+      <link>/theme/pole/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/pole/</guid>
+      <description>Pole is a one-column minimal responsive Jekyll blog theme.
+One of the purposes of Pole is to be an alternative option to the default theme of Jekyll &amp;ndash; Minima.</description>
+    </item>
+    
+    <item>
+      <title>minimal-categorized</title>
+      <link>/theme/minimal-categorized/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/minimal-categorized/</guid>
+      <description>Minimal Jekyll theme for aggregated content This theme is a lightweight framework for personal blogs and portfolios.</description>
+    </item>
+    
+    <item>
+      <title>Pudhina Fresh</title>
+      <link>/theme/pudhina-fresh/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/pudhina-fresh/</guid>
+      <description>Minimal design based on Bootstrap 4. Showcase your projects on the masonry style project page with collapsible cards – demo.</description>
+    </item>
+    
+    <item>
+      <title>Moonwalk</title>
+      <link>/theme/jekyll-moonwalk/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-moonwalk/</guid>
+      <description>Moonwalk - a fast and elegant theme with clean dark mode Moonwalk can be used to create a portfolio or a blog site.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll Kontent Blog</title>
+      <link>/theme/jekyll-kontent-blog/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-kontent-blog/</guid>
+      <description>Jekyll Kontent Blog Sample blog website built in Jekyll static site generator, using headless CMS Kentico Kontent as a content repository and kontent-jekyll plugin for content and data import.</description>
+    </item>
+    
+    <item>
+      <title>Limp Dark</title>
+      <link>/theme/limp-dark/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/limp-dark/</guid>
+      <description>A simple starter kit for blog This theme is a lightweight starter kit.</description>
+    </item>
+    
+    <item>
+      <title>Scaffold</title>
+      <link>/theme/scaffold/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/scaffold/</guid>
+      <description>Features Normalize.css Open Color Dark mode, via prefers-color-scheme Font Awesome Archive implemented by pure Liquid Pagination, via jekyll-paginate Jekyll Feed Jekyll SEO Tag Jekyll Sitemap Google Analytics Disqus MathJax </description>
+    </item>
+    
+    <item>
+      <title>Dumbarton</title>
+      <link>/theme/jekyll-dumbarton/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-dumbarton/</guid>
+      <description>About Dumbarton is a jekyll theme designed for academics. It provides enough content to fully represent a full body of work but still retains a minimalistic feel.</description>
+    </item>
+    
+    <item>
+      <title>Not Pure Poole</title>
+      <link>/theme/not-pure-poole/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/not-pure-poole/</guid>
+      <description>A simple starter kit for Gridsome Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs.</description>
+    </item>
+    
+    <item>
+      <title>devlopr-jekyll</title>
+      <link>/theme/devlopr/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/devlopr/</guid>
+      <description>A Jekyll Theme built for Developers Devlopr is a modern Jekyll Theme built for Developers focused on speed performance &amp;amp; SEO best practices.</description>
+    </item>
+    
+    <item>
+      <title>Pudhina</title>
+      <link>/theme/pudhina/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/pudhina/</guid>
+      <description>Pudhina A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</description>
+    </item>
+    
+    <item>
+      <title>Yet Another Theme (YAT)</title>
+      <link>/theme/jekyll-theme-yat/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-yat/</guid>
+      <description>What&amp;rsquo;s new? 🎨 Yet another theme for elegant writers with modern flat style.</description>
+    </item>
+    
+    <item>
+      <title>Lone Wolf Theme</title>
+      <link>/theme/jekyll-lone-wolf-theme/</link>
+      <pubDate>Sun, 23 Aug 2020 18:13:04 +0000</pubDate>
+      
+      <guid>/theme/jekyll-lone-wolf-theme/</guid>
+      <description>Lone Wolf Theme is a simple bootstrap based jekyll theme. It is infamous for abstracting away the frontend code using Bootstrap 4 and Bootswatch wrappers to help us focus on the content and the functions.</description>
+    </item>
+    
+    <item>
+      <title>Bulma Clean Theme</title>
+      <link>/theme/bulma-clean-theme/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/bulma-clean-theme/</guid>
+      <description>Bulma clean theme works with GitHub Pages and has a wide range of page layout available to use.</description>
+    </item>
+    
+    <item>
+      <title>Mere Blog Theme</title>
+      <link>/theme/mere-blog-theme/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/mere-blog-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What A Theme</title>
+      <link>/theme/jekyll-what-a-theme/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-what-a-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dark-poole</title>
+      <link>/theme/dark-poole/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/dark-poole/</guid>
+      <description>Minimal, responsive, and no frills theme Dark Poole is a permanent dark theme of the Poole theme by @mdo.</description>
+    </item>
+    
+    <item>
+      <title>jekyll-rtd-theme</title>
+      <link>/theme/jekyll-rtd-theme/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-rtd-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>no style, please!</title>
+      <link>/theme/no-style-please/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/no-style-please/</guid>
+      <description>A (nearly) no-CSS, fast, minimalist Jekyll theme Features Fast (&amp;lt; 1kb of CSS, see Page Speed Insights report and Lighthouse report) Responsive Content first (typography optimized for maximum readability) SEO optimized (uses Jekyll SEO Tag) RSS feed (uses Jekyll Feed) Fully compatible with GitHub Pages (see GitHub Pages installation) </description>
+    </item>
+    
+    <item>
+      <title>jekyll Podcaster</title>
+      <link>/theme/jekyll-podcaster/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-podcaster/</guid>
+      <description>Jekyll Podcaster Jekyll Podcaster is a Jekyll theme built for podcasters.</description>
+    </item>
+    
+    <item>
+      <title>Bay</title>
+      <link>/theme/jekyll-bay/</link>
+      <pubDate>Sun, 19 Jul 2020 14:33:30 +0000</pubDate>
+      
+      <guid>/theme/jekyll-bay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamilton</title>
+      <link>/theme/hamilton/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hamilton/</guid>
+      <description>Hamilton A minimal and beautiful Jekyll theme best for writing and note-taking.</description>
+    </item>
+    
+    <item>
+      <title>Geekyll Starter Blog</title>
+      <link>/theme/geekyll-starter-blog/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/geekyll-starter-blog/</guid>
+      <description>Features Minimal CSS Light weight Short author bio Syntax highlighting </description>
+    </item>
+    
+    <item>
+      <title>YAMT</title>
+      <link>/theme/jekyll-yamt/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-yamt/</guid>
+      <description>YAMT - Yet Another Minimal Theme YAMT is a minimal Jekyll theme focused on simplicity and ease-of-use.</description>
+    </item>
+    
+    <item>
+      <title>Neumorphism</title>
+      <link>/theme/jekyll-neumorphism/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-neumorphism/</guid>
+      <description>Neumorphism This is a personal website built with Jekyll, which is based on the new Neumorphism design trend and was developed with a mobile-first approach.</description>
+    </item>
+    
+    <item>
+      <title>Memoirs</title>
+      <link>/theme/jekyll-memoirs/</link>
+      <pubDate>Wed, 08 Apr 2020 05:58:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-memoirs/</guid>
+      <description>&amp;ldquo;Memoirs&amp;rdquo; is a free Bootstrap Jekyll theme for blogging, collections, resources, reviews websites.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll Klisé</title>
+      <link>/theme/jekyll-klise/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-klise/</guid>
+      <description>Klisé Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.</description>
+    </item>
+    
+    <item>
+      <title>Hitchens</title>
+      <link>/theme/jekyll-hitchens/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hitchens/</guid>
+      <description>&amp;ldquo;An inarguably well-designed Jekyll theme by Pat Dryburgh. Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science.</description>
+    </item>
+    
+    <item>
+      <title>Planty</title>
+      <link>/theme/planty/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/planty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creative Theme - New</title>
+      <link>/theme/jekyll-creative-theme-new/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-creative-theme-new/</guid>
+      <description>Description Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose use.</description>
+    </item>
+    
+    <item>
+      <title>Friday Theme</title>
+      <link>/theme/jekyll-friday-theme/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-friday-theme/</guid>
+      <description>About Friday Theme is a theme for Jekyll using Bootstrap 4.</description>
+    </item>
+    
+    <item>
+      <title>Sidey</title>
+      <link>/theme/sidey-jekyll/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/sidey-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll-Uno-Timeline</title>
+      <link>/theme/jekyll-uno-timeline/</link>
+      <pubDate>Fri, 31 Jan 2020 06:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-uno-timeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retro Yellow</title>
+      <link>/theme/jekyll-theme-retro-yellow/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-retro-yellow/</guid>
+      <description>A minimal theme for Jekyll A super simple theme with minimal CSS and HTML.</description>
+    </item>
+    
+    <item>
+      <title>Noir</title>
+      <link>/theme/noir/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/noir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Reader</title>
+      <link>/theme/jekyll-theme-dark-reader/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-dark-reader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colorie</title>
+      <link>/theme/colorie-jekyll/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/colorie-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gray</title>
+      <link>/theme/gray-jekyll/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gray-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra</title>
+      <link>/theme/ultra-jekyll/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/ultra-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Serif</title>
+      <link>/theme/jekyll-serif/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-serif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garth</title>
+      <link>/theme/garth/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/garth/</guid>
+      <description>🥁 A really basic theme for Jekyll, using the official Jekyll theme implementation.</description>
+    </item>
+    
+    <item>
+      <title>Simpol Theme</title>
+      <link>/theme/simpol-theme/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/simpol-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onassis</title>
+      <link>/theme/onassis/</link>
+      <pubDate>Wed, 16 Oct 2019 21:11:55 +0000</pubDate>
+      
+      <guid>/theme/onassis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streamer Theme</title>
+      <link>/theme/streamer-theme/</link>
+      <pubDate>Mon, 14 Oct 2019 16:19:53 +0000</pubDate>
+      
+      <guid>/theme/streamer-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Interesting Times</title>
+      <link>/theme/the-interesting-times/</link>
+      <pubDate>Sun, 06 Oct 2019 21:10:52 +0000</pubDate>
+      
+      <guid>/theme/the-interesting-times/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milo Bootstrap</title>
+      <link>/theme/jekyll-theme-milo/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-milo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Texture</title>
+      <link>/theme/jekyll-theme-texture-theme/</link>
+      <pubDate>Sat, 29 Jun 2019 14:05:37 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-texture-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pRoJEct-NeGYa</title>
+      <link>/theme/jekyll-theme-project-negya/</link>
+      <pubDate>Sat, 15 Jun 2019 10:37:38 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-project-negya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>panthera-jekyll</title>
+      <link>/theme/jekyll-theme-panthera-jekyll/</link>
+      <pubDate>Tue, 04 Jun 2019 23:36:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-panthera-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOFFER</title>
+      <link>/theme/jekyll-theme-loffer/</link>
+      <pubDate>Sun, 02 Jun 2019 06:42:58 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-loffer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plainwhite</title>
+      <link>/theme/jekyll-theme-plainwhite/</link>
+      <pubDate>Sun, 24 Mar 2019 16:00:17 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-plainwhite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wu-kan</title>
+      <link>/theme/jekyll-theme-wu-kan/</link>
+      <pubDate>Fri, 22 Feb 2019 21:33:42 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-wu-kan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portfolYOU</title>
+      <link>/theme/portfolyou/</link>
+      <pubDate>Sat, 09 Feb 2019 10:06:09 +0000</pubDate>
+      
+      <guid>/theme/portfolyou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mundana Jekyll Theme</title>
+      <link>/theme/jekyll-theme-mundana/</link>
+      <pubDate>Fri, 08 Feb 2019 19:25:42 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-mundana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chirpy</title>
+      <link>/theme/jekyll-theme-chirpy/</link>
+      <pubDate>Sat, 12 Jan 2019 07:37:30 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-chirpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic</title>
+      <link>/theme/automatic-app-landing-page/</link>
+      <pubDate>Sat, 05 Jan 2019 10:20:11 +0000</pubDate>
+      
+      <guid>/theme/automatic-app-landing-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nangka Theme</title>
+      <link>/theme/jekyll-nangka/</link>
+      <pubDate>Sat, 29 Dec 2018 17:37:54 +0000</pubDate>
+      
+      <guid>/theme/jekyll-nangka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydrogen</title>
+      <link>/theme/jekyll-theme-hydrogen/</link>
+      <pubDate>Sun, 18 Nov 2018 07:09:14 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-hydrogen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll-theme-console</title>
+      <link>/theme/jekyll-theme-console/</link>
+      <pubDate>Wed, 07 Nov 2018 15:08:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-console/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>True Minimal</title>
+      <link>/theme/jekyll-theme-true-minimal/</link>
+      <pubDate>Wed, 17 Oct 2018 07:11:51 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-true-minimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hitchens</title>
+      <link>/theme/hitchens/</link>
+      <pubDate>Tue, 31 Jul 2018 01:12:09 +0000</pubDate>
+      
+      <guid>/theme/hitchens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuild Jekyll</title>
+      <link>/theme/ubuild-jekyll/</link>
+      <pubDate>Wed, 20 Jun 2018 13:05:57 +0000</pubDate>
+      
+      <guid>/theme/ubuild-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HardCandy-Jekyll</title>
+      <link>/theme/jekyll-theme-hardcandy/</link>
+      <pubDate>Mon, 28 May 2018 12:09:01 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-hardcandy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barber</title>
+      <link>/theme/jekyll-theme-barber/</link>
+      <pubDate>Thu, 15 Feb 2018 03:05:57 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-barber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Starter Minimal Blog</title>
+      <link>/theme/gatsby-starter-minimal-blog/</link>
+      <pubDate>Fri, 02 Feb 2018 18:52:29 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-minimal-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affiliates Jekyll</title>
+      <link>/theme/affiliates-jekyll-theme/</link>
+      <pubDate>Thu, 01 Feb 2018 16:37:57 +0000</pubDate>
+      
+      <guid>/theme/affiliates-jekyll-theme/</guid>
+      <description>Affiliates - Jekyll Blogging Theme for Affiliate Marketers</description>
+    </item>
+    
+    <item>
+      <title>Jekyll Contrast</title>
+      <link>/theme/jekyll-contrast/</link>
+      <pubDate>Fri, 19 Jan 2018 01:23:22 +0000</pubDate>
+      
+      <guid>/theme/jekyll-contrast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediumish Theme Jekyll</title>
+      <link>/theme/mediumish-theme-jekyll/</link>
+      <pubDate>Fri, 12 Jan 2018 23:01:51 +0000</pubDate>
+      
+      <guid>/theme/mediumish-theme-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prologue</title>
+      <link>/theme/jekyll-theme-prologue/</link>
+      <pubDate>Sun, 07 Jan 2018 03:51:49 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-prologue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal Text</title>
+      <link>/theme/jekyll-theme-minimal-text/</link>
+      <pubDate>Fri, 15 Dec 2017 11:36:36 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-minimal-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacker Blog</title>
+      <link>/theme/jekyll-theme-hacker-blog/</link>
+      <pubDate>Tue, 12 Dec 2017 21:51:39 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-hacker-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Help Center Theme</title>
+      <link>/theme/jekyll-theme-help-center/</link>
+      <pubDate>Tue, 12 Dec 2017 15:50:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-help-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanuman</title>
+      <link>/theme/jekyll-hanuman-theme/</link>
+      <pubDate>Mon, 04 Dec 2017 06:41:05 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hanuman-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Material Theme</title>
+      <link>/theme/jekyll-material-theme/</link>
+      <pubDate>Mon, 27 Nov 2017 21:19:23 +0000</pubDate>
+      
+      <guid>/theme/jekyll-material-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleek</title>
+      <link>/theme/sleek/</link>
+      <pubDate>Sun, 19 Nov 2017 09:46:18 +0000</pubDate>
+      
+      <guid>/theme/sleek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jasper2</title>
+      <link>/theme/jasper2/</link>
+      <pubDate>Fri, 17 Nov 2017 15:53:38 +0000</pubDate>
+      
+      <guid>/theme/jasper2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal Resume</title>
+      <link>/theme/jekyll-theme-minimal-resume/</link>
+      <pubDate>Thu, 16 Nov 2017 01:45:13 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-minimal-resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Massively</title>
+      <link>/theme/jekyll-massively-theme/</link>
+      <pubDate>Mon, 13 Nov 2017 02:43:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-massively-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekflix</title>
+      <link>/theme/jekyll-fractal-theme/</link>
+      <pubDate>Fri, 10 Nov 2017 23:43:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-fractal-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just The Docs</title>
+      <link>/theme/just-the-docs/</link>
+      <pubDate>Wed, 08 Nov 2017 16:22:28 +0000</pubDate>
+      
+      <guid>/theme/just-the-docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall-E</title>
+      <link>/theme/jekyll-wall-e-theme/</link>
+      <pubDate>Sat, 21 Oct 2017 10:30:33 +0000</pubDate>
+      
+      <guid>/theme/jekyll-wall-e-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web-presentation</title>
+      <link>/theme/jekyll-web-presentation-theme/</link>
+      <pubDate>Sun, 15 Oct 2017 05:35:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-web-presentation-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helium Jekyll</title>
+      <link>/theme/jekyll-helium-theme/</link>
+      <pubDate>Sat, 07 Oct 2017 14:59:13 +0000</pubDate>
+      
+      <guid>/theme/jekyll-helium-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TeXt</title>
+      <link>/theme/jekyll-text-theme/</link>
+      <pubDate>Sat, 07 Oct 2017 10:04:39 +0000</pubDate>
+      
+      <guid>/theme/jekyll-text-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type on Strap</title>
+      <link>/theme/jekyll-type-on-strap-theme/</link>
+      <pubDate>Mon, 02 Oct 2017 13:37:28 +0000</pubDate>
+      
+      <guid>/theme/jekyll-type-on-strap-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Type</title>
+      <link>/theme/jekyll-type/</link>
+      <pubDate>Mon, 25 Sep 2017 11:27:16 +0000</pubDate>
+      
+      <guid>/theme/jekyll-type/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xixia</title>
+      <link>/theme/jekyll-xixia-theme/</link>
+      <pubDate>Tue, 19 Sep 2017 06:00:06 +0000</pubDate>
+      
+      <guid>/theme/jekyll-xixia-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows 95</title>
+      <link>/theme/jekyll-windows-95-theme/</link>
+      <pubDate>Sun, 17 Sep 2017 15:21:03 +0000</pubDate>
+      
+      <guid>/theme/jekyll-windows-95-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Jekyll</title>
+      <link>/theme/flexible-jekyll/</link>
+      <pubDate>Thu, 14 Sep 2017 13:16:08 +0000</pubDate>
+      
+      <guid>/theme/flexible-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekflix</title>
+      <link>/theme/jekyll-jekflix-theme/</link>
+      <pubDate>Sat, 09 Sep 2017 15:29:54 +0000</pubDate>
+      
+      <guid>/theme/jekyll-jekflix-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Blog</title>
+      <link>/theme/jekyll-adam-blog-theme/</link>
+      <pubDate>Wed, 06 Sep 2017 10:24:57 +0000</pubDate>
+      
+      <guid>/theme/jekyll-adam-blog-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panel CV - V2</title>
+      <link>/theme/jekyll-panelcvagain-theme/</link>
+      <pubDate>Fri, 25 Aug 2017 08:50:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-panelcvagain-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Materialize</title>
+      <link>/theme/jekyll-materialize-theme/</link>
+      <pubDate>Wed, 09 Aug 2017 19:17:13 +0000</pubDate>
+      
+      <guid>/theme/jekyll-materialize-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event</title>
+      <link>/theme/jekyll-event-theme/</link>
+      <pubDate>Wed, 09 Aug 2017 05:56:36 +0000</pubDate>
+      
+      <guid>/theme/jekyll-event-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JOYTOU</title>
+      <link>/theme/jekyll-joytou-theme/</link>
+      <pubDate>Thu, 03 Aug 2017 13:26:48 +0000</pubDate>
+      
+      <guid>/theme/jekyll-joytou-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liberxue Theme</title>
+      <link>/theme/jekyll-liberxue-theme/</link>
+      <pubDate>Wed, 02 Aug 2017 04:58:02 +0000</pubDate>
+      
+      <guid>/theme/jekyll-liberxue-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panel CV</title>
+      <link>/theme/jekyll-panelcv-theme/</link>
+      <pubDate>Sun, 30 Jul 2017 09:09:24 +0000</pubDate>
+      
+      <guid>/theme/jekyll-panelcv-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NexT</title>
+      <link>/theme/jekyll-next-theme/</link>
+      <pubDate>Fri, 21 Jul 2017 08:44:59 +0000</pubDate>
+      
+      <guid>/theme/jekyll-next-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bef</title>
+      <link>/theme/jekyll-bef-theme/</link>
+      <pubDate>Sun, 16 Jul 2017 15:34:56 +0000</pubDate>
+      
+      <guid>/theme/jekyll-bef-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popup Tweets</title>
+      <link>/theme/jekyll-popuptweets-theme/</link>
+      <pubDate>Sun, 16 Jul 2017 02:24:14 +0000</pubDate>
+      
+      <guid>/theme/jekyll-popuptweets-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plain Webcomic</title>
+      <link>/theme/jekyll-plain-webcomic-theme/</link>
+      <pubDate>Wed, 12 Jul 2017 03:19:34 +0000</pubDate>
+      
+      <guid>/theme/jekyll-plain-webcomic-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marat</title>
+      <link>/theme/jekyll-marat-theme/</link>
+      <pubDate>Mon, 19 Jun 2017 05:38:37 +0000</pubDate>
+      
+      <guid>/theme/jekyll-marat-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clyell</title>
+      <link>/theme/jekyll-clyell-theme/</link>
+      <pubDate>Fri, 16 Jun 2017 03:14:11 +0000</pubDate>
+      
+      <guid>/theme/jekyll-clyell-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JBlog</title>
+      <link>/theme/jekyll-jblog-theme/</link>
+      <pubDate>Wed, 14 Jun 2017 13:47:32 +0000</pubDate>
+      
+      <guid>/theme/jekyll-jblog-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydeout</title>
+      <link>/theme/hydeout/</link>
+      <pubDate>Thu, 01 Jun 2017 00:22:41 +0000</pubDate>
+      
+      <guid>/theme/hydeout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slate&#43;Simple</title>
+      <link>/theme/jekyll-slate-and-simple-theme/</link>
+      <pubDate>Sun, 28 May 2017 01:14:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-slate-and-simple-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Texture</title>
+      <link>/theme/jekyll-simple-texture-theme/</link>
+      <pubDate>Sat, 27 May 2017 10:52:29 +0000</pubDate>
+      
+      <guid>/theme/jekyll-simple-texture-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll-theme-mdui</title>
+      <link>/theme/jekyll-mdui-theme/</link>
+      <pubDate>Wed, 24 May 2017 03:00:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mdui-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Theme Simple Blog</title>
+      <link>/theme/jekyll-simple-blog-theme/</link>
+      <pubDate>Sat, 20 May 2017 16:21:49 +0000</pubDate>
+      
+      <guid>/theme/jekyll-simple-blog-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Doc Theme</title>
+      <link>/theme/jekyll-doc-theme/</link>
+      <pubDate>Wed, 03 May 2017 17:48:59 +0000</pubDate>
+      
+      <guid>/theme/jekyll-doc-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dactl</title>
+      <link>/theme/jekyll-dactl-theme/</link>
+      <pubDate>Sun, 30 Apr 2017 17:52:23 +0000</pubDate>
+      
+      <guid>/theme/jekyll-dactl-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cayman Blog Theme</title>
+      <link>/theme/jekyll-theme-cayman-blog/</link>
+      <pubDate>Fri, 28 Apr 2017 21:55:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-cayman-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typing</title>
+      <link>/theme/jekyll-typing-theme/</link>
+      <pubDate>Thu, 20 Apr 2017 17:36:16 +0000</pubDate>
+      
+      <guid>/theme/jekyll-typing-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soot Spirits</title>
+      <link>/theme/jekyll-sootspirits-theme/</link>
+      <pubDate>Mon, 17 Apr 2017 17:06:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-sootspirits-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git-Wiki</title>
+      <link>/theme/jekyll-git-wiki-for-documentation-theme/</link>
+      <pubDate>Thu, 13 Apr 2017 18:08:39 +0000</pubDate>
+      
+      <guid>/theme/jekyll-git-wiki-for-documentation-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fresh</title>
+      <link>/theme/jekyll-fresh-theme/</link>
+      <pubDate>Mon, 03 Apr 2017 13:25:22 +0000</pubDate>
+      
+      <guid>/theme/jekyll-fresh-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solana</title>
+      <link>/theme/jekyll-solana-theme/</link>
+      <pubDate>Wed, 29 Mar 2017 06:10:39 +0000</pubDate>
+      
+      <guid>/theme/jekyll-solana-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mekyll</title>
+      <link>/theme/jekyll-mekyll-theme/</link>
+      <pubDate>Mon, 27 Mar 2017 10:27:29 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mekyll-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FullIt theme</title>
+      <link>/theme/jekyll-fullit-theme/</link>
+      <pubDate>Thu, 23 Mar 2017 11:59:12 +0000</pubDate>
+      
+      <guid>/theme/jekyll-fullit-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MatJek</title>
+      <link>/theme/jekyll-matjek-theme/</link>
+      <pubDate>Thu, 23 Mar 2017 09:55:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-matjek-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webjeda Ashwath</title>
+      <link>/theme/jekyll-webjeda-ashwath/</link>
+      <pubDate>Wed, 22 Mar 2017 19:17:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-webjeda-ashwath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Blog Version 2</title>
+      <link>/theme/jekyll-modern-blog-v2-theme/</link>
+      <pubDate>Sun, 12 Mar 2017 15:47:54 +0000</pubDate>
+      
+      <guid>/theme/jekyll-modern-blog-v2-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monday</title>
+      <link>/theme/jekyll-monday-theme/</link>
+      <pubDate>Fri, 10 Mar 2017 15:42:27 +0000</pubDate>
+      
+      <guid>/theme/jekyll-monday-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Tale</title>
+      <link>/theme/jekyll-tale-theme/</link>
+      <pubDate>Fri, 10 Mar 2017 04:32:23 +0000</pubDate>
+      
+      <guid>/theme/jekyll-tale-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basically Basic</title>
+      <link>/theme/jekyll-theme-basically-basic/</link>
+      <pubDate>Tue, 07 Mar 2017 21:08:01 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-basically-basic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kagami</title>
+      <link>/theme/jekyll-kagami/</link>
+      <pubDate>Tue, 07 Mar 2017 03:59:23 +0000</pubDate>
+      
+      <guid>/theme/jekyll-kagami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mr.Brown</title>
+      <link>/theme/jekyll-mr-brown/</link>
+      <pubDate>Thu, 23 Feb 2017 17:03:57 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mr-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monochrome</title>
+      <link>/theme/jekyll-monochrome/</link>
+      <pubDate>Mon, 20 Feb 2017 03:58:54 +0000</pubDate>
+      
+      <guid>/theme/jekyll-monochrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweet 16</title>
+      <link>/theme/jekyll-sweet-16-theme/</link>
+      <pubDate>Wed, 08 Feb 2017 20:32:46 +0000</pubDate>
+      
+      <guid>/theme/jekyll-sweet-16-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Bulma</title>
+      <link>/theme/jekyll-bulma-theme/</link>
+      <pubDate>Thu, 02 Feb 2017 09:36:52 +0000</pubDate>
+      
+      <guid>/theme/jekyll-bulma-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blade Theme</title>
+      <link>/theme/jekyll-blade-theme/</link>
+      <pubDate>Wed, 25 Jan 2017 22:59:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-blade-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Console</title>
+      <link>/theme/jekyll-console/</link>
+      <pubDate>Wed, 25 Jan 2017 06:26:30 +0000</pubDate>
+      
+      <guid>/theme/jekyll-console/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle</title>
+      <link>/theme/jekyll-particle/</link>
+      <pubDate>Tue, 17 Jan 2017 05:20:07 +0000</pubDate>
+      
+      <guid>/theme/jekyll-particle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TextLog</title>
+      <link>/theme/jekyll-textlog/</link>
+      <pubDate>Sun, 15 Jan 2017 08:19:03 +0000</pubDate>
+      
+      <guid>/theme/jekyll-textlog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Gaia</title>
+      <link>/theme/jekyll-project-gaia/</link>
+      <pubDate>Mon, 09 Jan 2017 07:22:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-project-gaia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>whiteglass</title>
+      <link>/theme/jekyll-whiteglass/</link>
+      <pubDate>Fri, 06 Jan 2017 17:13:03 +0000</pubDate>
+      
+      <guid>/theme/jekyll-whiteglass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Blog</title>
+      <link>/theme/jekyll-feature-blog/</link>
+      <pubDate>Thu, 05 Jan 2017 19:19:50 +0000</pubDate>
+      
+      <guid>/theme/jekyll-feature-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll-hilmi</title>
+      <link>/theme/jekyll-hilmi/</link>
+      <pubDate>Sun, 01 Jan 2017 14:27:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hilmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beNice17</title>
+      <link>/theme/jekyll-benice17/</link>
+      <pubDate>Fri, 30 Dec 2016 13:15:34 +0000</pubDate>
+      
+      <guid>/theme/jekyll-benice17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material Bliss</title>
+      <link>/theme/jekyll-materialbliss/</link>
+      <pubDate>Thu, 29 Dec 2016 03:27:05 +0000</pubDate>
+      
+      <guid>/theme/jekyll-materialbliss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra-Minimalista</title>
+      <link>/theme/jekyll-ultra-minimalista/</link>
+      <pubDate>Sun, 25 Dec 2016 05:30:54 +0000</pubDate>
+      
+      <guid>/theme/jekyll-ultra-minimalista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIMPLE GREEN TECHBLOG</title>
+      <link>/theme/jekyll-theme-simple-green-tech/</link>
+      <pubDate>Fri, 16 Dec 2016 09:55:03 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-simple-green-tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webjeda Bheema</title>
+      <link>/theme/jekyll-bheema/</link>
+      <pubDate>Thu, 08 Dec 2016 18:01:48 +0000</pubDate>
+      
+      <guid>/theme/jekyll-bheema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Vision Casper Theme</title>
+      <link>/theme/jekyll-vision-casper-theme/</link>
+      <pubDate>Sat, 26 Nov 2016 05:26:16 +0000</pubDate>
+      
+      <guid>/theme/jekyll-vision-casper-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cause</title>
+      <link>/theme/jekyll-cause/</link>
+      <pubDate>Wed, 16 Nov 2016 01:59:02 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cause/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CC Urban</title>
+      <link>/theme/jekyll-cc-urban/</link>
+      <pubDate>Thu, 10 Nov 2016 03:08:36 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cc-urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justice</title>
+      <link>/theme/jekyll-justice/</link>
+      <pubDate>Thu, 10 Nov 2016 00:56:02 +0000</pubDate>
+      
+      <guid>/theme/jekyll-justice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malt</title>
+      <link>/theme/jekyll-malt/</link>
+      <pubDate>Wed, 09 Nov 2016 22:42:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-malt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onepage</title>
+      <link>/theme/jekyll-onepage/</link>
+      <pubDate>Sun, 06 Nov 2016 15:13:02 +0000</pubDate>
+      
+      <guid>/theme/jekyll-onepage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papyrus</title>
+      <link>/theme/jekyll-papyrus-theme/</link>
+      <pubDate>Sat, 05 Nov 2016 22:24:58 +0000</pubDate>
+      
+      <guid>/theme/jekyll-papyrus-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Murmur</title>
+      <link>/theme/jekyll-murmur/</link>
+      <pubDate>Thu, 03 Nov 2016 06:46:39 +0000</pubDate>
+      
+      <guid>/theme/jekyll-murmur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Avalon</title>
+      <link>/theme/jekyll-avalon/</link>
+      <pubDate>Thu, 03 Nov 2016 03:54:30 +0000</pubDate>
+      
+      <guid>/theme/jekyll-avalon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webjeda Hagura</title>
+      <link>/theme/jekyll-hagura/</link>
+      <pubDate>Wed, 02 Nov 2016 14:30:30 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hagura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2 column Blog with Video</title>
+      <link>/theme/jekyll-two-column/</link>
+      <pubDate>Tue, 01 Nov 2016 17:51:22 +0000</pubDate>
+      
+      <guid>/theme/jekyll-two-column/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webjeda Karna</title>
+      <link>/theme/jekyll-karna/</link>
+      <pubDate>Tue, 01 Nov 2016 14:59:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-karna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frisco</title>
+      <link>/theme/jekyll-frisco/</link>
+      <pubDate>Tue, 01 Nov 2016 04:12:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-frisco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Age</title>
+      <link>/theme/jekyll-new-age/</link>
+      <pubDate>Tue, 25 Oct 2016 05:15:39 +0000</pubDate>
+      
+      <guid>/theme/jekyll-new-age/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emping Theme</title>
+      <link>/theme/jekyll-emping/</link>
+      <pubDate>Fri, 21 Oct 2016 16:56:20 +0000</pubDate>
+      
+      <guid>/theme/jekyll-emping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydra</title>
+      <link>/theme/hydra-jekyll-template/</link>
+      <pubDate>Fri, 14 Oct 2016 04:39:07 +0000</pubDate>
+      
+      <guid>/theme/hydra-jekyll-template/</guid>
+      <description>Product marketing template for Jekyll.</description>
+    </item>
+    
+    <item>
+      <title>Ezora</title>
+      <link>/theme/jekyll-ezora/</link>
+      <pubDate>Sat, 24 Sep 2016 20:50:53 +0000</pubDate>
+      
+      <guid>/theme/jekyll-ezora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vyaasa</title>
+      <link>/theme/jekyll-vyaasa/</link>
+      <pubDate>Thu, 22 Sep 2016 14:23:34 +0000</pubDate>
+      
+      <guid>/theme/jekyll-vyaasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space</title>
+      <link>/theme/jekyll-space-theme/</link>
+      <pubDate>Mon, 12 Sep 2016 16:49:05 +0000</pubDate>
+      
+      <guid>/theme/jekyll-space-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RLStevenson</title>
+      <link>/theme/jekyll-rlstevenson/</link>
+      <pubDate>Thu, 08 Sep 2016 12:22:19 +0000</pubDate>
+      
+      <guid>/theme/jekyll-rlstevenson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Material</title>
+      <link>/theme/jekyll-light-material/</link>
+      <pubDate>Tue, 06 Sep 2016 08:42:27 +0000</pubDate>
+      
+      <guid>/theme/jekyll-light-material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio Jekyll Theme</title>
+      <link>/theme/jekyll-portfolio-theme/</link>
+      <pubDate>Mon, 05 Sep 2016 21:02:25 +0000</pubDate>
+      
+      <guid>/theme/jekyll-portfolio-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instagram portfolio theme</title>
+      <link>/theme/jekyll-instagram-portfolio-theme/</link>
+      <pubDate>Thu, 01 Sep 2016 14:41:11 +0000</pubDate>
+      
+      <guid>/theme/jekyll-instagram-portfolio-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Libretto</title>
+      <link>/theme/jekyll-theme-libretto/</link>
+      <pubDate>Thu, 01 Sep 2016 12:53:45 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-libretto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Researcher</title>
+      <link>/theme/jekyll-researcher/</link>
+      <pubDate>Mon, 29 Aug 2016 16:23:36 +0000</pubDate>
+      
+      <guid>/theme/jekyll-researcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trophy</title>
+      <link>/theme/jekyll-trophy/</link>
+      <pubDate>Mon, 29 Aug 2016 04:37:02 +0000</pubDate>
+      
+      <guid>/theme/jekyll-trophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alembic</title>
+      <link>/theme/alembic/</link>
+      <pubDate>Sat, 27 Aug 2016 15:50:21 +0000</pubDate>
+      
+      <guid>/theme/alembic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forty (by HTML5 Up!)</title>
+      <link>/theme/jekyll-forty/</link>
+      <pubDate>Tue, 23 Aug 2016 00:53:06 +0000</pubDate>
+      
+      <guid>/theme/jekyll-forty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millennial</title>
+      <link>/theme/millennial/</link>
+      <pubDate>Sun, 21 Aug 2016 21:53:24 +0000</pubDate>
+      
+      <guid>/theme/millennial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kikofri </title>
+      <link>/theme/jekyll-kikofri/</link>
+      <pubDate>Sun, 21 Aug 2016 18:10:19 +0000</pubDate>
+      
+      <guid>/theme/jekyll-kikofri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Less Or More</title>
+      <link>/theme/jekyll-less-or-more/</link>
+      <pubDate>Sat, 20 Aug 2016 17:16:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-less-or-more/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kiko Plus</title>
+      <link>/theme/jekyll-kiko-plus/</link>
+      <pubDate>Mon, 08 Aug 2016 10:33:16 +0000</pubDate>
+      
+      <guid>/theme/jekyll-kiko-plus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll theme HackCSS</title>
+      <link>/theme/jekyll-theme-hackcss/</link>
+      <pubDate>Fri, 29 Jul 2016 19:17:30 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-hackcss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online CV</title>
+      <link>/theme/jekyll-online-cv/</link>
+      <pubDate>Fri, 29 Jul 2016 04:35:27 +0000</pubDate>
+      
+      <guid>/theme/jekyll-online-cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chalk</title>
+      <link>/theme/jekyll-chalk/</link>
+      <pubDate>Tue, 26 Jul 2016 20:59:57 +0000</pubDate>
+      
+      <guid>/theme/jekyll-chalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lagrange</title>
+      <link>/theme/jekyll-lagrange/</link>
+      <pubDate>Sun, 24 Jul 2016 02:05:27 +0000</pubDate>
+      
+      <guid>/theme/jekyll-lagrange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wing</title>
+      <link>/theme/jekyll-wing/</link>
+      <pubDate>Tue, 19 Jul 2016 09:48:57 +0000</pubDate>
+      
+      <guid>/theme/jekyll-wing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webjeda Gatok</title>
+      <link>/theme/jekyll-gatok/</link>
+      <pubDate>Fri, 15 Jul 2016 17:24:18 +0000</pubDate>
+      
+      <guid>/theme/jekyll-gatok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edition</title>
+      <link>/theme/jekyll-edition/</link>
+      <pubDate>Thu, 14 Jul 2016 03:38:28 +0000</pubDate>
+      
+      <guid>/theme/jekyll-edition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webjeda Slides</title>
+      <link>/theme/jekyll-slides/</link>
+      <pubDate>Wed, 06 Jul 2016 17:15:11 +0000</pubDate>
+      
+      <guid>/theme/jekyll-slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Violet</title>
+      <link>/theme/jekyll-violet/</link>
+      <pubDate>Wed, 06 Jul 2016 02:09:17 +0000</pubDate>
+      
+      <guid>/theme/jekyll-violet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voyager</title>
+      <link>/theme/jekyll-voyager/</link>
+      <pubDate>Wed, 29 Jun 2016 06:06:11 +0000</pubDate>
+      
+      <guid>/theme/jekyll-voyager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll-simple</title>
+      <link>/theme/jekyll-simple/</link>
+      <pubDate>Tue, 28 Jun 2016 03:38:47 +0000</pubDate>
+      
+      <guid>/theme/jekyll-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jalpc-A</title>
+      <link>/theme/jekyll-jalpc-a/</link>
+      <pubDate>Wed, 22 Jun 2016 05:25:06 +0000</pubDate>
+      
+      <guid>/theme/jekyll-jalpc-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webjeda Cards</title>
+      <link>/theme/jekyll-webjeda-cards/</link>
+      <pubDate>Thu, 16 Jun 2016 10:12:17 +0000</pubDate>
+      
+      <guid>/theme/jekyll-webjeda-cards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renge</title>
+      <link>/theme/jekyll-renge/</link>
+      <pubDate>Tue, 14 Jun 2016 22:25:56 +0000</pubDate>
+      
+      <guid>/theme/jekyll-renge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinkspace</title>
+      <link>/theme/jekyll-thinkspace/</link>
+      <pubDate>Sat, 11 Jun 2016 09:31:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-thinkspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progress</title>
+      <link>/theme/jekyll-progress-for-jekyll/</link>
+      <pubDate>Fri, 10 Jun 2016 18:34:46 +0000</pubDate>
+      
+      <guid>/theme/jekyll-progress-for-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ink</title>
+      <link>/theme/jekyll-ink/</link>
+      <pubDate>Tue, 07 Jun 2016 05:57:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-ink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limpid Theme</title>
+      <link>/theme/jekyll-limpid-minimal-theme/</link>
+      <pubDate>Sun, 05 Jun 2016 17:18:41 +0000</pubDate>
+      
+      <guid>/theme/jekyll-limpid-minimal-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCZ Material</title>
+      <link>/theme/jekyll-hcz-material/</link>
+      <pubDate>Thu, 02 Jun 2016 07:30:03 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hcz-material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll-resume</title>
+      <link>/theme/jekyll-resume/</link>
+      <pubDate>Tue, 31 May 2016 20:26:59 +0000</pubDate>
+      
+      <guid>/theme/jekyll-resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaterializeHG Theme</title>
+      <link>/theme/jekyll-materialize-hg/</link>
+      <pubDate>Tue, 31 May 2016 04:15:04 +0000</pubDate>
+      
+      <guid>/theme/jekyll-materialize-hg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halve</title>
+      <link>/theme/jekyll-halve-theme/</link>
+      <pubDate>Mon, 30 May 2016 18:47:21 +0000</pubDate>
+      
+      <guid>/theme/jekyll-halve-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jalpc</title>
+      <link>/theme/jekyll-jalpc-theme/</link>
+      <pubDate>Sun, 29 May 2016 08:02:13 +0000</pubDate>
+      
+      <guid>/theme/jekyll-jalpc-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aliquam</title>
+      <link>/theme/jekyll-aliquam/</link>
+      <pubDate>Mon, 23 May 2016 18:34:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-aliquam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyllDecent</title>
+      <link>/theme/jekyll-decent/</link>
+      <pubDate>Sun, 22 May 2016 19:37:47 +0000</pubDate>
+      
+      <guid>/theme/jekyll-decent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safarnama</title>
+      <link>/theme/jekyll-safarnama/</link>
+      <pubDate>Sat, 21 May 2016 11:02:17 +0000</pubDate>
+      
+      <guid>/theme/jekyll-safarnama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll-Mono</title>
+      <link>/theme/jekyll-mono/</link>
+      <pubDate>Fri, 20 May 2016 19:44:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dasper</title>
+      <link>/theme/jekyll-dasper/</link>
+      <pubDate>Sun, 15 May 2016 14:47:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-dasper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yummy Theme</title>
+      <link>/theme/jekyll-yummy-theme/</link>
+      <pubDate>Fri, 13 May 2016 12:47:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-yummy-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevJournal</title>
+      <link>/theme/jekyll-devjournal/</link>
+      <pubDate>Fri, 13 May 2016 08:22:12 +0000</pubDate>
+      
+      <guid>/theme/jekyll-devjournal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thunder</title>
+      <link>/theme/jekyll-thunder/</link>
+      <pubDate>Thu, 12 May 2016 16:03:19 +0000</pubDate>
+      
+      <guid>/theme/jekyll-thunder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cards</title>
+      <link>/theme/jekyll-cards-theme/</link>
+      <pubDate>Mon, 09 May 2016 00:02:43 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cards-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darcli</title>
+      <link>/theme/jekyll-darcli/</link>
+      <pubDate>Mon, 02 May 2016 19:32:17 +0000</pubDate>
+      
+      <guid>/theme/jekyll-darcli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taken</title>
+      <link>/theme/jekyll-taken-theme/</link>
+      <pubDate>Thu, 28 Apr 2016 04:46:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-taken-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BoHu</title>
+      <link>/theme/jekyll-bohu-theme/</link>
+      <pubDate>Sun, 24 Apr 2016 03:44:01 +0000</pubDate>
+      
+      <guid>/theme/jekyll-bohu-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stack Problems</title>
+      <link>/theme/jekyll-stack-problems/</link>
+      <pubDate>Mon, 18 Apr 2016 11:12:39 +0000</pubDate>
+      
+      <guid>/theme/jekyll-stack-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pink-theme</title>
+      <link>/theme/jekyll-pink-theme/</link>
+      <pubDate>Thu, 14 Apr 2016 14:34:34 +0000</pubDate>
+      
+      <guid>/theme/jekyll-pink-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moon</title>
+      <link>/theme/jekyll-moon/</link>
+      <pubDate>Wed, 13 Apr 2016 21:13:26 +0000</pubDate>
+      
+      <guid>/theme/jekyll-moon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trading</title>
+      <link>/theme/jekyll-trading/</link>
+      <pubDate>Fri, 08 Apr 2016 08:45:41 +0000</pubDate>
+      
+      <guid>/theme/jekyll-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravity</title>
+      <link>/theme/jekyll-gravity/</link>
+      <pubDate>Wed, 30 Mar 2016 20:26:09 +0000</pubDate>
+      
+      <guid>/theme/jekyll-gravity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slender</title>
+      <link>/theme/jekyll-slender/</link>
+      <pubDate>Wed, 30 Mar 2016 10:52:12 +0000</pubDate>
+      
+      <guid>/theme/jekyll-slender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immaculate</title>
+      <link>/theme/jekyll-immaculate/</link>
+      <pubDate>Wed, 30 Mar 2016 07:48:59 +0000</pubDate>
+      
+      <guid>/theme/jekyll-immaculate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leopard</title>
+      <link>/theme/jekyll-leopard/</link>
+      <pubDate>Tue, 29 Mar 2016 15:22:17 +0000</pubDate>
+      
+      <guid>/theme/jekyll-leopard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nice Blog</title>
+      <link>/theme/jekyll-nice-blog/</link>
+      <pubDate>Tue, 29 Mar 2016 12:52:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-nice-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHOTORAMA</title>
+      <link>/theme/jekyll-photorama/</link>
+      <pubDate>Sun, 27 Mar 2016 21:21:59 +0000</pubDate>
+      
+      <guid>/theme/jekyll-photorama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blueface</title>
+      <link>/theme/jekyll-blueface/</link>
+      <pubDate>Wed, 23 Mar 2016 10:49:06 +0000</pubDate>
+      
+      <guid>/theme/jekyll-blueface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramme</title>
+      <link>/theme/jekyll-ramme/</link>
+      <pubDate>Mon, 21 Mar 2016 08:53:35 +0000</pubDate>
+      
+      <guid>/theme/jekyll-ramme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lanyon-plus</title>
+      <link>/theme/jekyll-lanyon-plus/</link>
+      <pubDate>Fri, 26 Feb 2016 22:29:05 +0000</pubDate>
+      
+      <guid>/theme/jekyll-lanyon-plus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydejack</title>
+      <link>/theme/jekyll-hydejack-theme/</link>
+      <pubDate>Fri, 26 Feb 2016 12:45:54 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hydejack-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phantom</title>
+      <link>/theme/jekyll-phantom/</link>
+      <pubDate>Sun, 21 Feb 2016 18:15:37 +0000</pubDate>
+      
+      <guid>/theme/jekyll-phantom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dekyll</title>
+      <link>/theme/jekyll-dekyll/</link>
+      <pubDate>Sun, 21 Feb 2016 14:29:19 +0000</pubDate>
+      
+      <guid>/theme/jekyll-dekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>front-cover</title>
+      <link>/theme/jekyll-front-cover/</link>
+      <pubDate>Sun, 21 Feb 2016 11:07:54 +0000</pubDate>
+      
+      <guid>/theme/jekyll-front-cover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral</title>
+      <link>/theme/jekyll-spectral/</link>
+      <pubDate>Sat, 20 Feb 2016 06:39:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-spectral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cayman Theme</title>
+      <link>/theme/jekyll-cayman-theme/</link>
+      <pubDate>Fri, 12 Feb 2016 19:24:16 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cayman-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saigon</title>
+      <link>/theme/jekyll-saigon/</link>
+      <pubDate>Thu, 11 Feb 2016 08:16:51 +0000</pubDate>
+      
+      <guid>/theme/jekyll-saigon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sciblog</title>
+      <link>/theme/jekyll-sciblog/</link>
+      <pubDate>Wed, 10 Feb 2016 04:25:25 +0000</pubDate>
+      
+      <guid>/theme/jekyll-sciblog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>accent</title>
+      <link>/theme/jekyll-accent/</link>
+      <pubDate>Tue, 09 Feb 2016 18:08:07 +0000</pubDate>
+      
+      <guid>/theme/jekyll-accent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Much-Worse</title>
+      <link>/theme/jekyll-much-worse/</link>
+      <pubDate>Mon, 08 Feb 2016 11:55:38 +0000</pubDate>
+      
+      <guid>/theme/jekyll-much-worse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artist Theme</title>
+      <link>/theme/jekyll-artist-theme/</link>
+      <pubDate>Sun, 31 Jan 2016 20:52:26 +0000</pubDate>
+      
+      <guid>/theme/jekyll-artist-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evento</title>
+      <link>/theme/jekyll-evento/</link>
+      <pubDate>Sat, 30 Jan 2016 15:51:32 +0000</pubDate>
+      
+      <guid>/theme/jekyll-evento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>简单博客</title>
+      <link>/theme/jekyll-easy-pure-blog/</link>
+      <pubDate>Fri, 29 Jan 2016 18:18:02 +0000</pubDate>
+      
+      <guid>/theme/jekyll-easy-pure-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cayman Blog</title>
+      <link>/theme/jekyll-cayman-blog/</link>
+      <pubDate>Wed, 27 Jan 2016 21:10:18 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cayman-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Library</title>
+      <link>/theme/jekyll-library/</link>
+      <pubDate>Sun, 24 Jan 2016 15:20:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Indigo</title>
+      <link>/theme/jekyll-indigo/</link>
+      <pubDate>Sat, 23 Jan 2016 22:26:04 +0000</pubDate>
+      
+      <guid>/theme/jekyll-indigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ed</title>
+      <link>/theme/jekyll-ed/</link>
+      <pubDate>Mon, 18 Jan 2016 02:09:56 +0000</pubDate>
+      
+      <guid>/theme/jekyll-ed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Good Clean Read</title>
+      <link>/theme/jekyll-good-clean-read/</link>
+      <pubDate>Sat, 16 Jan 2016 17:35:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-good-clean-read/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll-Uno</title>
+      <link>/theme/jekyll-uno/</link>
+      <pubDate>Sun, 10 Jan 2016 03:59:53 +0000</pubDate>
+      
+      <guid>/theme/jekyll-uno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaplin</title>
+      <link>/theme/jekyll-chaplin/</link>
+      <pubDate>Fri, 08 Jan 2016 20:08:48 +0000</pubDate>
+      
+      <guid>/theme/jekyll-chaplin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sleek Blog</title>
+      <link>/theme/jekyll-sleek-blog/</link>
+      <pubDate>Tue, 05 Jan 2016 20:39:17 +0000</pubDate>
+      
+      <guid>/theme/jekyll-sleek-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millikyl</title>
+      <link>/theme/jekyll-millikyl/</link>
+      <pubDate>Sat, 02 Jan 2016 15:55:57 +0000</pubDate>
+      
+      <guid>/theme/jekyll-millikyl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekmdl</title>
+      <link>/theme/jekyll-jekmdl/</link>
+      <pubDate>Thu, 31 Dec 2015 23:50:44 +0000</pubDate>
+      
+      <guid>/theme/jekyll-jekmdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dotX</title>
+      <link>/theme/jekyll-dotx/</link>
+      <pubDate>Sun, 20 Dec 2015 16:11:01 +0000</pubDate>
+      
+      <guid>/theme/jekyll-dotx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplest</title>
+      <link>/theme/jekyll-simplest/</link>
+      <pubDate>Thu, 10 Dec 2015 15:28:29 +0000</pubDate>
+      
+      <guid>/theme/jekyll-simplest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Materialize</title>
+      <link>/theme/jekyll-materialize/</link>
+      <pubDate>Tue, 01 Dec 2015 23:49:41 +0000</pubDate>
+      
+      <guid>/theme/jekyll-materialize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butane</title>
+      <link>/theme/jekyll-butane/</link>
+      <pubDate>Sun, 29 Nov 2015 18:29:17 +0000</pubDate>
+      
+      <guid>/theme/jekyll-butane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAD4Jekyll</title>
+      <link>/theme/jekyll-mad4jekyll/</link>
+      <pubDate>Sat, 28 Nov 2015 23:40:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mad4jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End2end</title>
+      <link>/theme/end2end/</link>
+      <pubDate>Thu, 26 Nov 2015 15:45:00 +0000</pubDate>
+      
+      <guid>/theme/end2end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Princess Diaries</title>
+      <link>/theme/jekyll-princess-diaries/</link>
+      <pubDate>Sat, 21 Nov 2015 15:15:37 +0000</pubDate>
+      
+      <guid>/theme/jekyll-princess-diaries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mug</title>
+      <link>/theme/jekyll-mug/</link>
+      <pubDate>Fri, 20 Nov 2015 14:42:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiki Blog</title>
+      <link>/theme/jekyll-wiki-blog/</link>
+      <pubDate>Tue, 17 Nov 2015 09:51:10 +0000</pubDate>
+      
+      <guid>/theme/jekyll-wiki-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YAX-Coming-soon</title>
+      <link>/theme/jekyll-yax-coming-soon/</link>
+      <pubDate>Mon, 16 Nov 2015 11:42:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-yax-coming-soon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lora</title>
+      <link>/theme/jekyll-lora/</link>
+      <pubDate>Sun, 15 Nov 2015 17:33:04 +0000</pubDate>
+      
+      <guid>/theme/jekyll-lora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galileo</title>
+      <link>/theme/jekyll-galileo/</link>
+      <pubDate>Sun, 15 Nov 2015 11:56:59 +0000</pubDate>
+      
+      <guid>/theme/jekyll-galileo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siera</title>
+      <link>/theme/jekyll-siera/</link>
+      <pubDate>Sat, 14 Nov 2015 07:47:20 +0000</pubDate>
+      
+      <guid>/theme/jekyll-siera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nandomoreira.me</title>
+      <link>/theme/jekyll-nandomoreira.me/</link>
+      <pubDate>Thu, 12 Nov 2015 18:06:34 +0000</pubDate>
+      
+      <guid>/theme/jekyll-nandomoreira.me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atmos Plus</title>
+      <link>/theme/jekyll-atmos-plus/</link>
+      <pubDate>Sun, 08 Nov 2015 15:21:45 +0000</pubDate>
+      
+      <guid>/theme/jekyll-atmos-plus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material blog</title>
+      <link>/theme/jekyll-materialize-jekyll/</link>
+      <pubDate>Sun, 01 Nov 2015 14:16:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-materialize-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustain</title>
+      <link>/theme/jekyll-sustain/</link>
+      <pubDate>Tue, 27 Oct 2015 22:42:43 +0000</pubDate>
+      
+      <guid>/theme/jekyll-sustain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitae</title>
+      <link>/theme/jekyll-vitae/</link>
+      <pubDate>Sat, 24 Oct 2015 19:05:41 +0000</pubDate>
+      
+      <guid>/theme/jekyll-vitae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Material</title>
+      <link>/theme/jekyll-smart-material-theme/</link>
+      <pubDate>Thu, 22 Oct 2015 20:08:05 +0000</pubDate>
+      
+      <guid>/theme/jekyll-smart-material-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yellowblue</title>
+      <link>/theme/jekyll-yellowblue/</link>
+      <pubDate>Fri, 16 Oct 2015 09:59:38 +0000</pubDate>
+      
+      <guid>/theme/jekyll-yellowblue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dentistsmile</title>
+      <link>/theme/dentistsmile/</link>
+      <pubDate>Sat, 10 Oct 2015 22:37:27 +0000</pubDate>
+      
+      <guid>/theme/dentistsmile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban</title>
+      <link>/theme/jekyll-urban/</link>
+      <pubDate>Tue, 06 Oct 2015 13:35:07 +0000</pubDate>
+      
+      <guid>/theme/jekyll-urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clean</title>
+      <link>/theme/jekyll-clean/</link>
+      <pubDate>Sat, 26 Sep 2015 18:55:33 +0000</pubDate>
+      
+      <guid>/theme/jekyll-clean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacman</title>
+      <link>/theme/jekyll-jacman/</link>
+      <pubDate>Sun, 20 Sep 2015 15:48:19 +0000</pubDate>
+      
+      <guid>/theme/jekyll-jacman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gridster</title>
+      <link>/theme/jekyll-gridster/</link>
+      <pubDate>Wed, 16 Sep 2015 16:20:07 +0000</pubDate>
+      
+      <guid>/theme/jekyll-gridster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>creative theme</title>
+      <link>/theme/jekyll-creative-theme/</link>
+      <pubDate>Sun, 13 Sep 2015 04:48:49 +0000</pubDate>
+      
+      <guid>/theme/jekyll-creative-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Plain</title>
+      <link>/theme/jekyll-the-plain/</link>
+      <pubDate>Tue, 08 Sep 2015 16:09:41 +0000</pubDate>
+      
+      <guid>/theme/jekyll-the-plain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daktilo</title>
+      <link>/theme/jekyll-daktilo/</link>
+      <pubDate>Tue, 08 Sep 2015 04:32:39 +0000</pubDate>
+      
+      <guid>/theme/jekyll-daktilo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>/theme/jekyll-paper/</link>
+      <pubDate>Mon, 07 Sep 2015 13:37:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stylish Portfolio</title>
+      <link>/theme/jekyll-stylish-portfolio/</link>
+      <pubDate>Mon, 07 Sep 2015 11:16:39 +0000</pubDate>
+      
+      <guid>/theme/jekyll-stylish-portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neo-HPSTR</title>
+      <link>/theme/jekyll-neo-hpstr-theme/</link>
+      <pubDate>Sat, 05 Sep 2015 00:02:58 +0000</pubDate>
+      
+      <guid>/theme/jekyll-neo-hpstr-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guovz Pithy</title>
+      <link>/theme/jekyll-guovz-pithy/</link>
+      <pubDate>Sun, 30 Aug 2015 09:57:59 +0000</pubDate>
+      
+      <guid>/theme/jekyll-guovz-pithy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book</title>
+      <link>/theme/jekyll-book/</link>
+      <pubDate>Thu, 27 Aug 2015 20:29:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Video</title>
+      <link>/theme/jekyll-video/</link>
+      <pubDate>Mon, 24 Aug 2015 01:18:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonids</title>
+      <link>/theme/jekyll-leonids/</link>
+      <pubDate>Sat, 22 Aug 2015 20:45:38 +0000</pubDate>
+      
+      <guid>/theme/jekyll-leonids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Elegant</title>
+      <link>/theme/jekyll-simple-elegant-theme/</link>
+      <pubDate>Fri, 21 Aug 2015 04:20:04 +0000</pubDate>
+      
+      <guid>/theme/jekyll-simple-elegant-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve&#39;s NGVB Theme</title>
+      <link>/theme/jekyll-svm-ngvb/</link>
+      <pubDate>Sun, 16 Aug 2015 21:27:34 +0000</pubDate>
+      
+      <guid>/theme/jekyll-svm-ngvb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joon</title>
+      <link>/theme/jekyll-joon/</link>
+      <pubDate>Mon, 10 Aug 2015 03:11:53 +0000</pubDate>
+      
+      <guid>/theme/jekyll-joon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planet Jekyll&#39;s Starter (Minimal)</title>
+      <link>/theme/jekyll-planetjekyll-starter/</link>
+      <pubDate>Sat, 08 Aug 2015 14:36:05 +0000</pubDate>
+      
+      <guid>/theme/jekyll-planetjekyll-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zetsu</title>
+      <link>/theme/jekyll-zetsu/</link>
+      <pubDate>Sat, 08 Aug 2015 05:58:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-zetsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will</title>
+      <link>/theme/will-jekyll-template/</link>
+      <pubDate>Tue, 04 Aug 2015 06:35:46 +0000</pubDate>
+      
+      <guid>/theme/will-jekyll-template/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mickey</title>
+      <link>/theme/jekyll-mickey/</link>
+      <pubDate>Fri, 24 Jul 2015 04:55:37 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mickey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>idk</title>
+      <link>/theme/jekyll-idk/</link>
+      <pubDate>Wed, 22 Jul 2015 02:24:05 +0000</pubDate>
+      
+      <guid>/theme/jekyll-idk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holo Alfa</title>
+      <link>/theme/jekyll-holo-alfa/</link>
+      <pubDate>Mon, 20 Jul 2015 19:10:35 +0000</pubDate>
+      
+      <guid>/theme/jekyll-holo-alfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr Jekyll&#39;s Classics Book</title>
+      <link>/theme/jekyll-drjekyll-classics-book/</link>
+      <pubDate>Thu, 16 Jul 2015 17:50:43 +0000</pubDate>
+      
+      <guid>/theme/jekyll-drjekyll-classics-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitwiser Material</title>
+      <link>/theme/jekyll-bitwiser-material/</link>
+      <pubDate>Sat, 11 Jul 2015 20:55:48 +0000</pubDate>
+      
+      <guid>/theme/jekyll-bitwiser-material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern Blog</title>
+      <link>/theme/modern-blog/</link>
+      <pubDate>Sat, 11 Jul 2015 17:47:40 +0000</pubDate>
+      
+      <guid>/theme/modern-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Material Design Lite</title>
+      <link>/theme/jekyll-mdl/</link>
+      <pubDate>Sat, 11 Jul 2015 17:08:43 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mdl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mangan</title>
+      <link>/theme/jekyll-mangan/</link>
+      <pubDate>Fri, 03 Jul 2015 08:13:56 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mangan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Clean Dark</title>
+      <link>/theme/jekyll-clean-dark/</link>
+      <pubDate>Mon, 29 Jun 2015 22:56:56 +0000</pubDate>
+      
+      <guid>/theme/jekyll-clean-dark/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>/theme/jekyll-personal/</link>
+      <pubDate>Sat, 27 Jun 2015 16:56:59 +0000</pubDate>
+      
+      <guid>/theme/jekyll-personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kactus</title>
+      <link>/theme/jekyll-kactus/</link>
+      <pubDate>Thu, 11 Jun 2015 18:10:48 +0000</pubDate>
+      
+      <guid>/theme/jekyll-kactus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resumecard</title>
+      <link>/theme/jekyll-resumecard/</link>
+      <pubDate>Mon, 01 Jun 2015 22:00:02 +0000</pubDate>
+      
+      <guid>/theme/jekyll-resumecard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arctic Fox</title>
+      <link>/theme/jekyll-arctic-fox/</link>
+      <pubDate>Wed, 27 May 2015 12:30:56 +0000</pubDate>
+      
+      <guid>/theme/jekyll-arctic-fox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polar Bear</title>
+      <link>/theme/jekyll-polar-bear-theme/</link>
+      <pubDate>Mon, 25 May 2015 11:00:22 +0000</pubDate>
+      
+      <guid>/theme/jekyll-polar-bear-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BlackDoc</title>
+      <link>/theme/jekyll-blackdoc/</link>
+      <pubDate>Fri, 22 May 2015 00:34:37 +0000</pubDate>
+      
+      <guid>/theme/jekyll-blackdoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPSTR Version 2 - Vietnamese</title>
+      <link>/theme/jekyll-hpstrversion2/</link>
+      <pubDate>Mon, 11 May 2015 13:24:51 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hpstrversion2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twister</title>
+      <link>/theme/jekyll-twister/</link>
+      <pubDate>Mon, 11 May 2015 09:18:26 +0000</pubDate>
+      
+      <guid>/theme/jekyll-twister/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strata</title>
+      <link>/theme/jekyll-strata/</link>
+      <pubDate>Sun, 26 Apr 2015 18:24:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-strata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Page Wonder</title>
+      <link>/theme/jekyll-one-page-wonder/</link>
+      <pubDate>Wed, 22 Apr 2015 13:12:24 +0000</pubDate>
+      
+      <guid>/theme/jekyll-one-page-wonder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devAid</title>
+      <link>/theme/jekyll-devaid/</link>
+      <pubDate>Thu, 16 Apr 2015 15:01:33 +0000</pubDate>
+      
+      <guid>/theme/jekyll-devaid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centrarium</title>
+      <link>/theme/centrarium/</link>
+      <pubDate>Tue, 14 Apr 2015 00:39:17 +0000</pubDate>
+      
+      <guid>/theme/centrarium/</guid>
+      <description>A simple yet classy theme for your Jekyll website or blog.</description>
+    </item>
+    
+    <item>
+      <title>Pithy</title>
+      <link>/theme/jekyll-pithy/</link>
+      <pubDate>Fri, 10 Apr 2015 01:45:07 +0000</pubDate>
+      
+      <guid>/theme/jekyll-pithy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jasper</title>
+      <link>/theme/jekyll-jasper/</link>
+      <pubDate>Wed, 25 Mar 2015 13:16:07 +0000</pubDate>
+      
+      <guid>/theme/jekyll-jasper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carte Noire</title>
+      <link>/theme/jekyll-carte-noire/</link>
+      <pubDate>Fri, 20 Mar 2015 22:12:17 +0000</pubDate>
+      
+      <guid>/theme/jekyll-carte-noire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emerald</title>
+      <link>/theme/jekyll-emerald/</link>
+      <pubDate>Tue, 17 Mar 2015 10:26:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-emerald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codinfox Lanyon</title>
+      <link>/theme/jekyll-codinfox-lanyon/</link>
+      <pubDate>Thu, 05 Mar 2015 06:44:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-codinfox-lanyon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beautiful Jekyll</title>
+      <link>/theme/jekyll-beautiful-theme/</link>
+      <pubDate>Mon, 02 Mar 2015 20:04:26 +0000</pubDate>
+      
+      <guid>/theme/jekyll-beautiful-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glas</title>
+      <link>/theme/jekyll-glas/</link>
+      <pubDate>Sun, 01 Mar 2015 23:39:41 +0000</pubDate>
+      
+      <guid>/theme/jekyll-glas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tufte-Jekyll</title>
+      <link>/theme/jekyll-tufte-theme/</link>
+      <pubDate>Fri, 20 Feb 2015 21:51:52 +0000</pubDate>
+      
+      <guid>/theme/jekyll-tufte-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naringu</title>
+      <link>/theme/jekyll-naringu/</link>
+      <pubDate>Fri, 20 Feb 2015 17:02:41 +0000</pubDate>
+      
+      <guid>/theme/jekyll-naringu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Documentation Theme for Jekyll</title>
+      <link>/theme/jekyll-documentation-theme-/</link>
+      <pubDate>Fri, 13 Feb 2015 22:56:26 +0000</pubDate>
+      
+      <guid>/theme/jekyll-documentation-theme-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cool Concise High-end</title>
+      <link>/theme/jekyll-cool-concise-high-end/</link>
+      <pubDate>Tue, 10 Feb 2015 06:24:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cool-concise-high-end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metaphor</title>
+      <link>/theme/jekyll-metaphor/</link>
+      <pubDate>Thu, 05 Feb 2015 11:38:10 +0000</pubDate>
+      
+      <guid>/theme/jekyll-metaphor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project-pages</title>
+      <link>/theme/jekyll-project-pages/</link>
+      <pubDate>Tue, 03 Feb 2015 18:36:21 +0000</pubDate>
+      
+      <guid>/theme/jekyll-project-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grayscale</title>
+      <link>/theme/grayscale-theme/</link>
+      <pubDate>Mon, 02 Feb 2015 14:45:08 +0000</pubDate>
+      
+      <guid>/theme/grayscale-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uno-dbyll</title>
+      <link>/theme/jekyll-uno-dbyll/</link>
+      <pubDate>Sun, 01 Feb 2015 19:02:47 +0000</pubDate>
+      
+      <guid>/theme/jekyll-uno-dbyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr Jekyll&#39;s Minimal</title>
+      <link>/theme/jekyll-drjekyll-minimal/</link>
+      <pubDate>Sun, 01 Feb 2015 09:36:30 +0000</pubDate>
+      
+      <guid>/theme/jekyll-drjekyll-minimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr Jekyll&#39;s Bootstrap</title>
+      <link>/theme/jekyll-drjekyll-bootstrap/</link>
+      <pubDate>Fri, 30 Jan 2015 17:48:11 +0000</pubDate>
+      
+      <guid>/theme/jekyll-drjekyll-bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aviator</title>
+      <link>/theme/jekyll-aviator/</link>
+      <pubDate>Wed, 28 Jan 2015 02:49:52 +0000</pubDate>
+      
+      <guid>/theme/jekyll-aviator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiffany</title>
+      <link>/theme/jekyll-theme-tiffany/</link>
+      <pubDate>Sun, 25 Jan 2015 05:46:39 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-tiffany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TtskchTheme</title>
+      <link>/theme/jekyll-ttskch-theme/</link>
+      <pubDate>Fri, 23 Jan 2015 10:41:56 +0000</pubDate>
+      
+      <guid>/theme/jekyll-ttskch-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EasyBook</title>
+      <link>/theme/jekyll-easybook/</link>
+      <pubDate>Thu, 15 Jan 2015 06:14:44 +0000</pubDate>
+      
+      <guid>/theme/jekyll-easybook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travelogue</title>
+      <link>/theme/jekyll-travelogue/</link>
+      <pubDate>Tue, 13 Jan 2015 15:49:27 +0000</pubDate>
+      
+      <guid>/theme/jekyll-travelogue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dopetrope</title>
+      <link>/theme/jekyll-dopetrope/</link>
+      <pubDate>Wed, 07 Jan 2015 23:00:38 +0000</pubDate>
+      
+      <guid>/theme/jekyll-dopetrope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twenty</title>
+      <link>/theme/jekyll-twenty/</link>
+      <pubDate>Wed, 07 Jan 2015 02:59:06 +0000</pubDate>
+      
+      <guid>/theme/jekyll-twenty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Type Theme</title>
+      <link>/theme/jekyll-type-theme/</link>
+      <pubDate>Wed, 07 Jan 2015 02:37:24 +0000</pubDate>
+      
+      <guid>/theme/jekyll-type-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compass</title>
+      <link>/theme/jekyll-compass/</link>
+      <pubDate>Sat, 03 Jan 2015 21:56:41 +0000</pubDate>
+      
+      <guid>/theme/jekyll-compass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal-block</title>
+      <link>/theme/jekyll-minimal-block/</link>
+      <pubDate>Fri, 02 Jan 2015 19:29:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-minimal-block/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rifyll</title>
+      <link>/theme/jekyll-rifyll/</link>
+      <pubDate>Thu, 01 Jan 2015 21:38:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-rifyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ResumeCards</title>
+      <link>/theme/jekyll-resumecards/</link>
+      <pubDate>Sun, 28 Dec 2014 20:41:56 +0000</pubDate>
+      
+      <guid>/theme/jekyll-resumecards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long Haul</title>
+      <link>/theme/jekyll-long-haul/</link>
+      <pubDate>Sun, 14 Dec 2014 08:41:52 +0000</pubDate>
+      
+      <guid>/theme/jekyll-long-haul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freshman21</title>
+      <link>/theme/jekyll-freshman21/</link>
+      <pubDate>Sat, 13 Dec 2014 08:04:22 +0000</pubDate>
+      
+      <guid>/theme/jekyll-freshman21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swift</title>
+      <link>/theme/jekyll-swift/</link>
+      <pubDate>Fri, 28 Nov 2014 18:43:16 +0000</pubDate>
+      
+      <guid>/theme/jekyll-swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenTheme</title>
+      <link>/theme/jekyll-opentheme/</link>
+      <pubDate>Wed, 19 Nov 2014 12:03:04 +0000</pubDate>
+      
+      <guid>/theme/jekyll-opentheme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lemma</title>
+      <link>/theme/jekyll-lemma-theme/</link>
+      <pubDate>Thu, 23 Oct 2014 03:14:41 +0000</pubDate>
+      
+      <guid>/theme/jekyll-lemma-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autm-rb</title>
+      <link>/theme/jekyll-autm-rb/</link>
+      <pubDate>Fri, 10 Oct 2014 15:37:02 +0000</pubDate>
+      
+      <guid>/theme/jekyll-autm-rb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landing Page Jekyll theme</title>
+      <link>/theme/landing-page-theme/</link>
+      <pubDate>Sat, 04 Oct 2014 15:07:16 +0000</pubDate>
+      
+      <guid>/theme/landing-page-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Start Bootstrap Clean Blog</title>
+      <link>/theme/startbootstrap-clean-blog-jekyll/</link>
+      <pubDate>Sat, 27 Sep 2014 08:05:10 +0000</pubDate>
+      
+      <guid>/theme/startbootstrap-clean-blog-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SinglePaged</title>
+      <link>/theme/jekyll-singlepaged/</link>
+      <pubDate>Fri, 19 Sep 2014 20:31:46 +0000</pubDate>
+      
+      <guid>/theme/jekyll-singlepaged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiori</title>
+      <link>/theme/jekyll-shiori/</link>
+      <pubDate>Sun, 07 Sep 2014 05:49:29 +0000</pubDate>
+      
+      <guid>/theme/jekyll-shiori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Masonry</title>
+      <link>/theme/jekyll-masonry/</link>
+      <pubDate>Wed, 03 Sep 2014 14:35:16 +0000</pubDate>
+      
+      <guid>/theme/jekyll-masonry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediator</title>
+      <link>/theme/jekyll-mediator/</link>
+      <pubDate>Sat, 30 Aug 2014 22:43:16 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mediator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Clean</title>
+      <link>/theme/jekyll-clean-theme/</link>
+      <pubDate>Fri, 22 Aug 2014 22:48:36 +0000</pubDate>
+      
+      <guid>/theme/jekyll-clean-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agency Jekyll</title>
+      <link>/theme/agency-jekyll-theme/</link>
+      <pubDate>Wed, 20 Aug 2014 19:54:22 +0000</pubDate>
+      
+      <guid>/theme/agency-jekyll-theme/</guid>
+      <description>Agency Theme for Jekyll</description>
+    </item>
+    
+    <item>
+      <title>Feeling Responsive</title>
+      <link>/theme/feeling-responsive/</link>
+      <pubDate>Sun, 17 Aug 2014 10:32:01 +0000</pubDate>
+      
+      <guid>/theme/feeling-responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solid</title>
+      <link>/theme/jekyll-solid/</link>
+      <pubDate>Fri, 15 Aug 2014 13:40:18 +0000</pubDate>
+      
+      <guid>/theme/jekyll-solid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travelog</title>
+      <link>/theme/jekyll-travelog/</link>
+      <pubDate>Tue, 05 Aug 2014 05:36:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-travelog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freelancer</title>
+      <link>/theme/freelancer-theme/</link>
+      <pubDate>Sat, 19 Jul 2014 15:13:08 +0000</pubDate>
+      
+      <guid>/theme/freelancer-theme/</guid>
+      <description>Jekyll theme based on Freelancer Start Bootstrap theme</description>
+    </item>
+    
+    <item>
+      <title>HMFAYSAL Notepad Theme</title>
+      <link>/theme/jekyll-hmfaysal-notepad-theme/</link>
+      <pubDate>Fri, 18 Jul 2014 16:57:01 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hmfaysal-notepad-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>White Paper</title>
+      <link>/theme/jekyll-white-paper/</link>
+      <pubDate>Mon, 30 Jun 2014 14:56:52 +0000</pubDate>
+      
+      <guid>/theme/jekyll-white-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Metro</title>
+      <link>/theme/jekyll-metro/</link>
+      <pubDate>Tue, 17 Jun 2014 14:07:26 +0000</pubDate>
+      
+      <guid>/theme/jekyll-metro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typewriter</title>
+      <link>/theme/jekyll-typewriter/</link>
+      <pubDate>Thu, 05 Jun 2014 18:19:20 +0000</pubDate>
+      
+      <guid>/theme/jekyll-typewriter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skinny Bones</title>
+      <link>/theme/jekyll-theme-skinny-bones/</link>
+      <pubDate>Mon, 02 Jun 2014 13:25:37 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-skinny-bones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>block-log</title>
+      <link>/theme/jekyll-block-log/</link>
+      <pubDate>Fri, 16 May 2014 05:57:19 +0000</pubDate>
+      
+      <guid>/theme/jekyll-block-log/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Otter Pop</title>
+      <link>/theme/jekyll-otter-pop/</link>
+      <pubDate>Sat, 10 May 2014 16:43:23 +0000</pubDate>
+      
+      <guid>/theme/jekyll-otter-pop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noita</title>
+      <link>/theme/jekyll-noita/</link>
+      <pubDate>Wed, 16 Apr 2014 20:52:20 +0000</pubDate>
+      
+      <guid>/theme/jekyll-noita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simpleyyt</title>
+      <link>/theme/jekyll-simpleyyt/</link>
+      <pubDate>Mon, 07 Apr 2014 09:01:09 +0000</pubDate>
+      
+      <guid>/theme/jekyll-simpleyyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GridGallery</title>
+      <link>/theme/jekyll-gridgallery/</link>
+      <pubDate>Mon, 07 Apr 2014 01:26:30 +0000</pubDate>
+      
+      <guid>/theme/jekyll-gridgallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>architect</title>
+      <link>/theme/jekyll-architect/</link>
+      <pubDate>Sun, 06 Apr 2014 18:05:02 +0000</pubDate>
+      
+      <guid>/theme/jekyll-architect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wangana</title>
+      <link>/theme/jekyll-wangana/</link>
+      <pubDate>Sun, 09 Feb 2014 16:41:40 +0000</pubDate>
+      
+      <guid>/theme/jekyll-wangana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Now</title>
+      <link>/theme/jekyll-now/</link>
+      <pubDate>Fri, 07 Feb 2014 00:14:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-now/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hikari</title>
+      <link>/theme/jekyll-hikari/</link>
+      <pubDate>Sat, 01 Feb 2014 08:30:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hikari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redcup</title>
+      <link>/theme/jekyll-redcup/</link>
+      <pubDate>Sun, 26 Jan 2014 21:40:33 +0000</pubDate>
+      
+      <guid>/theme/jekyll-redcup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solo (single-page)</title>
+      <link>/theme/jekyll-solo/</link>
+      <pubDate>Sat, 25 Jan 2014 00:53:09 +0000</pubDate>
+      
+      <guid>/theme/jekyll-solo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HMFAYSAL OMEGA Theme</title>
+      <link>/theme/jekyll-hmfaysal-omega-theme/</link>
+      <pubDate>Sun, 12 Jan 2014 20:13:02 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hmfaysal-omega-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strange Case</title>
+      <link>/theme/jekyll-strangecase/</link>
+      <pubDate>Tue, 07 Jan 2014 18:39:42 +0000</pubDate>
+      
+      <guid>/theme/jekyll-strangecase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Pixyll</title>
+      <link>/theme/jekyll-pixyll/</link>
+      <pubDate>Sat, 04 Jan 2014 22:52:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-pixyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Almace Scaffolding</title>
+      <link>/theme/almace-scaffolding/</link>
+      <pubDate>Tue, 31 Dec 2013 11:24:45 +0000</pubDate>
+      
+      <guid>/theme/almace-scaffolding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poole</title>
+      <link>/theme/jekyll-poole/</link>
+      <pubDate>Sun, 29 Dec 2013 23:39:18 +0000</pubDate>
+      
+      <guid>/theme/jekyll-poole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lanyon</title>
+      <link>/theme/jekyll-lanyon/</link>
+      <pubDate>Sat, 28 Dec 2013 07:53:04 +0000</pubDate>
+      
+      <guid>/theme/jekyll-lanyon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HMFAYSAL Theme</title>
+      <link>/theme/jekyll-hmfaysal-theme/</link>
+      <pubDate>Fri, 13 Dec 2013 19:21:10 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hmfaysal-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flex</title>
+      <link>/theme/jekyll-flex/</link>
+      <pubDate>Mon, 09 Dec 2013 19:01:22 +0000</pubDate>
+      
+      <guid>/theme/jekyll-flex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dbyll</title>
+      <link>/theme/jekyll-dbyll/</link>
+      <pubDate>Thu, 14 Nov 2013 15:01:59 +0000</pubDate>
+      
+      <guid>/theme/jekyll-dbyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kasper</title>
+      <link>/theme/jekyll-kasper/</link>
+      <pubDate>Sun, 10 Nov 2013 10:15:43 +0000</pubDate>
+      
+      <guid>/theme/jekyll-kasper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporated</title>
+      <link>/theme/jekyll-incorporated/</link>
+      <pubDate>Wed, 09 Oct 2013 21:57:31 +0000</pubDate>
+      
+      <guid>/theme/jekyll-incorporated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brume</title>
+      <link>/theme/jekyll-brume/</link>
+      <pubDate>Sun, 22 Sep 2013 10:23:03 +0000</pubDate>
+      
+      <guid>/theme/jekyll-brume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lagom</title>
+      <link>/theme/jekyll-lagom/</link>
+      <pubDate>Sat, 24 Aug 2013 03:09:43 +0000</pubDate>
+      
+      <guid>/theme/jekyll-lagom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPSTR</title>
+      <link>/theme/jekyll-hpstr/</link>
+      <pubDate>Fri, 23 Aug 2013 19:03:11 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hpstr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balzac</title>
+      <link>/theme/jekyll-balzac/</link>
+      <pubDate>Fri, 02 Aug 2013 12:31:24 +0000</pubDate>
+      
+      <guid>/theme/jekyll-balzac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>So Simple</title>
+      <link>/theme/so-simple-theme/</link>
+      <pubDate>Tue, 25 Jun 2013 20:17:12 +0000</pubDate>
+      
+      <guid>/theme/so-simple-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Jekyll</title>
+      <link>/theme/solar-theme-jekyll/</link>
+      <pubDate>Fri, 07 Jun 2013 20:27:21 +0000</pubDate>
+      
+      <guid>/theme/solar-theme-jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal Mistakes</title>
+      <link>/theme/minimal-mistakes/</link>
+      <pubDate>Fri, 24 May 2013 14:13:30 +0000</pubDate>
+      
+      <guid>/theme/minimal-mistakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scribble</title>
+      <link>/theme/jekyll-theme-scribble/</link>
+      <pubDate>Mon, 06 May 2013 09:51:15 +0000</pubDate>
+      
+      <guid>/theme/jekyll-theme-scribble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exemplar</title>
+      <link>/theme/jekyll-exemplar/</link>
+      <pubDate>Wed, 20 Feb 2013 21:38:22 +0000</pubDate>
+      
+      <guid>/theme/jekyll-exemplar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyde</title>
+      <link>/theme/jekyll-hyde/</link>
+      <pubDate>Thu, 07 Feb 2013 07:01:38 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hyde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carte</title>
+      <link>/theme/jekyll-carte/</link>
+      <pubDate>Wed, 26 Dec 2012 11:06:28 +0000</pubDate>
+      
+      <guid>/theme/jekyll-carte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Left</title>
+      <link>/theme/jekyll-left-theme/</link>
+      <pubDate>Wed, 12 Dec 2012 00:18:54 +0000</pubDate>
+      
+      <guid>/theme/jekyll-left-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slate</title>
+      <link>/theme/jekyll-slate/</link>
+      <pubDate>Fri, 08 Jun 2012 23:00:07 +0000</pubDate>
+      
+      <guid>/theme/jekyll-slate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modernist</title>
+      <link>/theme/jekyll-modernist/</link>
+      <pubDate>Thu, 05 Apr 2012 13:57:48 +0000</pubDate>
+      
+      <guid>/theme/jekyll-modernist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal</title>
+      <link>/theme/jekyll-minimal/</link>
+      <pubDate>Thu, 05 Apr 2012 13:10:55 +0000</pubDate>
+      
+      <guid>/theme/jekyll-minimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Midnight</title>
+      <link>/theme/jekyll-midnight/</link>
+      <pubDate>Wed, 04 Apr 2012 23:05:14 +0000</pubDate>
+      
+      <guid>/theme/jekyll-midnight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leap Day</title>
+      <link>/theme/jekyll-leap-day/</link>
+      <pubDate>Wed, 04 Apr 2012 21:48:06 +0000</pubDate>
+      
+      <guid>/theme/jekyll-leap-day/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

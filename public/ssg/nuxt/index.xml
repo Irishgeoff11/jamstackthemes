@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuxt on Jamstack Themes</title>
+    <link>/ssg/nuxt/</link>
+    <description>Recent content in Nuxt on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/ssg/nuxt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MaterialPro Free NuxtJs Admin Template</title>
+      <link>/theme/materialpro-free-nuxtjs-template/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/materialpro-free-nuxtjs-template/</guid>
+      <description>Xtreme NextJs Free Dashboard The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want.</description>
+    </item>
+    
+    <item>
+      <title>NuxtJs Tailwind Blog Starter</title>
+      <link>/theme/nuxt-tailwind-blog-starter/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nuxt-tailwind-blog-starter/</guid>
+      <description>NuxtJS and tailwind Blog Starter This starter is very light-weight to showcase portfolio &amp;amp; write blog.</description>
+    </item>
+    
+    <item>
+      <title>Commerce.js Vue.js Boilerplate</title>
+      <link>/theme/commercejs-vuejs-boilerplate/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/commercejs-vuejs-boilerplate/</guid>
+      <description>Commerce.js boilerplate built with Vue.js, for fast eCommerce development and design.</description>
+    </item>
+    
+    <item>
+      <title>Awake Nuxt Blog</title>
+      <link>/theme/awake-blog-template-nuxt/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/awake-blog-template-nuxt/</guid>
+      <description>Awake is a Nuxt.js template for generating a beautifully robust static site with blog.</description>
+    </item>
+    
+    <item>
+      <title>Nuxt Netlify CMS Boilerplate</title>
+      <link>/theme/nuxt-starter-netlify-cms/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nuxt-starter-netlify-cms/</guid>
+      <description>A super unopinionated starter project, built off the create-nuxt-app CLI tool, and leveraging Netlify CMS to generate content in the Nuxt API from flat files.</description>
+    </item>
+    
+    <item>
+      <title>Nuxt Tailwind Netlify CMS Starter</title>
+      <link>/theme/bluise-nuxt-cms/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/bluise-nuxt-cms/</guid>
+      <description>Start with Typescript, TailwindCSS, Nuxt, Netlify Forms &amp;amp; Netlify CMS, includes pagination, seo &amp;amp; pwa ready.</description>
+    </item>
+    
+    <item>
+      <title>Bael Theme</title>
+      <link>/theme/bael-theme/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/bael-theme/</guid>
+      <description>Bael is a free blogging theme to use with Netlify CMS.</description>
+    </item>
+    
+  </channel>
+</rss>

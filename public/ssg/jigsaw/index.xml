@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jigsaw on Jamstack Themes</title>
+    <link>/ssg/jigsaw/</link>
+    <description>Recent content in Jigsaw on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/ssg/jigsaw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artisan Static</title>
+      <link>/theme/artisan-static/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/artisan-static/</guid>
+      <description>An advanced starter template for building a static Jigsaw blog hosted on Netlify with analytics, comments, code highlighting, a contact form, a CMS, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

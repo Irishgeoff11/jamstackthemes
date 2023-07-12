@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GraphCMS on Jamstack Themes</title>
+    <link>/cms/graphcms/</link>
+    <description>Recent content in GraphCMS on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/graphcms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GraphCMS Blog</title>
+      <link>/theme/graphcms-blog/</link>
+      <pubDate>Sun, 18 Jul 2021 19:00:00 +0000</pubDate>
+      
+      <guid>/theme/graphcms-blog/</guid>
+      <description>gatsby-starter-graphcms-blog A Gatsby starter for creating a basic blog with GraphCMS</description>
+    </item>
+    
+    <item>
+      <title>GraphCMS eCommerce Storefront</title>
+      <link>/theme/graphcms-commerce/</link>
+      <pubDate>Sun, 18 Jul 2021 19:00:00 +0000</pubDate>
+      
+      <guid>/theme/graphcms-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphCMS Marketing Website</title>
+      <link>/theme/graphcms-marketing-website/</link>
+      <pubDate>Sun, 18 Jul 2021 19:00:00 +0000</pubDate>
+      
+      <guid>/theme/graphcms-marketing-website/</guid>
+      <description>reference-marketing-website A Next.js starter for creating a SaaS Marketing Website with GraphCMS</description>
+    </item>
+    
+  </channel>
+</rss>

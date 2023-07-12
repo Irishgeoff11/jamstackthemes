@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Jamstack Themes</title>
+    <link>/archetype/documentation/</link>
+    <description>Recent content in Documentation on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/archetype/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11ty documentation template using Tailwind CSS</title>
+      <link>/theme/11ty-docs/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-docs/</guid>
+      <description>Eleventy documentation template using Tailwind CSS An 11ty documentation site theme, built with Tailwind CSS.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll LibDoc</title>
+      <link>/theme/jekyll-libdoc/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-libdoc/</guid>
+      <description>A documentation theme with its playground LibDoc is a Jekyll theme that was crafted to easily and quickly get properly designed documentation especially for CSS and Javascript libraries.</description>
+    </item>
+    
+    <item>
+      <title>NextJS-based changelog theme for your product</title>
+      <link>/theme/productlog-nextjs-theme/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/productlog-nextjs-theme/</guid>
+      <description>ProductLog is a NextJS theme for hosting your product&amp;rsquo;s changelog Features SEO friendly Excellent Lighthouse score Mobile-friendly view Support Notion as source (Sample Notion Page) Built-in Analytics: Google Analytics, Plausible and Simple analytics Next image optimization Easy styling customization with Tailwind v2 Syntax highlighting KaTeX support </description>
+    </item>
+    
+    <item>
+      <title>J1 Template Starter</title>
+      <link>/theme/jekyll-j1-template/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-j1-template/</guid>
+      <description>A fully configurable Jekyll Theme Fully Responsive. J1 Template supports modern web browsers on all devices for best results on PCs, Tablets, and SmartPhones.</description>
+    </item>
+    
+    <item>
+      <title>Next Smooth Doc</title>
+      <link>/theme/next-smooth-doc/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-smooth-doc/</guid>
+      <description>NEXTJS SMOOTH DOC A minimal doc generator based on Next.js &amp;amp; mdx.</description>
+    </item>
+    
+    <item>
+      <title>Doks</title>
+      <link>/theme/hugo-doks/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-doks/</guid>
+      <description>Build on Hyas Get all the Hyas goodness:
+Security aware Fast by default ⚡️ SEO-ready Development tools (linting, cleaning) Bootstrap framework Netlify-ready (functions, redirects, headers) Plus Full text search — using FlexSearch 🚀 Page layouts (landing page, blog, documentation layout) Dark mode — switch to a low-light UI with the click of a button And 100 scores on Google Lighthouse A+ scores on Mozilla Observatory Get started There are two main ways to get started with Doks:</description>
+    </item>
+    
+    <item>
+      <title>Eureka</title>
+      <link>/theme/hugo-eureka/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-eureka/</guid>
+      <description>English | 简体中文
+Eureka Eureka is a feature-rich and highly customizable Hugo theme.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Theme Zdoc</title>
+      <link>/theme/hugo-theme-zdoc/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-zdoc/</guid>
+      <description>Hugo Theme Zdoc Zdoc is a documentation theme for Hugo. It looks simple and provide many shortcodes.</description>
+    </item>
+    
+    <item>
+      <title>Bulma Clean Theme</title>
+      <link>/theme/bulma-clean-theme/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/bulma-clean-theme/</guid>
+      <description>Bulma clean theme works with GitHub Pages and has a wide range of page layout available to use.</description>
+    </item>
+    
+    <item>
+      <title>Ace documentation</title>
+      <link>/theme/ace-documentation/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/ace-documentation/</guid>
+      <description>Ace documentation theme for Hugo Ace documentation offers a feature-complete documentation theme for Hugo, powered by Bootstrap 4.</description>
+    </item>
+    
+    <item>
+      <title>Friday Theme</title>
+      <link>/theme/jekyll-friday-theme/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-friday-theme/</guid>
+      <description>About Friday Theme is a theme for Jekyll using Bootstrap 4.</description>
+    </item>
+    
+  </channel>
+</rss>

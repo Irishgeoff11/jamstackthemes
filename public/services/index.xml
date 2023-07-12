@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Jamstack Themes</title>
+    <link>/services/</link>
+    <description>Recent content in Services on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algolia</title>
+      <link>/services/algolia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/algolia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formspree</title>
+      <link>/services/formspree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/formspree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formstack</title>
+      <link>/services/formstack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/formstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mailchimp</title>
+      <link>/services/mailchimp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/mailchimp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shopify</title>
+      <link>/services/shopify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/shopify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snipcart</title>
+      <link>/services/snipcart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/services/snipcart/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

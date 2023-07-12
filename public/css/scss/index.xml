@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCSS on Jamstack Themes</title>
+    <link>/css/scss/</link>
+    <description>Recent content in SCSS on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/css/scss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cvless</title>
+      <link>/theme/jekyll-cvless/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cvless/</guid>
+      <description>cvless Cvless is a theme for static websites built with Jekyll.</description>
+    </item>
+    
+    <item>
+      <title>Hacked Jekyll</title>
+      <link>/theme/jekyll-hacked/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hacked/</guid>
+      <description>hacked-jekyll Hacked Jekyll is a responsive, minimalistic Jekyll theme for a tiny (163.</description>
+    </item>
+    
+    <item>
+      <title>Scroll</title>
+      <link>/theme/hugo-theme-scroll/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-scroll/</guid>
+      <description>⭐ Features Responsive to screen size/shape SEO friendly Customizable Video cover [Fork Awesome Icons][fork-awesome-icons] out of the box Header logo Visual guards to guarantee readability External links JS/CSS Assets optimized (Minification, Fingerpriting, pipeline-processed into single file) git info in footer (opt-in) </description>
+    </item>
+    
+    <item>
+      <title>Bliss</title>
+      <link>/theme/11ty-bliss/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-bliss/</guid>
+      <description>Bliss - Blog Template For Eleventy Bliss is a single-column blog template for Eleventy with strong focus on simplicity without sacrificing functionality.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Clean Blog Starter</title>
+      <link>/theme/gatsby-clean-blog-starter/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-clean-blog-starter/</guid>
+      <description>A simple starter kit for Gatsby This theme is a lightweight starter kit with a clean theme.</description>
+    </item>
+    
+    <item>
+      <title>Lightspeed</title>
+      <link>/theme/jekyll-lightspeed/</link>
+      <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-lightspeed/</guid>
+      <description>Your simple home page Lightspeed was created to simply deliver content on the web with minimum fuss.</description>
+    </item>
+    
+    <item>
+      <title>Hugo blog awesome</title>
+      <link>/theme/hugo-blog-awesome/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-blog-awesome/</guid>
+      <description>Features Minimal design Responsive design Light and dark mode Syntax highlighting RSS feed No jQuery, Bootstrap 100/100 Google PageSpeed Insights score on all 4 metrics Screenshots Dark mode Light mode Page speed score:</description>
+    </item>
+    
+    <item>
+      <title>Revista</title>
+      <link>/theme/gatsby-blog-revista/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-blog-revista/</guid>
+      <description>Features Open-source blog/magazine template built with Gatsby, React, and Markdown Many out-of-the-box configurations have already been completed, so all you have to do is write!</description>
+    </item>
+    
+    <item>
+      <title>BlogBox Jekyll Theme</title>
+      <link>/theme/blogbox-jekyll-theme/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/blogbox-jekyll-theme/</guid>
+      <description>Theme Features Responsive layout – your blog will be accessible on various devices (iPhone, iPad, Android, etc.</description>
+    </item>
+    
+    <item>
+      <title>Brook</title>
+      <link>/theme/brook/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/brook/</guid>
+      <description>A clean and handcrafted Eleventy Blog Theme Designed for a hyper focused blog.</description>
+    </item>
+    
+    <item>
+      <title>Scriptor Jekyll Theme</title>
+      <link>/theme/scriptor-jekyll-theme/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/scriptor-jekyll-theme/</guid>
+      <description>Features Responsive design Archive organized by tags Disqus Comments Accent color options Prism syntax highlighter </description>
+    </item>
+    
+    <item>
+      <title>MaterialPro Free NuxtJs Admin Template</title>
+      <link>/theme/materialpro-free-nuxtjs-template/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/materialpro-free-nuxtjs-template/</guid>
+      <description>Xtreme NextJs Free Dashboard The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want.</description>
+    </item>
+    
+    <item>
+      <title>Virgo</title>
+      <link>/theme/hugo-theme-virgo/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-virgo/</guid>
+      <description>A simple starter kit for Hugo This theme is a lightweight starter kit.</description>
+    </item>
+    
+    <item>
+      <title>Osprey Delight</title>
+      <link>/theme/hugo-osprey_delight/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-osprey_delight/</guid>
+      <description>Osprey Delight is the free-minded artist&amp;rsquo;s choice for a clutter-free and blazingly fast single-page portfolio.</description>
+    </item>
+    
+    <item>
+      <title>Flexy Material Ui Admin Template</title>
+      <link>/theme/flexy-mui-free-nextjs-admin/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/flexy-mui-free-nextjs-admin/</guid>
+      <description>Flexy Material UI Dashboard Flexy Material UI Dashboard is easy to use free next js template for your next web application based on Next.</description>
+    </item>
+    
+    <item>
+      <title>JDox</title>
+      <link>/theme/jdox/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jdox/</guid>
+      <description>JDox - Jekyll theme JDox is jekyll theme designed for personal or team blog with fully responsive css design and auto integrated with GitHub Pages.</description>
+    </item>
+    
+    <item>
+      <title>Mr. Green</title>
+      <link>/theme/jekyll-mr-green/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-mr-green/</guid>
+      <description>Mr. Green is a multilingual theme generated with Jekyll and fully compatible with GitHub Pages.</description>
+    </item>
+    
+    <item>
+      <title>Tao</title>
+      <link>/theme/tao/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/tao/</guid>
+      <description>Tao is a content-first minimalist Jekyll theme for blogs.
+Highlight Features Support the CSS resets Normalize Support Font Awesome Support MathJax Support Disqus Support Google Analytics 4 Light and dark mode, via prefers-color-scheme Archive pages implemented in pure Liquid </description>
+    </item>
+    
+    <item>
+      <title>Xtreme NextJs Free Admin Template</title>
+      <link>/theme/xtreme-free-nextjs-admin/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/xtreme-free-nextjs-admin/</guid>
+      <description>Xtreme NextJs Free Dashboard The free version comes with elegant grid design that helps you play around with the look and feel of the web app the way you want.</description>
+    </item>
+    
+    <item>
+      <title>Next.js Ecommerce</title>
+      <link>/theme/next-ecommerce/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-ecommerce/</guid>
+      <description>Next.js Ecommerce This repo contains a work in progress Ecommerce responsive made with Next.</description>
+    </item>
+    
+    <item>
+      <title>H2O-ac</title>
+      <link>/theme/jekyll-h2o-ac/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-h2o-ac/</guid>
+      <description>H2o-ac is designed for academic researchers and system maintainers to show the academic informations or project informations firstly.</description>
+    </item>
+    
+    <item>
+      <title>Hydrogen Jekyll</title>
+      <link>/theme/jekyll-hydrogen/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-hydrogen/</guid>
+      <description>A simple, elegant &amp;amp; full featured Jekyll theme. Features A concise and powerful Jekyll theme.</description>
+    </item>
+    
+    <item>
+      <title>Forever Jekyll</title>
+      <link>/theme/forever-jekyll/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/forever-jekyll/</guid>
+      <description>A simple, elegant &amp;amp; full featured Jekyll theme. Features Here are some of notable features of Forever Jekyll,</description>
+    </item>
+    
+    <item>
+      <title>11straps</title>
+      <link>/theme/11straps/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11straps/</guid>
+      <description>A combination of Eleventy and Bootstrap 5 11straps combines static site generation via Eleventy and frontend styling via Bootstrap 5.</description>
+    </item>
+    
+    <item>
+      <title>Bajawa</title>
+      <link>/theme/jekyll-bajawa/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-bajawa/</guid>
+      <description>A simple starter kit This theme is a lightweight and clean starter kit with a touch of pastel colors.</description>
+    </item>
+    
+    <item>
+      <title>Gesko</title>
+      <link>/theme/gesko/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gesko/</guid>
+      <description>Gesko - Minimal blogging theme Gesko is easly deployable on Github Pages.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Curious</title>
+      <link>/theme/hugo-curious/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-curious/</guid>
+      <description>Story Hugo Curious theme was originally developed for AICurious Blog based on Hugo Clarity.</description>
+    </item>
+    
+    <item>
+      <title>Pole</title>
+      <link>/theme/pole/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/pole/</guid>
+      <description>Pole is a one-column minimal responsive Jekyll blog theme.
+One of the purposes of Pole is to be an alternative option to the default theme of Jekyll &amp;ndash; Minima.</description>
+    </item>
+    
+    <item>
+      <title>Doks</title>
+      <link>/theme/hugo-doks/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-doks/</guid>
+      <description>Build on Hyas Get all the Hyas goodness:
+Security aware Fast by default ⚡️ SEO-ready Development tools (linting, cleaning) Bootstrap framework Netlify-ready (functions, redirects, headers) Plus Full text search — using FlexSearch 🚀 Page layouts (landing page, blog, documentation layout) Dark mode — switch to a low-light UI with the click of a button And 100 scores on Google Lighthouse A+ scores on Mozilla Observatory Get started There are two main ways to get started with Doks:</description>
+    </item>
+    
+    <item>
+      <title>Moonwalk</title>
+      <link>/theme/jekyll-moonwalk/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-moonwalk/</guid>
+      <description>Moonwalk - a fast and elegant theme with clean dark mode Moonwalk can be used to create a portfolio or a blog site.</description>
+    </item>
+    
+    <item>
+      <title>Limp Dark</title>
+      <link>/theme/limp-dark/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/limp-dark/</guid>
+      <description>A simple starter kit for blog This theme is a lightweight starter kit.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Theme Zdoc</title>
+      <link>/theme/hugo-theme-zdoc/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-zdoc/</guid>
+      <description>Hugo Theme Zdoc Zdoc is a documentation theme for Hugo. It looks simple and provide many shortcodes.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Theme Zzo</title>
+      <link>/theme/hugo-theme-zzo/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-theme-zzo/</guid>
+      <description>Hugo Theme Zzo Zzo is a blog theme for Hugo. It includes almost all features that a blog theme should have.</description>
+    </item>
+    
+    <item>
+      <title>Commerce.js Vue.js Boilerplate</title>
+      <link>/theme/commercejs-vuejs-boilerplate/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/commercejs-vuejs-boilerplate/</guid>
+      <description>Commerce.js boilerplate built with Vue.js, for fast eCommerce development and design.</description>
+    </item>
+    
+    <item>
+      <title>Web-Nary</title>
+      <link>/theme/hexo-webnary-template/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hexo-webnary-template/</guid>
+      <description>A Fully Customisable starter template for Hexo This template is a lightweight starter kit based on Hexo Framework.</description>
+    </item>
+    
+    <item>
+      <title>dark-poole</title>
+      <link>/theme/dark-poole/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/dark-poole/</guid>
+      <description>Minimal, responsive, and no frills theme Dark Poole is a permanent dark theme of the Poole theme by @mdo.</description>
+    </item>
+    
+    <item>
+      <title>Commerce.js Next.js Demo Store</title>
+      <link>/theme/commercejs-nextjs-demo-store/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/commercejs-nextjs-demo-store/</guid>
+      <description>An commerce storefront example built using Next.js and Commerce.js with production-ready deployment to Netlify.</description>
+    </item>
+    
+    <item>
+      <title>Hamilton</title>
+      <link>/theme/hamilton/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hamilton/</guid>
+      <description>Hamilton A minimal and beautiful Jekyll theme best for writing and note-taking.</description>
+    </item>
+    
+    <item>
+      <title>Foundation</title>
+      <link>/theme/gatsby-starter-foundation/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-foundation/</guid>
+      <description>Foundation A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS.</description>
+    </item>
+    
+    <item>
+      <title>Neumorphism</title>
+      <link>/theme/jekyll-neumorphism/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-neumorphism/</guid>
+      <description>Neumorphism This is a personal website built with Jekyll, which is based on the new Neumorphism design trend and was developed with a mobile-first approach.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll Klisé</title>
+      <link>/theme/jekyll-klise/</link>
+      <pubDate>Mon, 06 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-klise/</guid>
+      <description>Klisé Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.</description>
+    </item>
+    
+    <item>
+      <title>Planty</title>
+      <link>/theme/planty/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/planty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Contentful Blog and Portfolio</title>
+      <link>/theme/gatsby-contentful-blog-portfolio/</link>
+      <pubDate>Wed, 19 Feb 2020 12:10:46 +0000</pubDate>
+      
+      <guid>/theme/gatsby-contentful-blog-portfolio/</guid>
+      <description>A simple starter kit for creating a Portfolio website with a blog, all served by Contentful Features Gatsby Graphql Contenful Cypress CSS Modules and Styled Components 🚀 Quick start Clone the repository</description>
+    </item>
+    
+    <item>
+      <title>Jekyll-Uno-Timeline</title>
+      <link>/theme/jekyll-uno-timeline/</link>
+      <pubDate>Fri, 31 Jan 2020 06:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-uno-timeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll Serif</title>
+      <link>/theme/jekyll-serif/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-serif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garth</title>
+      <link>/theme/garth/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/garth/</guid>
+      <description>🥁 A really basic theme for Jekyll, using the official Jekyll theme implementation.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Tailwindcss Sass Starter</title>
+      <link>/theme/gatsby-tailwindcss-sass-starter/</link>
+      <pubDate>Wed, 02 Jan 2019 07:24:27 +0000</pubDate>
+      
+      <guid>/theme/gatsby-tailwindcss-sass-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Redux Starter</title>
+      <link>/theme/gatsby-redux-starter/</link>
+      <pubDate>Tue, 06 Nov 2018 06:56:06 +0000</pubDate>
+      
+      <guid>/theme/gatsby-redux-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coder</title>
+      <link>/theme/hugo-coder/</link>
+      <pubDate>Sat, 17 Feb 2018 13:45:54 +0000</pubDate>
+      
+      <guid>/theme/hugo-coder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

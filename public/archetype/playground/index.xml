@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playground on Jamstack Themes</title>
+    <link>/archetype/playground/</link>
+    <description>Recent content in Playground on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/archetype/playground/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jekyll LibDoc</title>
+      <link>/theme/jekyll-libdoc/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-libdoc/</guid>
+      <description>A documentation theme with its playground LibDoc is a Jekyll theme that was crafted to easily and quickly get properly designed documentation especially for CSS and Javascript libraries.</description>
+    </item>
+    
+  </channel>
+</rss>

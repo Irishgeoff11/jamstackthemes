@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CMS on Jamstack Themes</title>
+    <link>/cms/</link>
+    <description>Recent content in CMS on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/cms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Airtable</title>
+      <link>/cms/airtable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/airtable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contentful</title>
+      <link>/cms/contentful/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/contentful/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmic</title>
+      <link>/cms/cosmic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/cosmic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DatoCMS</title>
+      <link>/cms/datocms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/datocms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directus</title>
+      <link>/cms/directus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/directus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>/cms/firebase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flotiq</title>
+      <link>/cms/flotiq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/flotiq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forestry</title>
+      <link>/cms/forestry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/forestry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghost</title>
+      <link>/cms/ghost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/ghost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphCMS</title>
+      <link>/cms/graphcms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/graphcms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kontent </title>
+      <link>/cms/kontent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/kontent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetlifyCMS</title>
+      <link>/cms/netlifycms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/netlifycms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No CMS</title>
+      <link>/cms/no-cms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/no-cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notion</title>
+      <link>/cms/notion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/notion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prismic</title>
+      <link>/cms/prismic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/prismic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanity</title>
+      <link>/cms/sanity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/sanity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stackbit</title>
+      <link>/cms/stackbit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/stackbit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storyblok</title>
+      <link>/cms/storyblok/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/storyblok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wordpress</title>
+      <link>/cms/wordpress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cms/wordpress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

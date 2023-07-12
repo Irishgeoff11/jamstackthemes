@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tailwind on Jamstack Themes</title>
+    <link>/css/tailwind/</link>
+    <description>Recent content in Tailwind on Jamstack Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/css/tailwind/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AstroSaas</title>
+      <link>/theme/astro-astrosaas/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/astro-astrosaas/</guid>
+      <description>What&amp;rsquo;s included? 6 Demo pages Features 6 Demo Pages 10+ Sections 50+ compoinents Pages</description>
+    </item>
+    
+    <item>
+      <title>Quick Store</title>
+      <link>/theme/astro-quickstore/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/astro-quickstore/</guid>
+      <description>What&amp;rsquo;s included? Homepage Features Stylish Great color palette </description>
+    </item>
+    
+    <item>
+      <title>SwissFolio</title>
+      <link>/theme/astro-swissfolio/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/astro-swissfolio/</guid>
+      <description>What&amp;rsquo;s included? Stylish Swiss Design Aos animations Features Pages
+Home </description>
+    </item>
+    
+    <item>
+      <title>Next.js Enterprise with Tailwind CSS and Radix UI</title>
+      <link>/theme/next-enterprise/</link>
+      <pubDate>Wed, 17 May 2023 20:54:10 +0000</pubDate>
+      
+      <guid>/theme/next-enterprise/</guid>
+      <description>Welcome to the Next.js Enterprise Boilerplate, an open-source template for enterprise projects!</description>
+    </item>
+    
+    <item>
+      <title>AstroWind</title>
+      <link>/theme/astrowind/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/astrowind/</guid>
+      <description>🚀 AstroWind AstroWind tries to give you quick access to creating a website using Astro 2.</description>
+    </item>
+    
+    <item>
+      <title>HULL</title>
+      <link>/theme/next-hull/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-hull/</guid>
+      <description>Features Utility-first CSS with Tailwind CSS Animations powered by Framer Motion Cart powered by Shopify Buy SDK Real-time inventory check for products using SWR Customizable Filtering &amp;amp; Sorting for product collections Klaviyo waitlist form for out-of-stock products Klaviyo newsletter form with opt-in field Dynamic Page Routes for custom page creation Automatic Sitemap.</description>
+    </item>
+    
+    <item>
+      <title>Astro React Boilerplate with TypeScript and Tailwind CSS</title>
+      <link>/theme/astro-react-boilerplate/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/astro-react-boilerplate/</guid>
+      <description>Astro Boilerplate with TypeScript and Tailwind CSS 🚀 Astro Boilerplate is starter code for your blog or portfolio based on Astro with Tailwind CSS 3.</description>
+    </item>
+    
+    <item>
+      <title>11ty documentation template using Tailwind CSS</title>
+      <link>/theme/11ty-docs/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-docs/</guid>
+      <description>Eleventy documentation template using Tailwind CSS An 11ty documentation site theme, built with Tailwind CSS.</description>
+    </item>
+    
+    <item>
+      <title>NuxtJs Tailwind Blog Starter</title>
+      <link>/theme/nuxt-tailwind-blog-starter/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nuxt-tailwind-blog-starter/</guid>
+      <description>NuxtJS and tailwind Blog Starter This starter is very light-weight to showcase portfolio &amp;amp; write blog.</description>
+    </item>
+    
+    <item>
+      <title>Tailwind VPN Landingpage</title>
+      <link>/theme/next-landing-vpn/</link>
+      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-landing-vpn/</guid>
+      <description>Tailwind VPN Landingpage - Free Landingpage Template Apps Tailwind VPN Landingpage is an open source, apps landing page template for Tailwind CSS and NextJS.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Blog 1 – Gradient</title>
+      <link>/theme/gatsby-flotiq-blog-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-blog-1/</guid>
+      <description>Flotiq gatsby starter for blog The Flotiq blog is a modern headless CMS blog starter for businesses, freelancers or for personal uses.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Blog 2 – Modern</title>
+      <link>/theme/gatsby-flotiq-blog-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-blog-2/</guid>
+      <description>Flotiq gatsby starter for blog A flexible &amp;amp; minimalistic starter for personal or business purposes.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Event 1 – Monthly View Calendar</title>
+      <link>/theme/gatsby-flotiq-event-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-event-1/</guid>
+      <description>Flotiq gatsby starter for event calendar Power your event with Flotiq for free.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Event 2 – Weekly View Calendar</title>
+      <link>/theme/gatsby-flotiq-event-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-event-2/</guid>
+      <description>Flotiq gatsby starter for event calendar Highlight your event with a better view.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Portfolio 1 – Creator</title>
+      <link>/theme/gatsby-flotiq-portfolio-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-portfolio-1/</guid>
+      <description>Flotiq gatsby starter for projects portfolio The Flotiq portfolio starter is a perfect way to create a website if you don&amp;rsquo;t want to start from scratch.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Portfolio 2 – Monochrome</title>
+      <link>/theme/gatsby-flotiq-portfolio-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-portfolio-2/</guid>
+      <description>Flotiq gatsby starter for projects portfolio A modern, clean design can be customized and applied for a wide range of purposes, with a stunning landing page design.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Recipe 1 – Black and White Classic</title>
+      <link>/theme/gatsby-flotiq-recipe-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-recipe-1/</guid>
+      <description>Flotiq gatsby starter for recipes catalogue We introduce you to a recipe website with a modern and attractive layout.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Recipe 2 – All you can eat</title>
+      <link>/theme/gatsby-flotiq-recipe-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-recipe-2/</guid>
+      <description>Flotiq gatsby starter for recipes catalogue This template is focused on easy-to-read recipe articles that prioritize what users are looking for - ingredients and directions.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Shop 1 – Merch Store</title>
+      <link>/theme/gatsby-flotiq-shop-1/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-shop-1/</guid>
+      <description>Flotiq gatsby starter for shop Merch Store is the fabulous Flotiq starter for selling merch, clothing, and other corporate goods.</description>
+    </item>
+    
+    <item>
+      <title>Flotiq Gatsby Shop 2 – Green Shop</title>
+      <link>/theme/gatsby-flotiq-shop-2/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-flotiq-shop-2/</guid>
+      <description>Flotiq gatsby starter for shop We want to introduce you to the Flotiq E-commerce starter.</description>
+    </item>
+    
+    <item>
+      <title>chringel</title>
+      <link>/theme/hugo-chringel/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-chringel/</guid>
+      <description>Privacy focused theme for Hugo 🕵️ This theme was created with privacy in mind.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Atlantic Tailwind Blog</title>
+      <link>/theme/hugo-atlantic/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-atlantic/</guid>
+      <description>Hugo Atlantic - Hugo Tailwind 3 Theme Atlantic is a clean and modern Tailwind 3 theme for Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Winston</title>
+      <link>/theme/hugo-winston/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-winston/</guid>
+      <description>Hugo Winston Theme Hugo Winston is a bold minimal blogging theme.</description>
+    </item>
+    
+    <item>
+      <title>React Storefront</title>
+      <link>/theme/next-react-storefront/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-react-storefront/</guid>
+      <description>React Storefront Motivation modern &amp;amp; fast: Project is focusing on best practices for e-commerce, like: SSR &amp;amp; ISR, image optimization.</description>
+    </item>
+    
+    <item>
+      <title>Digital Garden</title>
+      <link>/theme/hugo-digital-garden/</link>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-digital-garden/</guid>
+      <description>Digital Garden theme is a well-optimized theme to build your personal digital presense.</description>
+    </item>
+    
+    <item>
+      <title>Butterflies</title>
+      <link>/theme/tradly/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/tradly/</guid>
+      <description>Free NextJS + Tailwind Kit for Marketplace This theme is a almost complete e-commerce and marketplace website.</description>
+    </item>
+    
+    <item>
+      <title>Lynx</title>
+      <link>/theme/hugo-lynx/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-lynx/</guid>
+      <description>Lynx is designed to be a simple links page powered by Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll Atlantic Tailwind Blog</title>
+      <link>/theme/jekyll-atlantic/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-atlantic/</guid>
+      <description>Jekyll Atlantic - A Jekyll Tailwind Theme Atlantic is a beautiful Tailwind CSS theme.</description>
+    </item>
+    
+    <item>
+      <title>ProductLog Theme</title>
+      <link>/theme/nextjs-productlog-theme/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextjs-productlog-theme/</guid>
+      <description>ProductLog Theme - NextJS, Tailwind, TypeScript ProductLog is a NextJS theme for hosting your product&amp;rsquo;s changelog.</description>
+    </item>
+    
+    <item>
+      <title>Eleventy Chirpy Blog Template</title>
+      <link>/theme/eleventy-chirpy-blog-template/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/eleventy-chirpy-blog-template/</guid>
+      <description>Eleventy Chirpy Blog Template Blog template inspired by the Chirpy Jekyll blog theme.</description>
+    </item>
+    
+    <item>
+      <title>Congo</title>
+      <link>/theme/hugo-congo/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-congo/</guid>
+      <description>Congo is designed to be a powerful, lightweight theme for Hugo.</description>
+    </item>
+    
+    <item>
+      <title>React Portfolio Template</title>
+      <link>/theme/react-portfolio-template/</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/react-portfolio-template/</guid>
+      <description>A simple starter kit for Gridsome A simple, modern &amp;amp; minimal Next.</description>
+    </item>
+    
+    <item>
+      <title>GraphCMS Blog</title>
+      <link>/theme/graphcms-blog/</link>
+      <pubDate>Sun, 18 Jul 2021 19:00:00 +0000</pubDate>
+      
+      <guid>/theme/graphcms-blog/</guid>
+      <description>gatsby-starter-graphcms-blog A Gatsby starter for creating a basic blog with GraphCMS</description>
+    </item>
+    
+    <item>
+      <title>GraphCMS eCommerce Storefront</title>
+      <link>/theme/graphcms-commerce/</link>
+      <pubDate>Sun, 18 Jul 2021 19:00:00 +0000</pubDate>
+      
+      <guid>/theme/graphcms-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GraphCMS Marketing Website</title>
+      <link>/theme/graphcms-marketing-website/</link>
+      <pubDate>Sun, 18 Jul 2021 19:00:00 +0000</pubDate>
+      
+      <guid>/theme/graphcms-marketing-website/</guid>
+      <description>reference-marketing-website A Next.js starter for creating a SaaS Marketing Website with GraphCMS</description>
+    </item>
+    
+    <item>
+      <title>Blist</title>
+      <link>/theme/hugo-blist/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-blist/</guid>
+      <description>Blist is a clean and fast blog theme for your Hugo site.</description>
+    </item>
+    
+    <item>
+      <title>Next JS Landing Page Template with Tailwind CSS</title>
+      <link>/theme/nextjs-landing-page-template/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextjs-landing-page-template/</guid>
+      <description>Next JS Landing Page Template Free An open-source and free Next JS Landing Page Template made with React TypeScript and styled with Tailwind CSS.</description>
+    </item>
+    
+    <item>
+      <title>ShowFolio</title>
+      <link>/theme/hugo-showfolio/</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-showfolio/</guid>
+      <description>ShowFolio is a modern portfolio theme for your Hugo site. This is a performance optimized theme for creating a simple yet attractive portfollio website.</description>
+    </item>
+    
+    <item>
+      <title>11ty Landing Page</title>
+      <link>/theme/11ty-landing-page/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-landing-page/</guid>
+      <description>11ty Landing Page A simple landing page starter template built with 11ty and Tailwind CSS.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Landing Page</title>
+      <link>/theme/hugo-landing-page/</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-landing-page/</guid>
+      <description>Hugo Landing Page A simple landing page starter template built with Hugo, Gulp and Tailwind CSS.</description>
+    </item>
+    
+    <item>
+      <title>Cookie</title>
+      <link>/theme/jekyll-cookie/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/jekyll-cookie/</guid>
+      <description>Cookie - a fast and easy to deploy landing website for your next project.</description>
+    </item>
+    
+    <item>
+      <title>ChopChop Shop</title>
+      <link>/theme/commercejs-chopchop-shop/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/commercejs-chopchop-shop/</guid>
+      <description>ChopChop is a beautifully designed, elegantly developed demo store and starter kit with a premium brand that sells fine tools for thoughtful cooks.</description>
+    </item>
+    
+    <item>
+      <title>Next.js Tailwind Starter Blog</title>
+      <link>/theme/nextjs-tailwind-starter-blog/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextjs-tailwind-starter-blog/</guid>
+      <description>Tailwind Nextjs Starter Blog This is a Next.js, Tailwind CSS blogging starter template.</description>
+    </item>
+    
+    <item>
+      <title>Eureka</title>
+      <link>/theme/hugo-eureka/</link>
+      <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/hugo-eureka/</guid>
+      <description>English | 简体中文
+Eureka Eureka is a feature-rich and highly customizable Hugo theme.</description>
+    </item>
+    
+    <item>
+      <title>Nextjs Tailwind CSS TypeScript Starter</title>
+      <link>/theme/nextjs-tailwind-css-typescript-starter/</link>
+      <pubDate>Wed, 11 Nov 2020 10:23:28 +0000</pubDate>
+      
+      <guid>/theme/nextjs-tailwind-css-typescript-starter/</guid>
+      <description>Nextjs Tailwind CSS TypeScript Starter 🚀 Boilerplate and Starter for Next.</description>
+    </item>
+    
+    <item>
+      <title>Next.js Static Blog</title>
+      <link>/theme/next-static-blog/</link>
+      <pubDate>Wed, 28 Oct 2020 17:02:32 +0000</pubDate>
+      
+      <guid>/theme/next-static-blog/</guid>
+      <description>A simple static starter blog with Next.js, Tailwindcss, and Cosmic Headless CMS A statically generated blog built on the React framework Next.</description>
+    </item>
+    
+    <item>
+      <title>Vredeburg</title>
+      <link>/theme/vredeburg/</link>
+      <pubDate>Mon, 12 Oct 2020 00:14:00 +0000</pubDate>
+      
+      <guid>/theme/vredeburg/</guid>
+      <description>Vredeburg A simple starter project to create a blog using Eleventy and Tailwind CSS.</description>
+    </item>
+    
+    <item>
+      <title>Neat Starter</title>
+      <link>/theme/neat-starter/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/neat-starter/</guid>
+      <description>Neat Starter Starter Template for Netlify CMS, Eleventy, Alpine JS &amp;amp; Tailwind CSS</description>
+    </item>
+    
+    <item>
+      <title>11r</title>
+      <link>/theme/11ty-11r/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-11r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Basic Blog</title>
+      <link>/theme/next-basic-blog/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/next-basic-blog/</guid>
+      <description>A simple starter kit for Blog with Nextjs, Tailwindcss, Markdown Files This theme is a lightweight starter kit.</description>
+    </item>
+    
+    <item>
+      <title>Nextjs Starter Blog</title>
+      <link>/theme/nextjs-starter/</link>
+      <pubDate>Sun, 16 Aug 2020 12:37:50 +0000</pubDate>
+      
+      <guid>/theme/nextjs-starter/</guid>
+      <description>Nextjs Starter 🚀 Nextjs Starter is boilerplate code for your blog based on Next.</description>
+    </item>
+    
+    <item>
+      <title>Fundamenty</title>
+      <link>/theme/11ty-fundamenty/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/11ty-fundamenty/</guid>
+      <description>Eleventy Starter Kit. For sites that require multi-language support. Includes integration with common 3rd party services.</description>
+    </item>
+    
+    <item>
+      <title>Gridsome Tailwind CSS Shopify Starter</title>
+      <link>/theme/gridsome-shopify/</link>
+      <pubDate>Fri, 03 Jul 2020 18:24:48 +0000</pubDate>
+      
+      <guid>/theme/gridsome-shopify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleventy Starter Boilerplate</title>
+      <link>/theme/11ty-starter-boilerplate/</link>
+      <pubDate>Sun, 21 Jun 2020 14:48:50 +0000</pubDate>
+      
+      <guid>/theme/11ty-starter-boilerplate/</guid>
+      <description>Eleventy Starter Boilerplate 🚀 Eleventy Starter Boilerplate is production-ready with SEO-friendly for quickly starting a blog.</description>
+    </item>
+    
+    <item>
+      <title>Intro.</title>
+      <link>/theme/gatsby-theme-intro/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-theme-intro/</guid>
+      <description>Intro - Personal branding theme for developers Intro is an open source Gatsby theme built specially for developers.</description>
+    </item>
+    
+    <item>
+      <title>Nextacular</title>
+      <link>/theme/nextacular/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/nextacular/</guid>
+      <description>Quickly launch multi-tenant SaaS apps An open-source starter kit that will help you build full-stack multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features.</description>
+    </item>
+    
+    <item>
+      <title>Airtable listing theme for Gatsby</title>
+      <link>/theme/gatsby-airtable-listing/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-airtable-listing/</guid>
+      <description>Airtable listing theme for Gatsby Features Integration with Airtable Item details displayed in a modal with navigation (previous / next) Responsive/adaptive images via gatsby-image Uses utility-first TailwindCSS framework Responsive design (desktop / mobile) Generic newsletter form </description>
+    </item>
+    
+    <item>
+      <title>Portfolio theme for Gatsby</title>
+      <link>/theme/gatsby-contentful-portfolio/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-contentful-portfolio/</guid>
+      <description>A simple portfolio starter kit for Gatsby, integrated with Contentful Who is this for?</description>
+    </item>
+    
+    <item>
+      <title>Blowfish</title>
+      <link>/theme/blowfish/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/blowfish/</guid>
+      <description>Blowfish Blowfish is designed to be a powerful, lightweight theme for Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Gastby Starter Zenii</title>
+      <link>/theme/gatsby-starter-zenii/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/gatsby-starter-zenii/</guid>
+      <description>A simple one-page theme for Gatsby This theme is a lightweight starter for Gatsby that is built using Tailwindcss and uses Contentful as a CMS backend.</description>
+    </item>
+    
+    <item>
+      <title>Twenty Twentyone</title>
+      <link>/theme/twentytwentyone/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/theme/twentytwentyone/</guid>
+      <description>A simple theme for blogging This is a simple theme for blogging that can be deployed on Netlify with a click of a button.</description>
+    </item>
+    
+    <item>
+      <title>Gatsby Tailwindcss Sass Starter</title>
+      <link>/theme/gatsby-tailwindcss-sass-starter/</link>
+      <pubDate>Wed, 02 Jan 2019 07:24:27 +0000</pubDate>
+      
+      <guid>/theme/gatsby-tailwindcss-sass-starter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gatsby Graphcms Tailwindcss Example</title>
+      <link>/theme/gatsby-graphcms-tailwindcss-example/</link>
+      <pubDate>Wed, 19 Sep 2018 13:00:05 +0000</pubDate>
+      
+      <guid>/theme/gatsby-graphcms-tailwindcss-example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
